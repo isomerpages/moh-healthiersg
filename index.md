@@ -11,12 +11,12 @@ sections:
         - title: What is Healthier SG?
           description: Everything you need to know
           url: /about/
-        - title: Key Features
-          description: What are the 5 key features?
-          url: /key-features
-        - title: White Paper on Healthier SG
-          description: Read the White Paper
-          url: /resources/white-paper
+        - title: Enrolment
+          description: When can I enrol?
+          url: /about/enrolment
+        - title: Benefits
+          description: What are the benefits?
+          url: /about/benefits
         - title: Resources
           description: Videos, infographics
           url: /resource/
