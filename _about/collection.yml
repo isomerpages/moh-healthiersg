@@ -2,4 +2,5 @@ collections:
   about:
     output: true
     order:
+      - Key Features of Healthier SG Strategy.md
       - What is Healthier SG?.md
