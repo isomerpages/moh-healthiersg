@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - Enrolment.md
       - Key Features of Healthier SG Strategy.md
       - What is Healthier SG?.md
