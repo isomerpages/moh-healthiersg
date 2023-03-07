@@ -33,7 +33,7 @@ With Healthier SG, Singaporeans will have:
   
 *  Access to community programmes integrating your daily activities with opportunities for better health.
 
-***To learn more about how the Ministry of Health is empowering healthy lives, read our [MOH Committee of Supply 2023 Booklet](/resources/booklets/cos-2023-booklet/).***
+***To learn more about how the Ministry of Health is empowering Singaporeans to lead healthy lives, read our [MOH Committee of Supply 2023 Booklet](/resources/booklets/cos-2023-booklet/).***
 
 ***For more useful health tips, visit [HealthHub](https://www.healthhub.sg/).***
 
