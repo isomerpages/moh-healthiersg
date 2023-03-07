@@ -40,4 +40,11 @@ sections:
       title: Healthier SG Resources
       subtitle: Resources
       button: View more
+  - infopic:
+      title: Healthier SG Benefits
+      description: What are the resident benefits?
+      button: Find out here
+      url: /about/benefits/
+      image: /images/Enrolment_Benefits/Seniors Health Check.png
+      alt: Healthier SG Benefits
 ---
