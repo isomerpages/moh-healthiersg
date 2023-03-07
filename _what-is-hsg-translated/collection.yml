@@ -2,5 +2,6 @@ collections:
   what-is-hsg-translated:
     output: true
     order:
+      - 什么是健康SG计划？.md
       - ‘மேலும் ஆரோக்கியமான SG’ என்பது என்ன?.md
       - Apa itu SG Yang Lebih Sihat?.md
