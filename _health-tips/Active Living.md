@@ -4,7 +4,7 @@ permalink: /health-tips/active-living/
 description: ""
 ---
 ## Let’s get moving!
-![banner](/images/activebanner.png)
+![banner](/images/Active%20Living/activebanner.png)
 
 It is no secret that regular physical activity can bring about an array of health benefits, from improving your physical and mental health, helping with weight management to keeping diseases away. All you need to do is engage in 150 to 300 minutes of moderate-intensity exercise every week.
 
