@@ -9,23 +9,23 @@ Under Healthier SG, you can enrol with a Healthier SG-registered clinic, and hav
 
 Your Healthier SG family doctor will serve as the first point-of-contact to holistically manage your health.
 
-Here are some tips to help you kickstart, and stay on top of your fitness journey:
+### When can I enrol?
 
+***Pre-enrolment Exercise***
 
+From May 2023, residents with chronic illness, aged 40 and above, and already seeing a Healthier SG-registered General Practitioner (GP) for the care of their chronic condition can pre-enrol. 
 
+If you are already seeing a Healthier SG-registered GP regularly, the GP clinic will be engaging you to pre-enrol onsite at their clinic. 
 
-### Start slow
-![yoga](/images/Active%20Living/1.jpeg)
-When starting an exercise programme, always start slow. Your body needs time to adjust to the increased physical activity, especially if you have not been active. This will help to prevent injuries and the potential onset of muscle soreness. You can subsequently increase the intensity and duration of your activity as your fitness level improves. 
+Healthier SG benefits for pre-enrolled residents will commence from July 2023. 
 
-### Choose a physical activity that interests you
-![box](/images/Active%20Living/2.jpeg)
-Sticking to the same exercise routine may become boring after a while, and may cause you to lose interest in exercising altogether. Try injecting variety into your workout routine by picking up a new sport or activity such as Zumba, kickboxing or yoga. Better yet, get your family and friends to join you in these activities so you can motivate one another. 
-### Incorporate physical activity into your daily routine
-![steps](/images/Active%20Living/3.jpeg)
-It can be challenging for some of us to find the time and motivation to exercise regularly amidst our hectic lifestyles. After all, not everyone can afford to carve out an hour or two to head to the gym. 
+***National Enrolment Programme***
 
-For those of you who are time-starved, consider incorporating physical activity into your daily routine. Heading to work? Alight one or two stops earlier and walk the rest of the way to the office. Watching television? Try doing some jumping jacks or planks while doing so. Over time, these small actions will add up and help you stay active and healthy.
+From July 2023, enrolment at all Healthier SG clinics including the polyclinics will be open to residents aged 60 years and above, and progressively to residents aged 40-59 years, starting with those with chronic illnesses.
+
+All residents eligible for Healthier SG enrolment have the flexibility to choose any Healthier SG-registered clinic using the [HealthHub app](https://www.healthhub.sg/Pages/apps.aspx).
+
+***To find out more about the benefits of Healthier SG, click here.***
 
 ***For more useful health tips, visit [HealthHub](https://www.healthhub.sg/).***
 
