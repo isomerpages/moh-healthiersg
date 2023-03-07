@@ -18,7 +18,7 @@ sections:
           description: What are the benefits?
           url: /about/benefits
         - title: Resources
-          description: Videos, infographics, booklets
+          description: White Paper, videos, infographics
           url: /resource/
       url: /about
       background: /images/final banner.png
