@@ -30,21 +30,21 @@ sections:
       image: /images/Enrolment_Benefits/Seniors Health Check.png
       alt: Healthier SG Enrolment
   - infopic:
+      title: Healthier SG Benefits
+      description: What are the resident benefits?
+      button: Find out here
+      url: /about/benefits/
+      image: /images/Enrolment_Benefits/Seniors Mobile.png
+      alt: Healthier SG Benefits
+  - infopic:
       title: Let's get moving!
       button: read more
       url: /health-tips/active-living
       alt: banner
       subtitle: Health Tips
-      image: /images/Active Living/Active Living Banner.png
+      image: /images/Active Living/activebanner.png
   - resources:
       title: Healthier SG Resources
       subtitle: Resources
       button: View more
-  - infopic:
-      title: Healthier SG Benefits
-      description: What are the resident benefits?
-      button: Find out here
-      url: /about/benefits/
-      image: /images/Enrolment_Benefits/Seniors Health Check.png
-      alt: Healthier SG Benefits
 ---
