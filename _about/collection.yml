@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
+      - What is Healthier SG?.md
+      - Key Features of Healthier SG Strategy.md
       - Benefits.md
       - Enrolment.md
-      - Key Features of Healthier SG Strategy.md
-      - What is Healthier SG?.md
