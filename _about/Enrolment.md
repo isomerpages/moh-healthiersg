@@ -3,8 +3,6 @@ title: Enrolment
 permalink: /about/enrolmet/
 description: ""
 ---
-## Healthier SG Enrolment
-
 Under Healthier SG, you can enrol with a Healthier SG-registered clinic, and have your family doctor support you in developing a dedicated Health Plan with you.
 
 Your Healthier SG family doctor will serve as the first point-of-contact to holistically manage your health.
