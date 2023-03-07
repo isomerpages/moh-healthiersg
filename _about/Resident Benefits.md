@@ -25,8 +25,6 @@ From early 2024, residents under the Chronic Disease Management Programme (CDMP)
 
 ![Seniors Health Check](/images/Enrolment_Benefits/Seniors%20Health%20Check.png)
 
-**
-
 With Healthier SG, Singaporeans will have:
 
 *  A choice in your preferred family clinic that will guide you to stay healthy;
