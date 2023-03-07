@@ -1,9 +1,9 @@
 logo: /images/HSG and Forward SG Lockup.png
 links:
-  - title: What is Healthier SG?
-    url: /about/
+  - title: About Healthier SG
+    collection: about
   - title: Engagement
-    url: /engagementhighlights
+    url: /engagement/
   - title: Health Tips
     collection: health-tips
   - title: Resources

@@ -1,11 +1,13 @@
 ---
 title: MOH Committee of Supply 2022 Booklet
-permalink: /resource/booklet/cos-2022-booklet/
+permalink: /resources/booklets/cos-2022-booklet/
 date: 2022-04-25
 layout: post
 description: ""
 image: /images/Cover.jpg
 ---
+
+
 
 #### Click on the links below to view the booklet:
 

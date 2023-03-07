@@ -1,10 +1,12 @@
 ---
 title: Healthier You with Healthier SG
-permalink: /resource/videos/healthier-you
+permalink: /resources/videos/healthier-you/
 date: 2022-07-14
 layout: post
 description: ""
+image: ""
 ---
+
 #### Healthier You, with Healthier SG (English)
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/NE2-3ym7n5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

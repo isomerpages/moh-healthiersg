@@ -1,10 +1,12 @@
 ---
 title: Heart to Heart Interstitials
-permalink: /resource/videos/heart-to-heart-interstitials
+permalink: /resources/videos/heart-to-heart-interstitials/
 date: 2022-05-18
 layout: post
 description: ""
+image: ""
 ---
+
 #### Heart to Heart with Cheriel Anwar & Dr Jack Tan
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Oxo2DclBY3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
