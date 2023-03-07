@@ -26,7 +26,7 @@ sections:
       title: Healthier SG Enrolment
       description: When can you and your loved ones enrol?
       button: Find out here
-      url: /key-features
+      url: /about/enrolment/
       image: /images/Enrolment_Benefits/Seniors Health Check.png
       alt: Image alt text
   - infopic:
