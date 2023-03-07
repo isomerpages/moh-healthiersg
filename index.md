@@ -28,7 +28,7 @@ sections:
       button: Find out here
       url: /about/enrolment/
       image: /images/Enrolment_Benefits/Seniors Health Check.png
-      alt: Image alt text
+      alt: Healthier SG Enrolment
   - infopic:
       title: Let's get moving!
       button: read more
