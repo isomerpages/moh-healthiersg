@@ -9,6 +9,8 @@ Under Healthier SG, you can enrol with a Healthier SG-registered clinic, and hav
 
 Your Healthier SG family doctor will serve as the first point-of-contact to holistically manage your health.
 
+![Health Check](/images/Enrolment_Benefits/Health%20Check.png)
+
 ### When can I enrol?
 
 ***Pre-enrolment Exercise***
@@ -25,7 +27,9 @@ From July 2023, enrolment at all Healthier SG clinics including the polyclinics 
 
 All residents eligible for Healthier SG enrolment have the flexibility to choose any Healthier SG-registered clinic using the [HealthHub app](https://www.healthhub.sg/Pages/apps.aspx).
 
-***To find out more about the benefits of Healthier SG, click here.***
+![Health Hub Mobile](/images/Enrolment_Benefits/Health%20Hub%20Mobile.png)
+
+***To find out more about the benefits of Healthier SG, click [here](/about/benefits/).***
 
 ***For more useful health tips, visit [HealthHub](https://www.healthhub.sg/).***
 
