@@ -1,5 +1,5 @@
 collections:
-  engagement-sessions:
+  engagement:
     output: true
     order:
       - Highlights from engagement sessions.md
