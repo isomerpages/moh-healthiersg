@@ -23,19 +23,19 @@ sections:
       url: /about
       background: /images/final banner.png
   - infopic:
+      title: Healthier SG Enrolment
+      description: Find out when you and your loved ones can enrol.
+      button: Click here
+      url: /key-features
+      image: /images/Enrolment_Benefits/Seniors Health Check.png
+      alt: Image alt text
+  - infopic:
       title: Let's get moving!
       button: read more
       url: /health-tips/active-living
       alt: banner
       subtitle: Health Tips
-      image: /images/activebanner.png
-  - infopic:
-      title: Key Features of Healthier SG
-      description: Find out more about the 5 key features of Healthier SG.
-      button: Find out more
-      url: /key-features
-      image: /images/Banner.png
-      alt: Image alt text
+      image: /images/Active Living/Active Living Banner.png
   - resources:
       title: Healthier SG Resources
       subtitle: Resources
