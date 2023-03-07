@@ -2,4 +2,5 @@ collections:
   what-is-hsg-translated:
     output: true
     order:
+      - ‘மேலும் ஆரோக்கியமான SG’ என்பது என்ன?.md
       - Apa itu SG Yang Lebih Sihat?.md
