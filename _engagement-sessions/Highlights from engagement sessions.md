@@ -30,7 +30,7 @@ I also keep fit by doing some cycling, stretching, and joining yoga classes orga
   
 Kin Sing was one of the many Singaporeans who attended the second [#HealthierSG](https://www.instagram.com/explore/tags/healthiersg/) engagement session at the National Library on 1 June 2022.
 
-![](/images/Engagement%20Sessions/HSG%20Engagement%20Sessions%204.jpeg))
+![](/images/Engagement%20Sessions/HSG%20Engagement%20Sessions%204.jpeg)
 “This initiative of a health plan is actually really good. It will not just be for me, but for my family as well.  
   
 “I recently went to see my GP to get some advice, as I have been trying to lose weight. With this initiative of a health plan, my family will also be able to benefit from healthier living – from our diet, the exercise programmes we can attend, and so on. So, I support this initiative”, says Sufi Rizzan, when asked about what a health plan means to him.  
