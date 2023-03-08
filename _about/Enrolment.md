@@ -21,7 +21,7 @@ Healthier SG benefits for pre-enrolled residents will commence from July 2023. 
 
 ***National Enrolment Programme***
 
-From July 2023, enrolment at all Healthier SG GP and polyclinics will be open to residents aged 60 years and above, and progressively to residents aged 40-59 years, starting with those with chronic illnesses.
+From July 2023, enrolment at all Healthier SG GP clinics and polyclinics will be open to residents aged 60 years and above, and progressively to residents aged 40-59 years, starting with those with chronic illnesses.
 
 All residents eligible for Healthier SG enrolment have the flexibility to choose any Healthier SG-registered clinic using the [HealthHub app](https://www.healthhub.sg/Pages/apps.aspx).
 
