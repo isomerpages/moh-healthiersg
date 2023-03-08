@@ -3,9 +3,7 @@ title: Enrolment
 permalink: /about/enrolment/
 description: ""
 ---
-
-
-Under Healthier SG, you can enrol with a Healthier SG-registered clinic, and have your family doctor support you in developing a dedicated Health Plan with you.
+Under Healthier SG, you can enrol with a Healthier SG-registered clinic, and your family doctor will develop a dedicated Health Plan with you.
 
 Your Healthier SG family doctor will serve as the first point-of-contact to holistically manage your health.
 
@@ -15,7 +13,7 @@ Your Healthier SG family doctor will serve as the first point-of-contact to holi
 
 ***Pre-enrolment Exercise***
 
-From May 2023, residents with chronic illness, aged 40 and above, and already seeing a Healthier SG-registered General Practitioner (GP) for the care of their chronic condition can pre-enrol. 
+From May 2023, residents aged 40 and above with chronic illness and who are already seeing a Healthier SG-registered General Practitioner (GP) for the care of their chronic condition, can pre-enrol. 
 
 If you are already seeing a Healthier SG-registered GP regularly, the GP clinic will be engaging you to pre-enrol onsite at their clinic. 
 
@@ -23,7 +21,7 @@ Healthier SG benefits for pre-enrolled residents will commence from July 2023. 
 
 ***National Enrolment Programme***
 
-From July 2023, enrolment at all Healthier SG clinics including the polyclinics will be open to residents aged 60 years and above, and progressively to residents aged 40-59 years, starting with those with chronic illnesses.
+From July 2023, enrolment at all Healthier SG GP clinics and polyclinics will be open to residents aged 60 years and above, and progressively to residents aged 40-59 years, starting with those with chronic illnesses.
 
 All residents eligible for Healthier SG enrolment have the flexibility to choose any Healthier SG-registered clinic using the [HealthHub app](https://www.healthhub.sg/Pages/apps.aspx).
 

@@ -21,17 +21,17 @@ From early 2024, CHAS cardholders enrolled to Healthier SG GP clinics with highe
 
 They will also receive subsidies of up to $360 per year for other components of their chronic care, such as consultation and lab tests. 
 
-From early 2024, residents under the Chronic Disease Management Programme (CDMP) can use MediSave to pay fully for their treatment at their Healthier SG clinic, without cash co-payment.
+From early 2024, residents under the Chronic Disease Management Programme (CDMP) can use their MediSave to pay fully for their treatment at their Healthier SG clinic, without cash co-payment.
 
 ![Seniors Health Check](/images/Enrolment_Benefits/Seniors%20Health%20Check.png)
 
 With Healthier SG, Singaporeans will have:
 
-*  A choice in your preferred family clinic that will guide you to stay healthy;
+*  A choice of your preferred family clinic that will guide you to stay healthy;
 
 *  A customised Health Plan and support you to achieve your health goals;
   
-*  Access to community programmes integrating your daily activities with opportunities for better health.
+*  Access to community programmes to help you stay active and healthy.
 
 ***To learn more about how the Ministry of Health is empowering Singaporeans to lead healthy lives, read our [MOH Committee of Supply 2023 Booklet](/resources/booklets/cos-2023-booklet/).***
 

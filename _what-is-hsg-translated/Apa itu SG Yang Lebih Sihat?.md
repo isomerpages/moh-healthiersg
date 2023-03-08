@@ -3,8 +3,7 @@ title: Apa itu SG Yang Lebih Sihat?
 permalink: /about-ml/
 description: ""
 ---
-
-Click here for [English](/about), [Chinese](/about-cn), [Tamil](/about-ta)
+Click here for [English](/about/what-is-healthier-sg/), [Chinese](/about-cn), [Tamil](/about-ta)
 
 **SG Yang Lebih Sihat** akan membantu semua rakyat Singapura berusaha ke arah kesihatan yang lebih baik.
 

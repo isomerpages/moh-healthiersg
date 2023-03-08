@@ -3,10 +3,7 @@ title: 什么是健康SG计划？
 permalink: /about-cn/
 description: ""
 ---
-
-
-
-Click here for [English](/about), [Malay](/about-ml), [Tamil](/about-ta)
+Click here for [English](/about/what-is-healthier-sg/), [Malay](/about-ml), [Tamil](/about-ta)
 
 **健康SG**将协助所有国人采取实际行动以保持和改善健康。
 

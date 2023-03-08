@@ -3,8 +3,6 @@ title: What is Healthier SG?
 permalink: /about/what-is-healthier-sg/
 description: ""
 ---
-
-
 Click here for [Chinese](/about-cn), [Malay](/about-ml), [Tamil](/about-ta)
 
 **Healthier SG** will help all Singaporeans take steps towards better health.  

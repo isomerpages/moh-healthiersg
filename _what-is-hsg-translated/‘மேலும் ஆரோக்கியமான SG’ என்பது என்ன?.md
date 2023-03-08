@@ -3,10 +3,7 @@ title: ‘மேலும் ஆரோக்கியமான SG’ என்�
 permalink: /about-ta/
 description: ""
 ---
-
-
-
-Click here for [English](/about), [Chinese](/about-cn), [Malay](/about-ml)
+Click here for [English](/about/what-is-healthier-sg/), [Chinese](/about-cn), [Malay](/about-ml)
 
 **‘மேலும் ஆரோக்கியமான SG’ (Healthier SG)** திட்டம், மேம்பட்ட ஆரோக்கியத்தை அடைவதற்கான முயற்சியை மேற்கொள்ள அனைத்து சிங்கப்பூரர்களுக்கும் துணைபுரிகிறது.
 
