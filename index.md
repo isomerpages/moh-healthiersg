@@ -21,7 +21,7 @@ sections:
           description: White Paper, videos, infographics
           url: /resource/
       url: /about
-      background: /images/final banner.png
+      background: /images/Miscellaneous/HSG-banner2.jpg
   - infopic:
       title: Healthier SG Enrolment
       description: When can you and your loved ones enrol?
