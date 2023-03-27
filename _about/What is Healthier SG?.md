@@ -5,17 +5,15 @@ description: ""
 ---
 Click here for [Chinese](/about-cn), [Malay](/about-ml), [Tamil](/about-ta)
 
-**Healthier SG** will help all Singaporeans take steps towards better health.  
+**Healthier SG** will help Singaporeans take steps towards better health.  
 
 We have built a good healthcare system in Singapore, but we need to focus on better health and quality of life for everyone. 
 
-With Healthier SG, we will enable all Singaporeans to
+With Healthier SG, Singaporeans will have:
+* A choice of your preferred family clinic that will guide you to stay healthy;
+* A customised Health Plan and support you to achieve your health goals;
+* Access to community programmes to help you stay active and healthy.
 
-a)	Know your chosen family doctor who will provide care for you
-
-b)	Know what preventive care steps you can take to improve your health 
-
-c)	Know that you can take steps for better health any time you want
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/wqA7pO9C80I?start=1348" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
