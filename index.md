@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: What is Healthier SG?
           description: Everything you need to know
-          url: https://www.healthiersg.gov.sg/about/what-is-healthier-sg/
+          url: /about/what-is-healthier-sg/
         - title: Enrolment
           description: When can I enrol?
           url: /about/enrolment
