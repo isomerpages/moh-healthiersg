@@ -3,7 +3,7 @@ title: Accordion Example
 permalink: /accordion/
 description: ""
 ---
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
     <label for="accordion1">Simple</label>
