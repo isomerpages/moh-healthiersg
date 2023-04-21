@@ -119,8 +119,6 @@ for the following purposes:
 
 12.          By enrolling under the Programme, an Enrolee also agrees to the terms of the prevailing privacy policies published on the Healthier SG website, the HealthHub website and the Health Promotion Board website from time to time.  
 
- 
-
 ### **Warranties and liabilities**
 
 13.          An Enrolee represents and warrants that all Enrolee Information provided by him is accurate and true. The Cooperating Parties shall not be liable for any loss or harm that may be suffered by an Enrolee arising out of or in connection with any Enrolee Information that is provided by him which turns out to be inaccurate or false.
