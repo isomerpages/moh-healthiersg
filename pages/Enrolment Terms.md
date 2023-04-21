@@ -4,7 +4,6 @@ permalink: /enrolment-terms/
 description: ""
 ---
 Last updated: 20 Apr 2023
-
  
 ### **Introduction**
 
