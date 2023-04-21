@@ -6,15 +6,15 @@ description: ""
 # Enrolment Terms
 Last updated: XX
 
-## Introduction
-## 
+### Introduction
+
 1.	Healthier SG (the “Programme”) is a multi-year transformation strategy by the Ministry of Health (“MOH”) to shift the focus of Singapore’s healthcare system beyond caring for individuals who are sick, to proactively preventing individuals from falling ill. 
 
 2.	The Programme aims to empower Singapore Citizens and Singapore Permanent Residents who enrol to the Programme (each, an “Enrolee”) to become healthier and improve their quality of life through preventive care, anchored by a strong patient-doctor relationship with a participating primary care provider, and supported by the relevant healthcare cluster. Enrolees may also be granted enhanced access to relevant lifestyle and preventive health programmes. The features of the Programme may be adjusted from time to time to improve the experience and health outcomes for Enrolees. 
 
 3.	Enrolees are bound by and shall comply with the provisions set out below (the “Enrolment Terms”).
 
-## Definitions and Interpretation 
+### Definitions and Interpretation 
 
 4.	Unless the context otherwise requires: 
 
@@ -47,7 +47,7 @@ Last updated: XX
 
 	(7)	references to a person include any individual, company, limited liability partnership, partnership, business trust, unincorporated association or government agency (whether or not having separate legal personality) and include that person’s personal representatives and successors. 
 
-## Enrolment and Benefits
+### Enrolment and Benefits
 
 6.	Under the Programme, an Enrolee will be required to enrol with a Healthier SG Clinic or a polyclinic. In these Enrolment Terms, the Healthier SG Clinic or polyclinic that an Enrolee is enrolled with from time to time shall be referred to as his “Clinic”. At the time of enrolment under the Programme, an Enrolee shall specify the Healthier SG Clinic or polyclinic which he wishes to enrol with. The Enrolee shall be enrolled with that Healthier SG Clinic or polyclinic unless and until (a) the Enrolee applies for a change of his Clinic and MOH approves of such application, or (b) MOH requires the Enrolee to change his Clinic, e.g. if the Clinic has ceased operations. If MOH requires an Enrolee to change his Clinic, that Enrolee shall specify to MOH another Healthier SG Clinic or polyclinic that he would like to enrol with. If MOH approves the Enrolee to enrol with that other Healthier SG Clinic or polyclinic, then from the date of such approval, the Enrolee shall be enrolled with that other Healthier SG Clinic or polyclinic.
 
@@ -73,65 +73,65 @@ Last updated: XX
 
 9.	The Enrolee Benefits and their respective requirements are subject to change at the sole discretion of MOH. 
 
-## Data Sharing and Privacy Policy
+### Data Sharing and Privacy Policy
 
 10.	By enrolling under the Programme, an Enrolee consents to the collection and use of his personal data (including any medical information, any information regarding his eligibility for subsidies that may be derived from financial information, and any information collected prior to the date of his enrolment) (“Enrolee Information”) by the following persons or entities: 
 
-(1)	his Clinic and the persons providing services therein;
+	(1)	his Clinic and the persons providing services therein;
 
-(2)	each Cluster and the corporations deemed to be related to a Cluster pursuant to section 6 of the Companies Act 1967;
+	(2)	each Cluster and the corporations deemed to be related to a Cluster pursuant to section 6 of the Companies Act 1967;
 
-(3)	the Government of the Republic of Singapore;  
+	(3)	the Government of the Republic of Singapore;  
 
-(4)	the statutory boards supporting the Programme (the “Participating Statutory Boards”;
+	(4)	the statutory boards supporting the Programme (the “Participating Statutory Boards”;
 
-(5)	the community partners supporting the Programme, including persons operating Active Ageing Centres, persons participating in MOH’s Primary Care Network scheme, and AIC
+	(5)	the community partners supporting the Programme, including persons operating Active Ageing Centres, persons participating in MOH’s Primary Care Network scheme, and AIC
 
-(6)	any person licensed under the Private Hospitals and Medical Clinics Act 1980 or Healthcare Services Act 2020 that provides healthcare services to that Enrolee; and 
+	(6)	any person licensed under the Private Hospitals and Medical Clinics Act 1980 or Healthcare Services Act 2020 that provides healthcare services to that Enrolee; and 
 
-(7)	the authorised employees, agents and representatives of any person mentioned in any of sub-paragraphs (1) to (6),
-(collectively, the “Cooperating Parties”),
+	(7)	the authorised employees, agents and representatives of any person mentioned in any of sub-paragraphs (1) to (6),
+(collectively, the “**Cooperating Parties**”),
 for the following purposes: 
  
-(A)	verifying and processing the enrolment of that Enrolee under the Programme;
+	(A)	verifying and processing the enrolment of that Enrolee under the Programme;
 
-(B)	reviewing, treating, managing, and coordinating the care for that Enrolee;
+	(B)	reviewing, treating, managing, and coordinating the care for that Enrolee;
 
-(C)	reviewing and developing the Programme (including research studies that are related to the Programme) and contacting that Enrolee in relation to the foregoing;
+	(C)	reviewing and developing the Programme (including research studies that are related to the Programme) and contacting that Enrolee in relation to the foregoing;
 
-(D)	reviewing and developing any other programme or scheme by a Cluster, MOH or a Participating Statutory Board related to the Programme (a “Related Programme or Scheme”);
+	(D)	reviewing and developing any other programme or scheme by a Cluster, MOH or a Participating Statutory Board related to the Programme (a “Related Programme or Scheme”);
 
-(E)	assessing the eligibility of that Enrolee for any Related Programme or Scheme, as well as contacting that Enrolee in relation to such Related Programme or Scheme; 
+	(E)	assessing the eligibility of that Enrolee for any Related Programme or Scheme, as well as contacting that Enrolee in relation to such Related Programme or Scheme; 
 
-(F)	verifying, processing, and auditing any payments made in relation to the Programme in connection with that Enrolee, including any payment made between Cooperating Parties; 
+	(F)	verifying, processing, and auditing any payments made in relation to the Programme in connection with that Enrolee, including any payment made between Cooperating Parties; 
 
-(G)	verifying and auditing the compliance of Cooperating Parties in relation to any agreement entered into between them in connection with the Programme; and
+	(G)	verifying and auditing the compliance of Cooperating Parties in relation to any agreement entered into between them in connection with the Programme; and
 
-(H)	guide policy and planning to improve the overall health of that Enrolee,
+	(H)	guide policy and planning to improve the overall health of that Enrolee,
 
-(collectively, the “Purposes”).
+(collectively, the “**Purpose**s”).
 
 11.	By enrolling under the Programme, an Enrolee further consents to the disclosure of his Enrolee Information by any Cooperating Party to another Cooperating Party for any of the Purposes.
 
 12.	By enrolling under the Programme, an Enrolee also agrees to the terms of the prevailing privacy policies published on the Healthier SG website, the HealthHub website and the Health Promotion Board website from time to time.   
 
-Warranties and liabilities
+### Warranties and liabilities
 
 13.	An Enrolee represents and warrants that all Enrolee Information provided by him is accurate and true. The Cooperating Parties shall not be liable for any loss or harm that may be suffered by an Enrolee arising out of or in connection with any Enrolee Information that is provided by him which turns out to be inaccurate or false.
 
 14.	During his participation in the Programme, an Enrolee may be contacted in relation to a Related Programme or Scheme. Unless expressly provided for, MOH is not liable for any fees or charges that an Enrolee may incur under a Related Programme or Scheme.
 
-Miscellaneous
+### Miscellaneous
 
 15.	MOH may, at any time, change, suspend or discontinue the Programme, or any of these Enrolment Terms, without prior notice and for any reason. 
 
 16.	MOH may, at any time, suspend or terminate an Enrolee’s enrolment under the Programme, without prior notice and for any reason, including but not limited to: 
 
-(1)	a breach of these Enrolment Terms by that Enrolee;
+	(1)	a breach of these Enrolment Terms by that Enrolee;
 
-(2)	that Enrolee’s withdrawal of his consent under Clause 10 or 11 above; and/or
+	(2)	that Enrolee’s withdrawal of his consent under Clause 10 or 11 above; and/or
 
-(3)	that Enrolee opting out of NEHR. 
+	(3)	that Enrolee opting out of NEHR. 
 
 17.	These Enrolment Terms shall be governed and construed in accordance with the laws of the Republic of Singapore and an Enrolee submits to the jurisdiction of the courts of Singapore.
 
