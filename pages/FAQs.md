@@ -63,7 +63,7 @@ This is a simple one line item</p>
   </li>
 </ul>
 
-### Benefits
+### Benefits2
 
 <ul class="jekyllcodex_accordion">
   <li>
