@@ -6,18 +6,26 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">What is Healthier SG?</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Healthier SG is a national initiative to transform Singapore’s healthcare system to have a greater focus on preventive care to help residents stay healthy, detect health issues early and manage them well. Under Healthier SG, residents will be empowered to take steps to improve their health proactively with the support of their trusted family clinic and community partners.</p>
+
+<p>Healthier SG empowers you to take charge of your health and supports you every step of the way. 
+This is a simple one line item</p>
     </div>
 	</li>  
   <li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">How will I know if I am eligible for Healthier SG? </label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+			<p>	Singapore Ccitizens (SC) and Ppermanent Rresidents (PR) can enrol into Healthier SG.</p>
+      <p>From May 2023, residents aged 40 years and above with chronic illness and who are already seeing a Healthier SG-registered GP for the care of their chronic condition can pre-enrol. The Healthier SG GP clinic will be engaging you if you fall under this category.</p>
+
+<p>From July 2023, MOH will progressively invite Singapore Citizens and Permanent Residents aged 60 years and above via SMS to enrol to in a Healthier SG clinic or polyclinic. SMS invitations will also be sent progressively to those aged 40 to 59 years.</p>
+
+<p>The rollout phases will prioritise those who are more likely to need medical care or suffer from chronic illnesses.
+	This is line 2</p>
+     
     </div>
   </li>
   <li>
