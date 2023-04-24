@@ -90,14 +90,13 @@ This is a simple one line item</p>
   </li>
   <li>
     <input id="accordion3" type="checkbox">
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">Will the care provided by different GPs and polyclinics under Healthier SG be the same?</label>
     <div>
-      <p>
-        This is all going
-        to become just one line\\n even though there are multiple lines
-      </p>
-    </div>
-  </li>
+    <p> You can be assured that the level of care you receive will be consistent no matter which doctor you choose to enrol with under Healthier SG. There are standard care protocols to guide our GPs in managing chronic conditions such as diabetes, hypertension and lipid disorders. The protocols will also cover health screenings, medications, lifestyle adjustments, and referrals to specialist and acute care when necessary.</p>
+
+<p>We recommend that you choose a family clinic that is convenient for you and that you are comfortable with.</p>
+
+  </div></li>
   <li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4">Ordered List</label>
