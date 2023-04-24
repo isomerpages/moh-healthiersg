@@ -67,8 +67,8 @@ This is a simple one line item</p>
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">What is Healthier SG?</label>
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">What is Healthier SG?</label>
     <div>
       <p>Healthier SG is a national initiative to transform Singapore’s healthcare system to have a greater focus on preventive care to help residents stay healthy, detect health issues early and manage them well. Under Healthier SG, residents will be empowered to take steps to improve their health proactively with the support of their trusted family clinic and community partners.</p>
 
@@ -77,8 +77,8 @@ This is a simple one line item</p>
     </div>
 	</li>  
   <li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2">How will I know if I am eligible for Healthier SG? </label>
+    <input id="accordion7" type="checkbox">
+    <label for="accordion7">How will I know if I am eligible for Healthier SG? </label>
     <div>
 			<p>	Singapore Ccitizens (SC) and Ppermanent Rresidents (PR) can enrol into Healthier SG.</p>
       <p>From May 2023, residents aged 40 years and above with chronic illness and who are already seeing a Healthier SG-registered GP for the care of their chronic condition can pre-enrol. The Healthier SG GP clinic will be engaging you if you fall under this category.</p>
@@ -89,8 +89,8 @@ This is a simple one line item</p>
      </div>
   </li>
   <li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">Will the care provided by different GPs and polyclinics under Healthier SG be the same?</label>
+    <input id="accordion8" type="checkbox">
+    <label for="accordion8">Will the care provided by different GPs and polyclinics under Healthier SG be the same?</label>
     <div>
     <p> You can be assured that the level of care you receive will be consistent no matter which doctor you choose to enrol with under Healthier SG. There are standard care protocols to guide our GPs in managing chronic conditions such as diabetes, hypertension and lipid disorders. The protocols will also cover health screenings, medications, lifestyle adjustments, and referrals to specialist and acute care when necessary.</p>
 
@@ -98,8 +98,8 @@ This is a simple one line item</p>
 
   </div></li>
   <li>
-    <input id="accordion4" type="checkbox">
-    <label for="accordion4">Ordered List</label>
+    <input id="accordion9" type="checkbox">
+    <label for="accordion9">Ordered List</label>
     <div>
       <ol>
         <li>Item 1</li>
@@ -110,8 +110,8 @@ This is a simple one line item</p>
   </li>
     
   <li>
-    <input id="accordion5" type="checkbox">
-    <label for="accordion5">Unordered List</label>
+    <input id="accordion10" type="checkbox">
+    <label for="accordion10">Unordered List</label>
     <div>
       <ul>
         <li>Item 1</li>
@@ -126,8 +126,8 @@ This is a simple one line item</p>
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">What is Healthier SG?</label>
+    <input id="accordion11" type="checkbox">
+    <label for="accordion11">What is Healthier SG?</label>
     <div>
       <p>Healthier SG is a national initiative to transform Singapore’s healthcare system to have a greater focus on preventive care to help residents stay healthy, detect health issues early and manage them well. Under Healthier SG, residents will be empowered to take steps to improve their health proactively with the support of their trusted family clinic and community partners.</p>
 
@@ -136,8 +136,8 @@ This is a simple one line item</p>
     </div>
 	</li>  
   <li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2">How will I know if I am eligible for Healthier SG? </label>
+    <input id="accordion12" type="checkbox">
+    <label for="accordion12">How will I know if I am eligible for Healthier SG? </label>
     <div>
 			<p>	Singapore Ccitizens (SC) and Ppermanent Rresidents (PR) can enrol into Healthier SG.</p>
       <p>From May 2023, residents aged 40 years and above with chronic illness and who are already seeing a Healthier SG-registered GP for the care of their chronic condition can pre-enrol. The Healthier SG GP clinic will be engaging you if you fall under this category.</p>
@@ -148,8 +148,8 @@ This is a simple one line item</p>
      </div>
   </li>
   <li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">Will the care provided by different GPs and polyclinics under Healthier SG be the same?</label>
+    <input id="accordion13" type="checkbox">
+    <label for="accordion13">Will the care provided by different GPs and polyclinics under Healthier SG be the same?</label>
     <div>
     <p> You can be assured that the level of care you receive will be consistent no matter which doctor you choose to enrol with under Healthier SG. There are standard care protocols to guide our GPs in managing chronic conditions such as diabetes, hypertension and lipid disorders. The protocols will also cover health screenings, medications, lifestyle adjustments, and referrals to specialist and acute care when necessary.</p>
 
@@ -157,8 +157,8 @@ This is a simple one line item</p>
 
   </div></li>
   <li>
-    <input id="accordion4" type="checkbox">
-    <label for="accordion4">Ordered List</label>
+    <input id="accordion14" type="checkbox">
+    <label for="accordion14">Ordered List</label>
     <div>
       <ol>
         <li>Item 1</li>
@@ -169,8 +169,8 @@ This is a simple one line item</p>
   </li>
     
   <li>
-    <input id="accordion5" type="checkbox">
-    <label for="accordion5">Unordered List</label>
+    <input id="accordion15" type="checkbox">
+    <label for="accordion15">Unordered List</label>
     <div>
       <ul>
         <li>Item 1</li>
