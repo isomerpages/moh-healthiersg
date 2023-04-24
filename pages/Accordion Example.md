@@ -23,10 +23,8 @@ This is a simple one line item</p>
 
 <p>From July 2023, MOH will progressively invite Singapore Citizens and Permanent Residents aged 60 years and above via SMS to enrol to in a Healthier SG clinic or polyclinic. SMS invitations will also be sent progressively to those aged 40 to 59 years.</p>
 
-<p>The rollout phases will prioritise those who are more likely to need medical care or suffer from chronic illnesses.
-	This is line 2</p>
-     
-    </div>
+<p>The rollout phases will prioritise those who are more likely to need medical care or suffer from chronic illnesses.</p>
+     </div>
   </li>
   <li>
     <input id="accordion3" type="checkbox">
