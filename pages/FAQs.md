@@ -10,7 +10,7 @@ description: ""
     <input id="accordion1" type="checkbox">
     <label for="accordion1">What is Healthier SG?</label>
     <div>
-      <p>Healthier SG is a national initiative to transform Singapore’s healthcare system to have a greater focus on preventive care to help residents stay healthy, detect health issues early and manage them well. Under Healthier SG, residents will be empowered to take steps to improve their health proactively with the support of their trusted family clinic and community partners.</p>
+			<p><strong>Healthier SG</strong> is a national initiative to transform Singapore’s healthcare system to have a greater focus on preventive care to help residents stay healthy, detect health issues early and manage them well. Under Healthier SG, residents will be empowered to take steps to improve their health proactively with the support of their trusted family clinic and community partners.</p>
 
 <p>Healthier SG empowers you to take charge of your health and supports you every step of the way.</p>
     </div>
@@ -47,11 +47,11 @@ description: ""
     <input id="accordion4" type="checkbox">
     <label for="accordion4">What are the key benefits of Healthier SG?</label>
     <div>
-      <p>Good health is not just about the absence of diseases or illness. It is a state of complete physical, emotional and social well-being.  Having a long-term, trusted relationship with a family clinic allows your doctor to focus more on preventive care to help you stay healthy, detect health issues early and manage them well. 
+      <p>Good health is not just about the absence of diseases or illness. It is a state of complete physical, emotional and social well-being.  Having a long-term, trusted relationship with a family clinic allows your doctor to focus more on preventive care to help you stay healthy, detect health issues early and manage them well.</p>
 
-Healthier SG empowers you to take steps to improve your health proactively with the support of your trusted family clinic and community partners, every step of the way.  
+			<p>Healthier SG empowers you to take steps to improve your health proactively with the support of your trusted family clinic and community partners, every step of the way. </p>
 
-The aim is to help you enjoy: 
+<p>The aim is to help you enjoy: 
 				</p><ul>
 					<li>A higher quality of life for as long as possible;</li>
 					<li>Peace of mind for yourself and loved ones; and</li>
