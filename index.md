@@ -16,7 +16,7 @@ sections:
           url: /about/enrolment
         - title: Clinic Finder
           description: Find a Healthier SG Clinic
-          url: /about/benefits
+          url: https://www.gowhere.gov.sg/
         - title: FAQs
           description: Frequently Asked Questions
           url: /faqs/
