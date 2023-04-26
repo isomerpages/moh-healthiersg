@@ -14,12 +14,12 @@ sections:
         - title: Enrolment
           description: When can I enrol?
           url: /about/enrolment
-        - title: Benefits
-          description: What are the benefits?
+        - title: Clinic Finder
+          description: Find a Healthier SG Clinic
           url: /about/benefits
-        - title: Resources
-          description: White Paper, videos, infographics
-          url: /resource/
+        - title: FAQs
+          description: Frequently Asked Questions
+          url: /faqs/
       url: /about
       background: /images/Miscellaneous/HSG-banner2.jpg
   - infopic:
@@ -36,13 +36,6 @@ sections:
       url: /about/benefits/
       image: /images/Enrolment_Benefits/Seniors Mobile.png
       alt: Healthier SG Benefits
-  - infopic:
-      title: Let's get moving!
-      button: read more
-      url: /health-tips/active-living
-      alt: banner
-      subtitle: Health Tips
-      image: /images/Active Living/activebanner.png
   - resources:
       title: Healthier SG Resources
       subtitle: Resources
