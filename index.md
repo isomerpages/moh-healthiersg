@@ -23,9 +23,9 @@ sections:
       url: /about
       background: /images/Miscellaneous/HSG-banner2.jpg
   - infopic:
-      title: Healthier SG Enrolment
-      description: When can you and your loved ones enrol?
-      button: Find out here
+      title: Pre-Enrolment for 40 and above with chronic illnesses
+      description: Pre-Enrolment for 40 and above with chronic illnesses
+      button: Find out more
       url: /about/enrolment/
       image: /images/Enrolment_Benefits/Seniors Health Check.png
       alt: Healthier SG Enrolment
