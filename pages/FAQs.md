@@ -136,7 +136,7 @@ Can we enrol our caregivers or family members?</label>
     <div>
       <p>You can grant access to your family members or loved ones to assist you with the enrolment by adding them as your caregiver in HealthHub and enabling permission to manage Healthier SG on your behalf. Your caregiver can then add you as a care recipient to view your health records and manage your e-Services on HealthHub.</p>
 
-<strong>If you are a care receiver</strong>
+			<strong><u>If you are a care receiver</u></strong>
 <p>Access the HealthHub app. Go to Health eServices, scroll down and click on 'Grant Access to Your Health Records'.</p>
 <p>Login with your Singpass account and follow the steps required.</p>
 <p>You will be required to enter personal details of your caregiver, such as his or her NRIC number, email address and contact number for verification purposes.</p>
@@ -146,7 +146,7 @@ Can we enrol our caregivers or family members?</label>
 
 <p>Alternatively, you may enrol in Healthier SG through the HealthHub web portal at www.healthhub.sg by logging in with your Singpass, if you do not wish to download the app or do not have access to a smartphone.</p>
 
-<strong>If you are a caregiver</strong>
+			<strong><u>If you are a caregiver</u></strong>
 <p>Access the HealthHub app. Go to Health eServices, scroll to the Family &amp; Friends section and add your care receiver’s profile to your list of care receivers.</p>
 
 <p>Once you have successfully added your care receiver, proceed to the ‘Home’ screen and click on the Healthier SG banner in green. If your care recipient is eligible to enrol in Healthier SG, you will be able to enrol on their behalf.</p>
