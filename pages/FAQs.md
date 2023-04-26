@@ -156,15 +156,7 @@ Can we enrol our caregivers or family members?</label>
     </div>
   </li>
     
-  <li>
-    <input id="accordion11" type="checkbox">
-    <label for="accordion11">Instead of GP clinic, can I enrol with polyclinic?</label>
-    <div>
-      You are strongly advised to enrol with a Healthier SG Clinic to enjoy a long-term trusted relationship with a family doctor who knows you well, and better preventive care and chronic disease management. Healthcare clusters and community partners will work with your family doctor to support your needs.
-    </div>
-  </li>
-
-<li>
+ <li>
     <input id="accordion11" type="checkbox">
     <label for="accordion11">Instead of GP clinic, can I enrol with polyclinic?</label>
     <div>
