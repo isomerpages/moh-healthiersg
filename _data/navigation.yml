@@ -4,6 +4,8 @@ links:
     collection: about
   - title: Engagement
     url: /engagement/highlights/
+  - title: FAQs
+    url: /faqs
   - title: Resources
     resource_room: true
   - title: Forward SG
@@ -12,5 +14,3 @@ links:
     url: https://www.healthhub.sg/
   - title: Healthy 365
     url: https://hpb.gov.sg/healthy-living/healthy-365
-  - title: FAQs
-    url: /faqs
