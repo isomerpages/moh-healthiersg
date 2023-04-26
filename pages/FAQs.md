@@ -30,7 +30,7 @@ description: ""
   </li>
   <li>
     <input id="accordion3" type="checkbox">
-    <label for="accordion3">3. Will the care provided by different GPs and polyclinics under Healthier SG be the same</label>
+    <label for="accordion3">Will the care provided by different GPs and polyclinics under Healthier SG be the same</label>
     <div>
       <p>
         The level of care you receive will be consistent no matter which doctor you choose to enrol with under Healthier SG. There are standard care protocols to guide our GPs in managing chronic conditions such as diabetes, hypertension and lipid disorders. The protocols will also cover health screenings, medications, lifestyle adjustments, and referrals to specialist and acute care when necessary.</p>
@@ -75,49 +75,27 @@ Benefits after enrolment include:
   </li>
   <li>
     <input id="accordion6" type="checkbox">
-    <label for="accordion6">Will the care provided by different GPs and polyclinics under Healthier SG be the same?</label>
+    <label for="accordion6">Can my family doctor refer me for specialist care? Will referrals made under Healthier SG be subsidised at Specialist Outpatient Centre (SOC) rates, similar to those referred by polyclinics?</label>
     <div>
-    <p> You can be assured that the level of care you receive will be consistent no matter which doctor you choose to enrol with under Healthier SG. There are standard care protocols to guide our GPs in managing chronic conditions such as diabetes, hypertension and lipid disorders. The protocols will also cover health screenings, medications, lifestyle adjustments, and referrals to specialist and acute care when necessary.</p>
+    <p>Yes, your family doctor can refer you for specialist care if it is clinically appropriate. Your doctor (or the care team) will discuss with you prior to making any referral for specialist care. </p>
+ 
+<p>Singapore Citizens may be referred during their subsidised visits to GP clinics (e.g. under CHAS, SFL, VCDSS) to public SOC for subsidised care. You will be considered as a subsidised patient and will receive care from a team of doctors/dentists.  Patients who wish to choose a specific doctor will have to pay private rates.  </p>
 
-<p>We recommend that you choose a family clinic that is convenient for you and that you are comfortable with.</p>
+<p>For more information on SOC subsidies, please visit the MOH website or check directly with your CHAS GP or the public SOC.
+</p>
 
-  </div></li>
-  <li>
-    <input id="accordion9" type="checkbox">
-    <label for="accordion9">Ordered List</label>
-    <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ol>
-    </div>
-  </li>
-    
-  <li>
-    <input id="accordion10" type="checkbox">
-    <label for="accordion10">Unordered List</label>
-    <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
-    </div>
-  </li>
-</ul>
+  </div></li></ul>
 
 ### Pre-Enrolment &amp; Enrolment
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion11" type="checkbox">
-    <label for="accordion11">What is Healthier SG?</label>
+    <input id="accordion7" type="checkbox"><label for="accordion7">When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
     <div>
-      <p>Healthier SG is a national initiative to transform Singapore’s healthcare system to have a greater focus on preventive care to help residents stay healthy, detect health issues early and manage them well. Under Healthier SG, residents will be empowered to take steps to improve their health proactively with the support of their trusted family clinic and community partners.</p>
+      <p>Healthier SG will be rolled out progressively in phases from July 2023 onwards. Although enrolment is not compulsory, we strongly encourage you to enrol in Healthier SG.  Having a long-term, trusted relationship with a family clinic allows you to stay healthy, detect health issues early and manage them well, supported by your family doctor.</p>
 
-<p>Healthier SG empowers you to take charge of your health and supports you every step of the way. 
-This is a simple one line item</p>
+<p>Besides enjoying enhanced healthcare and subsidies, and holistic team-based care from your family clinic, you will also be able to prevent chronic conditions and complications while experiencing peace of mind for yourself and loved ones.
+</p>
     </div>
 	</li>  
   <li>
