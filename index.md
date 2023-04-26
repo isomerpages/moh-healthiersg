@@ -24,7 +24,9 @@ sections:
       background: /images/Miscellaneous/HSG-banner2.jpg
   - infopic:
       title: Pre-Enrolment for 40 and above with chronic illnesses
-      description: Pre-Enrolment for 40 and above with chronic illnesses
+      description: Residents aged 40 and above with chronic illness and who are
+        already seeing a Healthier SG-registered GP will be notified by their
+        clinic to pre-enrol.
       button: Find out more
       url: /about/enrolment/
       image: /images/Enrolment_Benefits/Seniors Health Check.png
