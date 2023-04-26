@@ -70,7 +70,8 @@ Benefits after enrolment include:
     <input id="accordion5" type="checkbox">
     <label for="accordion5">Do I need to be a CHAS cardholder to enjoy the New HSG Chronic Tier under Healthier SG from 2024?</label>
     <div>
-			<p>	Yes, you need to be a CHAS member. Pioneer Generation (PG)/ Merdeka Generation (MG) cardholders should consider becoming a CHAS member to fully enjoy the New CHAS subsidy tier under Healthier SG. You can sign up at [www.chas.sg](www.chas.sg)</p>
+			<p>	Yes, you need to be a CHAS member. Pioneer Generation (PG)/ Merdeka Generation (MG) cardholders should consider becoming a CHAS member to fully enjoy the New CHAS subsidy tier under Healthier SG. You can sign up at 
+				<a href="https://www.chas.sg">www.chas.sg</a></p>
      </div>
   </li>
   <li>
