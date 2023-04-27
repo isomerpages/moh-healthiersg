@@ -16,7 +16,7 @@ sections:
           url: /about/enrolment
         - title: Benefits of enrolment to HEALTHIER SG
           description: What are the benefits?
-          url: https://www.gowhere.gov.sg/
+          url: /about/benefits/
         - title: FAQs
           description: Frequently Asked Questions
           url: /faqs/
