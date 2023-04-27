@@ -14,7 +14,7 @@ sections:
         - title: Enrolment
           description: When can I enrol?
           url: /about/enrolment
-        - title: Benefits of enrolment to HEALTHIER SG
+        - title: Benefits of enrolment
           description: What are the benefits?
           url: /about/benefits/
         - title: FAQs
