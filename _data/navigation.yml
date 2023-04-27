@@ -6,9 +6,9 @@ links:
     url: /faqs
   - title: Resources
     resource_room: true
-  - title: Forward SG
-    url: https://www.sg/forwardsg
   - title: HealthHub
     url: https://www.healthhub.sg/
   - title: Healthy 365
     url: https://hpb.gov.sg/healthy-living/healthy-365
+  - title: Forward SG
+    url: https://www.sg/forwardsg
