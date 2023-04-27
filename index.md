@@ -14,8 +14,8 @@ sections:
         - title: Enrolment
           description: When can I enrol?
           url: /about/enrolment
-        - title: Clinic Finder
-          description: Find a Healthier SG Clinic
+        - title: Benefits of enrolment to HEALTHIER SG
+          description: What are the benefits?
           url: https://www.gowhere.gov.sg/
         - title: FAQs
           description: Frequently Asked Questions
