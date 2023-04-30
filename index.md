@@ -14,18 +14,20 @@ sections:
         - title: Enrolment
           description: When can I enrol?
           url: /about/enrolment
-        - title: Benefits
+        - title: Benefits of enrolment
           description: What are the benefits?
-          url: /about/benefits
-        - title: Resources
-          description: White Paper, videos, infographics
-          url: /resource/
+          url: /about/benefits/
+        - title: FAQs
+          description: Frequently Asked Questions
+          url: /faqs/
       url: /about
       background: /images/Miscellaneous/HSG-banner2.jpg
   - infopic:
-      title: Healthier SG Enrolment
-      description: When can you and your loved ones enrol?
-      button: Find out here
+      title: Pre-Enrolment for 40 and above with chronic illnesses
+      description: Residents aged 40 and above with chronic illness and who are
+        already seeing a Healthier SG-registered GP will be notified by their
+        clinic to pre-enrol.
+      button: Find out more
       url: /about/enrolment/
       image: /images/Enrolment_Benefits/Seniors Health Check.png
       alt: Healthier SG Enrolment
@@ -36,13 +38,6 @@ sections:
       url: /about/benefits/
       image: /images/Enrolment_Benefits/Seniors Mobile.png
       alt: Healthier SG Benefits
-  - infopic:
-      title: Let's get moving!
-      button: read more
-      url: /health-tips/active-living
-      alt: banner
-      subtitle: Health Tips
-      image: /images/Active Living/activebanner.png
   - resources:
       title: Healthier SG Resources
       subtitle: Resources

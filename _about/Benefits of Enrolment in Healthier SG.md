@@ -1,9 +1,8 @@
 ---
-title: Resident's Benefits
+title: Benefits of Enrolment in Healthier SG
 permalink: /about/benefits/
 description: ""
 ---
-
 ### What benefits can I enjoy from Healthier SG?
 
 Upon successful enrolment, your first Health Plan consultation with your chosen clinic will be free. 
