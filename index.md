@@ -42,4 +42,13 @@ sections:
       title: Healthier SG Resources
       subtitle: Resources
       button: View more
+  - infopic:
+      title: How can I tell if my Healthier SG SMS is not a scam?
+      description: The SMS(es) from MOH’s Healthier SG will show a registered sender
+        ID “MOH-HSG”. Read our FAQs to learn how to verify the authenticity of
+        the SMS(es).
+      button: Read the FAQs
+      url: /faqs
+      image: /images/textmessage.jpg
+      alt: Image alt text
 ---
