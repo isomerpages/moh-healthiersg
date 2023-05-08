@@ -103,7 +103,7 @@ Benefits after enrolment include:
 <p>We are aware of calls falsely informing recipients that they are from MOH, requesting for your personal or financial information over the phone. Please always verify the authenticity of instructions before offering any personal information.  You can also call the MOH Hotline at 6325 9220 if you have any enquiries.</p>
 			
 			<img alt="alternatetext" src="/images/hsg-sms.png">
-			![sms](/images/hsg-sms.png)</div>
+</div>
   </li>
   <li>
     <input id="accordion8" type="checkbox"><label for="accordion8">When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
