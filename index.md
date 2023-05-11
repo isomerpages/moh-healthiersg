@@ -23,6 +23,15 @@ sections:
       url: /about
       background: /images/Miscellaneous/HSG-banner2.jpg
   - infopic:
+      title: How can I tell if my Healthier SG SMS is not a scam?
+      description: The SMS(es) from MOH’s Healthier SG will show a registered sender
+        ID “MOH-HSG”. Read our FAQs to learn how to verify the authenticity of
+        the SMS(es).
+      button: Read the FAQs
+      url: /faqs
+      image: /images/textmessage.jpg
+      alt: Image alt text
+  - infopic:
       title: Pre-Enrolment for 40 and above with chronic illnesses
       description: Residents aged 40 and above with chronic illness and who are
         already seeing a Healthier SG-registered GP will be notified by their

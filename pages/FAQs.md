@@ -90,18 +90,9 @@ Benefits after enrolment include:
 ### Pre-Enrolment &amp; Enrolment
 
 <ul class="jekyllcodex_accordion">
-  <li>
-    <input id="accordion7" type="checkbox"><label for="accordion7">When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
-    <div>
-      <p>Healthier SG will be rolled out progressively in phases from July 2023 onwards. Although enrolment is not compulsory, we strongly encourage you to enrol in Healthier SG.  Having a long-term, trusted relationship with a family clinic allows you to stay healthy, detect health issues early and manage them well, supported by your family doctor.</p>
-
-<p>Besides enjoying enhanced healthcare and subsidies, and holistic team-based care from your family clinic, you will also be able to prevent chronic conditions and complications while experiencing peace of mind for yourself and loved ones.
-</p>
-    </div>
-	</li>  
-  <li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">How can I tell if my Healthier SG SMS is not a scam?</label>
+	<li>
+    <input id="accordion7" type="checkbox">
+    <label for="accordion7">How can I tell if my Healthier SG SMS is not a scam?</label>
     <div>
 			<p>The SMS(es) from MOH’s Healthier SG will show a registered sender ID “<strong>MOH-HSG</strong>”. Do check that it is:
 </p><ul>
@@ -109,8 +100,20 @@ Benefits after enrolment include:
 	<li>case sensitive; and</li>
 	<li>there are no spaces in between.</li></ul>
 
-<p>We are aware of calls falsely informing recipients that they are from MOH, requesting for your personal or financial information over the phone. Please always verify the authenticity of instructions before offering any personal information.  You can also call the MOH Hotline at 6325 9220 if you have any enquiries.</p></div>
+<p>We are aware of calls falsely informing recipients that they are from MOH, requesting for your personal or financial information over the phone. Please always verify the authenticity of instructions before offering any personal information.  You can also call the MOH Hotline at 6325 9220 if you have any enquiries.</p>
+			<img alt="scam advisory" src="/images/hsg-sms2.png">
+</div>
   </li>
+  <li>
+    <input id="accordion8" type="checkbox"><label for="accordion8">When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
+    <div>
+      <p>Healthier SG will be rolled out progressively in phases from July 2023 onwards. Although enrolment is not compulsory, we strongly encourage you to enrol in Healthier SG.  Having a long-term, trusted relationship with a family clinic allows you to stay healthy, detect health issues early and manage them well, supported by your family doctor.</p>
+
+<p>Besides enjoying enhanced healthcare and subsidies, and holistic team-based care from your family clinic, you will also be able to prevent chronic conditions and complications while experiencing peace of mind for yourself and loved ones.
+</p>
+    </div>
+	</li>  
+  
   <li>
     <input id="accordion9" type="checkbox">
     <label for="accordion9">Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
