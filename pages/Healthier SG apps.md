@@ -22,3 +22,5 @@ lifestyle programmes. The Healthy 365 app also allows you to:
 * Track your physical activity and diet
 * Earn Healthpoints by staying active
 * Redeem Healthpoints ith a catalogue of lifestyle rewards
+
+![https://go.gov.sg/downloadhealthy365](/images/download_healthy365.png)
