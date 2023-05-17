@@ -5,7 +5,7 @@ description: Healthier SG apps
 ---
 **HealthHub**
 
-Download the [HealthHub app](https://for.sg/hh-hsg) to manage your personal and loved ones' health, all in one place. The HealthHub app also allows you to:
+Download the [HealthHub app](https://for.sg/hh-hsg) today to:
 * Enrol to Healthier SG and choose your preferred clinic
 * Schedule your appointments
 * Access your personalised Health Plan
@@ -16,8 +16,7 @@ Download the [HealthHub app](https://for.sg/hh-hsg) to manage your personal and 
 
 **Healthy 365**
 
-Download the [Healthy 365 app](https://go.gov.sg/downloadhealthy365) to explore healthy
-lifestyle programmes. The Healthy 365 app also allows you to:
+Download the [Healthy 365 app](https://go.gov.sg/downloadhealthy365) to:
 * Register for healthy lifestyle programmes and activities near you
 * Track your physical activity and diet
 * Earn Healthpoints by staying active
