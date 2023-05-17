@@ -12,7 +12,9 @@ Download the [HealthHub app](https://for.sg/hh-hsg) to:
 * View records of your health screenings and immunisations
 * Keep track of your health goals
 
-![https://for.sg/hh-hsg](/images/download_healthhub.png)
+![](/images/healthhub.png)
+
+
 
 ### Healthy 365
 
@@ -22,4 +24,4 @@ Download the [Healthy 365 app](https://go.gov.sg/downloadhealthy365) to:
 * Earn Healthpoints by staying active
 * Redeem Healthpoints with a catalogue of lifestyle rewards
 
-![](/images/download_healthy365.png)
+![](/images/healthy365.png)
