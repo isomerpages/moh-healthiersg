@@ -5,7 +5,7 @@ description: Healthier SG apps
 ---
 **HealthHub**
 
-Download the [HealthHub app](https://for.sg/hh-hsg) today to:
+Download the [HealthHub app](https://for.sg/hh-hsg) to:
 * Enrol to Healthier SG and choose your preferred clinic
 * Schedule your appointments
 * Access your personalised Health Plan
