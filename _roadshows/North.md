@@ -29,8 +29,8 @@ description: ""
 </div>
   </li>
   <li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">Zone Brochures</label>
+<input id="accordion3" type="checkbox">
+    <label for="accordion3">Event Detailss</label>
     <div>
       <p>
         The level of care you receive will be consistent no matter which doctor you choose to enrol with under Healthier SG. There are standard care protocols to guide our GPs in managing chronic conditions such as diabetes, hypertension and lipid disorders. The protocols will also cover health screenings, medications, lifestyle adjustments, and referrals to specialist and acute care when necessary.</p>
