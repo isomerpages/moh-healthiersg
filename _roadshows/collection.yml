@@ -2,7 +2,7 @@ collections:
   roadshows:
     output: true
     order:
-      - North.md
+      - "Healthier SG Roadshows: North.md"
       - South.md
       - East.md
       - West.md
