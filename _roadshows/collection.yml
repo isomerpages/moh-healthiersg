@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - "Roadshows: North.md"
-      - South.md
+      - "Roadshows: South.md"
       - East.md
       - West.md
