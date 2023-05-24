@@ -4,5 +4,5 @@ collections:
     order:
       - "Roadshows: North.md"
       - "Roadshows: South.md"
-      - East.md
+      - "Roadshows: East.md"
       - West.md
