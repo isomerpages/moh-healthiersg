@@ -67,20 +67,6 @@ description: ""
     <input id="accordion6" type="checkbox">
     <label for="accordion6">Zone Brochures</label>
     <div>
-     <p>The level of care you receive will be consistent no matter which doctor you choose to enrol with under Healthier SG. There are standard care protocols to guide our GPs in managing chronic conditions such as diabetes, hypertension and lipid disorders. The protocols will also cover health screenings, medications, lifestyle adjustments, and referrals to specialist and acute care when necessary.</p>
-    </div>
-  </li>
-	<li>
-    <input id="accordion7" type="checkbox">
-    <label for="accordion7">est</label>
-    <div>
-		<p>	Singapore Citizens (SC) and Permanent Residents (PR) can enrol in Healthier SG.</p>
-
-<p>From May 2023, residents aged 40 years and above with chronic illness and who are already seeing a Healthier SG-registered GP for the care of their chronic condition can pre-enrol. The Healthier SG GP clinic will be engaging you if you fall under this category.</p>
-
-<p>From July 2023, MOH will progressively invite Singapore Citizens and Permanent Residents aged 60 years and above via SMS to enrol with a Healthier SG clinic or polyclinic. SMS invitations will also be sent progressively to those aged 40 to 59 years.</p>
-
-<p>The rollout phases will prioritise those who are more likely to need medical care or suffer from chronic illnesses.</p>
-</div>
+     <p>The level of care you receive will be consistent no matter which doctor you choose to enrol with under Healthier SG. There are standard care protocols to guide our GPs in managing chronic conditions such as diabetes, hypertension and lipid disorders. The protocols will also cover health screenings, medications, lifestyle adjustments, and referrals to specialist and acute care when necessary.</p></div>
   </li>
 </ul>
