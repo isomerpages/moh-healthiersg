@@ -107,6 +107,29 @@ description: ""
 </ul>
 
 ### 26-27 Aug: HDB Hub
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion1" type="checkbox">
+    <label for="accordion1">Event Details</label>
+    <div>
+			<p>test</p>
+    </div>
+	</li>  
+  <li>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">Programme Schedule</label>
+    <div>
+		<p>	test</p>
+</div>
+  </li>
+  <li>
+<input id="accordion3" type="checkbox">
+		<label for="accordion3">Zone Brochures</label>
+		<div>
+		<p>test</p>
+</div>
+  </li>
+</ul>
 ### 9-10 Sep: Paya Lebar Kovan Interchange
 
 <ul class="jekyllcodex_accordion">
