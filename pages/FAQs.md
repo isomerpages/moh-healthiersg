@@ -67,34 +67,21 @@ Benefits after enrolment include:
 	
 ### Enrolment
 	
-	
+<ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion5" type="checkbox">
-    <label for="accordion5">Do I need to be a CHAS cardholder to enjoy the New HSG Chronic Tier under Healthier SG from 2024?</label>
+    <label for="accordion5">When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
     <div>
-			<p>	Yes, you need to be a CHAS member. Pioneer Generation (PG)/ Merdeka Generation (MG) cardholders should consider becoming a CHAS member to fully enjoy the New CHAS subsidy tier under Healthier SG. You can sign up at 
-				<a href="https://www.chas.sg">www.chas.sg</a></p>
+			<p>Healthier SG will be rolled out progressively in phases from July 2023 onwards. Although enrolment is not compulsory, we strongly encourage you to enrol in Healthier SG. Having a long-term, trusted relationship with a family clinic allows you to stay healthy, detect health issues early and manage them well, supported by your preferred family clinic.</p>
+
+<p>Besides enjoying enhanced healthcare and subsidies, and holistic team-based care from your family clinic, you will also be able to prevent chronic conditions and complications while experiencing peace of mind for yourself and loved ones.</p>
      </div>
   </li>
   <li>
     <input id="accordion6" type="checkbox">
-    <label for="accordion6">Can my family doctor refer me for specialist care? Will referrals made under Healthier SG be subsidised at Specialist Outpatient Centre (SOC) rates, similar to those referred by polyclinics?</label>
+    <label for="accordion6">6. How can I tell if my Healthier SG SMS is not a scam?</label>
     <div>
-    <p>Yes, your family doctor can refer you for specialist care if it is clinically appropriate. Your doctor (or the care team) will discuss with you prior to making any referral for specialist care. </p>
- 
-<p>Singapore Citizens may be referred during their subsidised visits to GP clinics (e.g. under CHAS, SFL, VCDSS) to public SOC for subsidised care. You will be considered as a subsidised patient and will receive care from a team of doctors/dentists.  Patients who wish to choose a specific doctor will have to pay private rates.  </p>
-
-<p>For more information on SOC subsidies, please visit the MOH website or check directly with your CHAS GP or the public SOC.
-</p>
-
-  </div></li>
-
-<ul class="jekyllcodex_accordion">
-	<li>
-    <input id="accordion7" type="checkbox">
-    <label for="accordion7">How can I tell if my Healthier SG SMS is not a scam?</label>
-    <div>
-			<p>The SMS(es) from MOH’s Healthier SG will show a registered sender ID “<strong>MOH-HSG</strong>”. Do check that it is:
+    <p>The SMS(es) from MOH’s Healthier SG will show a registered sender ID “<strong>MOH-HSG</strong>”. Do check that it is:
 </p><ul>
 	<li>spelled the same way;</li>
 	<li>case sensitive; and</li>
@@ -102,21 +89,35 @@ Benefits after enrolment include:
 
 <p>We are aware of calls falsely informing recipients that they are from MOH, requesting for your personal or financial information over the phone. Please always verify the authenticity of instructions before offering any personal information.  You can also call the MOH Hotline at 6325 9220 if you have any enquiries.</p>
 			<img alt="scam advisory" src="/images/hsg-sms2.png">
+
+  </div></li>
+
+<ul class="jekyllcodex_accordion">
+	<li>
+    <input id="accordion7" type="checkbox">
+    <label for="accordion7">Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
+    <div>
+			<p>Our population is ageing rapidly with older age groups more susceptible to co-morbidities and chronic illnesses. As such, Healthier SG enrolment will focus on those aged 40 and above to proactively prevent them from falling ill and delay the deterioration of health. We will consider further expansions after the roll-out has stabilised.</p>
+
+<p>Pre-enrolment will begin in May 2023 for residents aged 40 and above with chronic illnesses and who are already seeing a Healthier SG GP. This will be followed by registration for residents aged 60 and above from July 2023. </p>
+
+<p>In the meantime, all residents should continue to stay active and live healthily. There are a variety of community programmes available, including: </p><ul>
+			<li>People’s Association (PA) activities</li>
+			<li>SportSG ActiveHealth programmes</li>
+<li>Health Promotion Board’s (HPB) National Steps Challenge and Eat, Drink, Shop Healthy Challenge</li></ul><p></p>
+
 </div>
   </li>
   <li>
-    <input id="accordion8" type="checkbox"><label for="accordion8">When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
+    <input id="accordion8" type="checkbox"><label for="accordion8">Can I enrol with a polyclinic instead of a GP clinic?</label>
     <div>
-      <p>Healthier SG will be rolled out progressively in phases from July 2023 onwards. Although enrolment is not compulsory, we strongly encourage you to enrol in Healthier SG.  Having a long-term, trusted relationship with a family clinic allows you to stay healthy, detect health issues early and manage them well, supported by your family doctor.</p>
-
-<p>Besides enjoying enhanced healthcare and subsidies, and holistic team-based care from your family clinic, you will also be able to prevent chronic conditions and complications while experiencing peace of mind for yourself and loved ones.
-</p>
+      <p>The care provided at the polyclinics and GP clinics are both guided by the same care protocols. You are strongly advised to enrol with a GP clinic where you would be more likely to see the same doctor for each visit. By seeing the same doctor each time, you can develop and enjoy a long-term trusted relationship with a doctor who knows you well. Healthcare clusters and community partners will work with your chosen clinic to support your needs. Do continue to follow up with your GP if you have been seeing the GP clinic previously.</p>
     </div>
 	</li>  
   
   <li>
     <input id="accordion9" type="checkbox">
-    <label for="accordion9">Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
+    <label for="accordion9">Will I be allowed to change the GP / polyclinic after I have successfully enrolled with Healthier SG?</label>
     <div>
     <p> Our population is ageing rapidly with older age groups more susceptible to co-morbidities and chronic illnesses. As such, Healthier SG enrolment will focus on those aged 40 and above to proactively prevent them from falling ill and delay the deterioration of health. We will consider further expansions after the roll-out has stabilised.</p>
 
@@ -244,4 +245,4 @@ Can we enrol our caregivers or family members?</label>
 </p>
     </div>
   </li>
-</ul>
+</ul></ul>
