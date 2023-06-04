@@ -91,8 +91,6 @@ Benefits after enrolment include:
 			<img alt="scam advisory" src="/images/hsg-sms2.png">
 
   </div></li>
-
-<ul class="jekyllcodex_accordion">
 	<li>
     <input id="accordion7" type="checkbox">
     <label for="accordion7">Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
@@ -129,7 +127,7 @@ Benefits after enrolment include:
   </div></li>
   <li>
     <input id="accordion10" type="checkbox">
-    <label for="accordion10">10. I have been seeing various doctors at GP clinics as well as the polyclinic.
+    <label for="accordion10">I have been seeing various doctors at GP clinics as well as the polyclinic.
 Which doctor should I enrol with, and can I continue to see multiple doctors after the enrolment?</label>
     <div>
       <p>If you are already visiting a regular Healthier SG GP clinic, you are encouraged to stay to develop and enjoy a long-term trusted relationship with a doctor who knows you well. </p>
@@ -139,7 +137,7 @@ Which doctor should I enrol with, and can I continue to see multiple doctors aft
     
  <li>
     <input id="accordion11" type="checkbox">
-    <label for="accordion11">11. Why can’t I find my Healthier SG clinic of choice? 
+    <label for="accordion11">Why can’t I find my Healthier SG clinic of choice? 
 What do I do if my existing General Practitioner (GP) is not a Healthier SG clinic?</label>
     <div>
       <p>For Healthier SG, residents can enrol only with a clinic that is participating in Healthier SG. GP clinics that are not Healthier SG will not be available for selection. </p>
@@ -154,7 +152,7 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 
 <li>
     <input id="accordion12" type="checkbox">
-    <label for="accordion12">12. Why do I need to visit the clinic after enrolment? What can I expect at this first Health Plan consultation session?
+    <label for="accordion12">Why do I need to visit the clinic after enrolment? What can I expect at this first Health Plan consultation session?
 </label>
     <div>
       <p>During the Health Plan consultation at your enrolled Healthier SG clinic, the doctor will discuss your health, and co-create a Health Plan that works for you. This could include:
@@ -172,7 +170,7 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 
 <li>
     <input id="accordion13" type="checkbox">
-    <label for="accordion13">13. What happens if I need to see the doctor for my illness during the same visit for my first Health Plan discussion? Do I still need to pay?</label>
+    <label for="accordion13">What happens if I need to see the doctor for my illness during the same visit for my first Health Plan discussion? Do I still need to pay?</label>
     <div>
       <p>The first Health Plan discussion is fully subsidised, and you do not need to pay for the discussion. If you are seeing the doctor for your first Health Plan discussion and for other illnesses, please check with the clinic whether there are charges for consultation/treatment unrelated to Healthier SG.</p>
     </div>
@@ -188,7 +186,7 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 
 <li>
     <input id="accordion15" type="checkbox">
-    <label for="accordion15">15. If I have a company doctor and/or any other healthcare insurance plans, can I still enrol with a Healthier SG clinic?</label>
+    <label for="accordion15">If I have a company doctor and/or any other healthcare insurance plans, can I still enrol with a Healthier SG clinic?</label>
     <div>
      <p>Your existing health benefits and insurance coverage (e.g., provided by your employer) can co-exist with Healthier SG. MOH encourages employers and insurers to support their panel of clinics to join Healthier SG, so that their employees/clients can tap on medical benefits from employers/insurers and also be supported by the Healthier SG clinic they enrol with for more personalised and comprehensive care offerings.</p>
     </div>
@@ -196,7 +194,7 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 
 <li>
     <input id="accordion16" type="checkbox">
-    <label for="accordion16">16. Do I have the flexibility to choose a preferred clinic near my residence or workplace?</label>
+    <label for="accordion16">Do I have the flexibility to choose a preferred clinic near my residence or workplace?</label>
     <div>
       <p>Residents can choose any clinic that is participating in Healthier SG. This can be a clinic located near your home or workplace or a clinic that you have visited for many years. </p>
 
@@ -205,4 +203,49 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 <p>Through HealthHub, you will first see up to three clinics which you frequently visit but you can also use the search bar which allows you to choose a family clinic of your preference that is not on the displayed list.</p>
     </div>
   </li>
-</ul></ul>
+</ul>
+
+### Health Plan
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion17" type="checkbox">
+    <label for="accordion17">What do I need to bring along for my first visit?</label>
+    <div>
+			<p>Do bring along:</p><ul>
+<li>your NRIC to your Healthier SG clinic for verification purposes; and</li>
+<li>your Pioneer Generation/Merdeka Generation and/or Community Health Assist Scheme (CHAS) cards to enjoy the enhanced CHAS subsidies under Healthier SG (effective only from early 2024).</li></ul><p></p>
+
+<p>You are strongly encouraged to:</p><ul>
+<li>bring along prior relevant health screenings, test result and immunisation records (local or overseas) to share with your doctor; and</li>
+<li>inform your family clinic of your current medications, therapy, or any other medical concerns.</li></ul>
+<p></p>
+    </div>
+	</li> 
+
+  <li>
+    <input id="accordion18" type="checkbox">
+    <label for="accordion18">How often will my Health Plan be reviewed?</label>
+    <div>
+			<p>Your family clinic will have an annual check-in with you based on your Health Plan and to discuss any changes or next steps you wish to take. </p>
+
+<p>If you have chronic conditions, you can expect to have more frequent check-ins with your family clinic as guided by the care protocols and based on your doctor’s assessment.</p>
+    </div>
+	</li> </ul>
+
+### Referral
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion19" type="checkbox">
+    <label for="accordion19">Can my family clinic refer me for specialist care? <br>
+Will referrals made under Healthier SG be subsidised at Specialist Outpatient Centre (SOC) rates, similar to those referred by polyclinics?<br>
+What do I need to bring along for my first visit?</label>
+    <div>
+			<p>Yes, your family clinic can refer you for specialist care if it is clinically appropriate. Your doctor (or the care team) will discuss with you prior to making any referral for specialist care.</p> 
+ 
+<p>Singapore Citizens may be referred during their subsidised visits to GP clinics (e.g., under Community Health Assist Scheme, Screen For Life, Vaccination &amp; Childhood Development Screening Scheme) to public SOC for subsidised care. You will be considered as a subsidised patient and will receive care from a team of doctors/dentists. Patients who wish to choose a specific doctor at the SOC will have to pay private rates. </p> 
+
+<p>For more information on SOC subsidies, please visit the MOH website or check directly with your CHAS GP or the public SOC.</p>
+    </div>
+	</li> </ul>
