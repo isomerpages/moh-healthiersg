@@ -127,7 +127,7 @@ Benefits after enrolment include:
   </div></li>
   <li>
     <input id="accordion10" type="checkbox">
-    <label for="accordion10">I have been seeing various doctors at GP clinics as well as the polyclinic.
+    <label for="accordion10">I have been seeing various doctors at GP clinics as well as the polyclinic.<br>
 Which doctor should I enrol with, and can I continue to see multiple doctors after the enrolment?</label>
     <div>
       <p>If you are already visiting a regular Healthier SG GP clinic, you are encouraged to stay to develop and enjoy a long-term trusted relationship with a doctor who knows you well. </p>
@@ -137,7 +137,7 @@ Which doctor should I enrol with, and can I continue to see multiple doctors aft
     
  <li>
     <input id="accordion11" type="checkbox">
-    <label for="accordion11">Why can’t I find my Healthier SG clinic of choice? 
+    <label for="accordion11">Why can’t I find my Healthier SG clinic of choice? <br>
 What do I do if my existing General Practitioner (GP) is not a Healthier SG clinic?</label>
     <div>
       <p>For Healthier SG, residents can enrol only with a clinic that is participating in Healthier SG. GP clinics that are not Healthier SG will not be available for selection. </p>
@@ -152,7 +152,7 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 
 <li>
     <input id="accordion12" type="checkbox">
-    <label for="accordion12">Why do I need to visit the clinic after enrolment? What can I expect at this first Health Plan consultation session?
+    <label for="accordion12">Why do I need to visit the clinic after enrolment? <br>What can I expect at this first Health Plan consultation session?
 </label>
     <div>
       <p>During the Health Plan consultation at your enrolled Healthier SG clinic, the doctor will discuss your health, and co-create a Health Plan that works for you. This could include:
