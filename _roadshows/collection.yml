@@ -1,0 +1,8 @@
+collections:
+  roadshows:
+    output: true
+    order:
+      - "Roadshows: North.md"
+      - "Roadshows: South.md"
+      - "Roadshows: East.md"
+      - "Roadshows: West.md"
