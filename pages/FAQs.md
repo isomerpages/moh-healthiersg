@@ -87,10 +87,7 @@ Benefits after enrolment include:
 	<li>case sensitive; and</li>
 	<li>there are no spaces in between.</li></ul>
 
-<p>We are aware of calls falsely informing recipients that they are from MOH, requesting for your personal or financial information over the phone. Please always verify the authenticity of instructions before offering any personal information. You can also call the MOH Hotline at 6325 9220 if you have any enquiries.</p>
-			<img alt="scam advisory" src="/images/hsg-sms2.png">
-
-  </div></li>
+<p>We are aware of calls falsely informing recipients that they are from MOH, requesting for your personal or financial information over the phone. Please always verify the authenticity of instructions before offering any personal information. You can also call the MOH Hotline at 6325 9220 if you have any enquiries.</p> </div></li>
 	<li>
     <input id="accordion7" type="checkbox">
     <label for="accordion7">Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
