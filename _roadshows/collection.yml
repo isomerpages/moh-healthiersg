@@ -2,6 +2,6 @@ collections:
   roadshows:
     output: true
     order:
+      - Central.md
       - North East.md
       - South East.md
-      - Central.md
