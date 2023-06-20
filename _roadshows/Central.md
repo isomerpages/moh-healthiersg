@@ -14,7 +14,7 @@ description: ""
 				<strong>How to get there:</strong>
 Bus: 71, 133, 136, 262 (opp Ang Mo Kio Swim Cplx)<br>
 				<img src="/images/roadshows/bishan.png" alt="bishan">
-				Click [here](/files/ifg.pdf) to view event programme.
+				Click <a href="/files/whitepaper.pdf">here</a> to view event programme.
     </p></div>
 	</li>  
   <li>
