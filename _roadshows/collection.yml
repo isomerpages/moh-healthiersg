@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Central.md
-      - North West.md
+      - North.md
       - North East.md
       - South West.md
       - South East.md
