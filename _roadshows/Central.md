@@ -25,7 +25,7 @@ Bus: 71, 133, 136, 262 (opp Ang Mo Kio Swim Cplx)<br>
 8-9 July 9am to 6pm<br>
 				<strong>How to get there:</strong>
 Bus: 71, 133, 136, 262 (opp Ang Mo Kio Swim Cplx)<br>
-			<img src="/images/roadshows/bishan.png">
+			<img src="/images/roadshows/bishan.png" alt="bishan">
 				<strong>Programme:</strong> programme hyperlink
      </div>
   </li>
