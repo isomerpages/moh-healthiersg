@@ -21,7 +21,7 @@ sections:
           description: Frequently Asked Questions
           url: /faqs/
       url: /about
-      background: /images/Miscellaneous/HSG-banner2.jpg
+      background: /images/hsg microsite banner.png
   - infopic:
       title: How can I tell if my Healthier SG SMS is not a scam?
       description: The SMS(es) from MOH’s Healthier SG will show a registered sender
