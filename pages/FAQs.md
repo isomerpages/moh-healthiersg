@@ -81,7 +81,7 @@ Benefits after enrolment include:
     <input id="accordion6" type="checkbox">
     <label for="accordion6">How can I tell if my Healthier SG SMS is not a scam?</label>
     <div>
-    <p>The SMS(es) from MOH’s Healthier SG will show a registered sender ID “<strong>MOH-HSG</strong>”. Do check that it is:
+    <p>The SMS(es) from MOH’s Healthier SG will show a registered sender ID “<strong>MOH</strong>”. Do check that it is:
 </p><ul>
 	<li>spelled the same way;</li>
 	<li>case sensitive; and</li>
