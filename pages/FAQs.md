@@ -81,11 +81,7 @@ Benefits after enrolment include:
     <input id="accordion6" type="checkbox">
     <label for="accordion6">How can I tell if my Healthier SG SMS is not a scam?</label>
     <div>
-    <p>The SMS(es) from MOH’s Healthier SG will show a registered sender ID “<strong>MOH</strong>”. Do check that it is:
-</p><ul>
-	<li>spelled the same way;</li>
-	<li>case sensitive; and</li>
-	<li>there are no spaces in between.</li></ul>
+    <p>The SMS(es) from MOH's Healthier SG will show the registered sender ID <strong>"MOH"</strong>, in upper case.</p>
 
 <p>We are aware of calls falsely informing recipients that they are from MOH, requesting for your personal or financial information over the phone. Please always verify the authenticity of instructions before offering any personal information. You can also call the MOH Hotline at 6325 9220 if you have any enquiries.</p> </div></li>
 	<li>
