@@ -1,5 +1,4 @@
 collections:
   roadshows:
     output: true
-    order:
-      - Central.md
+    order: []
