@@ -8,10 +8,8 @@ description: ""
 <p><strong>Location: </strong>
 	</p><ul>	<li>Bishan-Ang Mo Kio Park, Ficus Green (River Plains)</li></ul>
 <strong>Date &amp; Time:</strong>
-	<ul>
-	<li>7 July: 1-6pm</li>
-	<li>8-9 July: 9am to 6pm</li>
-</ul>
+	<ul><li>7 July: 1-6pm</li>
+	<li>8-9 July: 9am to 6pm</li></ul>
 				<strong>How to get there:</strong>
 				<ul>
 	<li>Bus: 71, 133, 136, 262 (opp Ang Mo Kio Swimming Complex)</li>
