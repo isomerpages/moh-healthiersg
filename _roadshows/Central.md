@@ -10,7 +10,8 @@ description: ""
 <strong>Date &amp; Time: </strong>
 	<ul>
 		<li>7 July: 1-6pm</li>
-		<li>8-9 July: 9am to 6pm</li></ul>
+		<li>8-9 July: 9am to 6pm</li>
+</ul>
 				<strong>How to get there:</strong>
 				<ul>
 	<li>Bus: 71, 133, 136, 262 (opp Ang Mo Kio Swimming Complex)</li>
