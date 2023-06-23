@@ -17,5 +17,5 @@ description: ""
 	<li> Use OneMap to access the map</li>
 	</ul>
 				<img src="/images/roadshows/roadshow1.jpg" alt="bishan"><br>
-			<strong>Performance Schedule:</strong>	Click <a href="/files/whitepaper.pdf">here</a> to view event programme.
-    <p></p>
+			<strong>Performance Schedule:</strong> Click <a href="/files/whitepaper.pdf">here</a> to view event programme.
+<p></p>
