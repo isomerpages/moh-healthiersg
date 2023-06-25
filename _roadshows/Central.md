@@ -7,11 +7,11 @@ description: ""
 
 **Location:**
 
-*  Bishan-Ang Mo Kio Park, Ficus Green (River Plains)
+*  Bishan-Ang Mo Kio Park, Ficus Green
         
 **Date &amp; Time:**
 
-*   7 July: 1-6pm
+*   7 July: 1om to 6pm
 *   8-9 July: 9am to 6pm
 
 **How to get there:**
