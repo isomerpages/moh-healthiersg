@@ -17,5 +17,5 @@ description: ""
 **How to get there:**
 
 *   Bus: 71, 133, 136, 262 (opp Ang Mo Kio Swimming Complex)
-*   Use [OneMap](https://www.onemap.gov.sg/?maplink=1.3628624,103.8427898) to access the map
+*   Use [OneMap](https://www.onemap.gov.sg/v2/?lat=1.36111471450206&amp;lng=103.847705468769) to access the map
 				<img src="/images/roadshows/roadshow1.jpg" alt="bishan">
