@@ -3,7 +3,7 @@ title: Central
 permalink: /roadshows/central/
 description: ""
 ---
-### Healthier SG Roadshow @ Ang Mo Kio
+###  Ang Mo Kio
 
 **Location:**
 
@@ -17,5 +17,5 @@ description: ""
 **How to get there:**
 
 *   Bus: 71, 133, 136, 262 (opp Ang Mo Kio Swimming Complex)
-*   Use OneMap to access the map
+*   Use [OneMap](https://www.onemap.gov.sg/?maplink=1.3628624,103.8427898) to access the map
 				<img src="/images/roadshows/roadshow1.jpg" alt="bishan">
