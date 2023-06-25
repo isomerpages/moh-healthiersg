@@ -14,9 +14,9 @@ sections:
         - title: Enrolment
           description: When can I enrol?
           url: /about/enrolment
-        - title: Benefits of enrolment
-          description: What are the benefits?
-          url: /about/benefits/
+        - title: Roadshows
+          description: More on Healthier SG roadshows.
+          url: /roadshows/about/
         - title: FAQs
           description: Frequently Asked Questions
           url: /faqs/
