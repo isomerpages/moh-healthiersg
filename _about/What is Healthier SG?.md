@@ -15,7 +15,7 @@ With Healthier SG, Singaporeans will have:
 * Access to community programmes to help you stay active and healthy.
 
 
-<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/wqA7pO9C80I?start=1348" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/wqA7pO9C80I?start=1348" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 #### One Family Doctor and One Health Plan for Everyone
 
@@ -39,7 +39,7 @@ If you are older, the regional health clusters and your family doctor will advis
 
 Read more on Healthier SG from the [White Paper on Healthier SG](/resources/white-paper).
 
-<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/lg_LF-VcGn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/lg_LF-VcGn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 #### What can you do now
 
