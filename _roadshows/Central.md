@@ -11,7 +11,7 @@ description: ""
         
 **Date &amp; Time:**
 
-*   7 July: 1om to 6pm
+*   7 July: 1pm to 6pm
 *   8-9 July: 9am to 6pm
 
 **How to get there:**
