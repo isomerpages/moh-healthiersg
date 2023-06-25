@@ -19,5 +19,3 @@ description: ""
 *   Bus: 71, 133, 136, 262 (opp Ang Mo Kio Swimming Complex)
 *   Use OneMap to access the map
 				<img src="/images/roadshows/roadshow1.jpg" alt="bishan">
-	
-**Performance Schedule:** Click <a href="/files/whitepaper.pdf">here</a> to view event programme.
