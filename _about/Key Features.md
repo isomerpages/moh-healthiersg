@@ -8,7 +8,6 @@ The [White Paper on Healthier SG](/resources/white-paper) was submitted to Parli
 The key features of Healthier SG are shaped by consultations the Ministry of Health (MOH) conducted with over 6,000 residents and stakeholders, such as private General Practitioners (GP) employers and community partners.
 # Key Features of Healthier SG 
 ### 1. Mobilise our network of family doctors to deliver preventive care for residents.
-[![](/images/Key%20Features/Family%20Doctors.png)](https://moh.gov.sg)
 ![](/images/Key%20Features/Family%20Doctors.png)
 
 ### 2. Develop health plans that include lifestyle adjustments, regular health screening and appropriate vaccinations.
