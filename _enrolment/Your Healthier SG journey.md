@@ -23,7 +23,7 @@ description: ""
 
 * Participate in activities on the Healthy 365 app.
 
-* Check-in with your family doctor at least once a year.
+* Check in with your family doctor at least once a year.
 
 
 **Still have questions?**
