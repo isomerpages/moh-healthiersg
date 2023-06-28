@@ -5,19 +5,17 @@ description: ""
 ---
 Click here for [Chinese](/about-cn), [Malay](/about-ml), [Tamil](/about-ta)
 
-**Healthier SG** will help Singaporeans take steps towards better health.  
-
-We have built a good healthcare system in Singapore, but we need to focus on better health and quality of life for everyone. 
-
-With Healthier SG, Singaporeans will have:
-* A choice of your preferred family clinic that will guide you to stay healthy;
-* A customised Health Plan and support you to achieve your health goals;
-* Access to community programmes to help you stay active and healthy.
-
+**Healthier SG** is a national initiative by the Ministry of Health (MOH) that aims to&nbsp;help Singaporeans take steps towards better health and quality of life in the years to come.
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/wqA7pO9C80I?start=1348" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-#### One Family Doctor and One Health Plan for Everyone
+**Healthier SG offers you**:
+* Holistic care from a trusted family doctor;
+* Empowerment to take charge of your own health at every life stage;
+* All rounded support to lead healthier lifestyles and see better health outcomes.
+
+
+#### One Family Clinic and One Health Plan for Everyone
 
 We want all Singaporeans to have a trusted and lifelong relationship with your family doctor.   
 
@@ -41,7 +39,10 @@ Read more on Healthier SG from the [White Paper on Healthier SG](/resources/whit
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/lg_LF-VcGn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-#### What can you do now
+#### Key Features of Healthier SG
 
-* Click [here](https://www.healthhub.sg/programmes/61/Screen_for_Life) to check if you are eligible for affordable health screening under Screen for Life, if you have yet to complete it. 
-* Stay healthy and download [Healthy 365](https://hpb.gov.sg/healthy-living/healthy-365) and [Health Hub](https://www.healthhub.sg/) for more information!
+1. **The choice to live healthier**. You will be empowered to take charge of your own health, with support at every step of your health journey.
+2. **Strong patient-doctor relationships**. You will receive long-term, holistic care from a trusted family doctor.
+3. **A shift towards preventive care**. Your customized Health Plan will include nationally-recommended health screenings and vaccinations, to detect health issues early and manage them well.
+4. **Support from the community**. Through lifestyle adjustments and community programmes recommended by your doctor, you will be able to sustain healthier habits.
+5. **Better care delivery**. Healthcare IT and data infrastructure will be improved to serve you better, including convenient digital tools like HealthHub and Healthy 365. 
