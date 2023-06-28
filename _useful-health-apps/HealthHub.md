@@ -3,8 +3,6 @@ title: HealthHub
 permalink: /apps/
 description: Healthier SG apps
 ---
-![](/images/Health%20Apps/healthhub%20logo.PNG)
-
 Download the [HealthHub app](https://for.sg/hh-hsg) to:
 * Enrol in Healthier SG and choose your preferred clinic
 * Schedule your appointments
