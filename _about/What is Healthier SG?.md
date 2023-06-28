@@ -45,4 +45,4 @@ Read more on Healthier SG from the [White Paper on Healthier SG](/resources/whit
 2. **Strong patient-doctor relationships**. You will receive long-term, holistic care from a trusted family doctor.
 3. **A shift towards preventive care**. Your customized Health Plan will include nationally-recommended health screenings and vaccinations, to detect health issues early and manage them well.
 4. **Support from the community**. Through lifestyle adjustments and community programmes recommended by your doctor, you will be able to sustain healthier habits.
-5. **Better care delivery**. Healthcare IT and data infrastructure will be improved to serve you better, including convenient digital tools like HealthHub and Healthy 365. 
+5. **Better care delivery**. Healthcare IT and data infrastructure will be improved to serve you better, including convenient digital tools like HealthHub and Healthy 365.
