@@ -2,5 +2,6 @@ collections:
   enrolment:
     output: true
     order:
+      - How do I enrol?.md
       - Benefits of Enrolment.md
       - Enrolment Terms.md
