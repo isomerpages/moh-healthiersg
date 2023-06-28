@@ -1,4 +1,5 @@
 collections:
   useful-health-apps:
     output: true
-    order: []
+    order:
+      - Healthier SG apps.md
