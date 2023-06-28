@@ -2,5 +2,5 @@ collections:
   useful-health-apps:
     output: true
     order:
-      - Healthy 365.md
       - HealthHub.md
+      - Healthy 365.md
