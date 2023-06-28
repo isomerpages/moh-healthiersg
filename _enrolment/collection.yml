@@ -2,7 +2,7 @@ collections:
   enrolment:
     output: true
     order:
-      - Your Healthier SG journey.md
       - Benefits of Enrolment.md
       - How do I enrol?.md
+      - Your Healthier SG journey.md
       - Enrolment Terms.md
