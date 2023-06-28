@@ -3,38 +3,43 @@ title: Benefits of Enrolment
 permalink: /about/benefits/
 description: ""
 ---
-### What benefits can I enjoy from Healthier SG?
-
-Upon successful enrolment, your first Health Plan consultation with your chosen clinic will be free. 
-
-After completing the onboarding health consultation, you will receive **3,000 Healthpoints (worth $20)** through the [Healthy 365 app](https://hpb.gov.sg/healthy-living/healthy-365).
-
-Healthpoints can be exchanged for vouchers from participating merchants, including NTUC FairPrice vouchers and TransitLink credits.
+### Why should I enrol in Healthier SG?
 
 ![Seniors mobile](/images/Enrolment_Benefits/Seniors%20Mobile.png)
 
-Singapore Citizens can also enjoy free nationally recommended vaccinations and screenings when they visit their Healthier SG clinic.
+* **Ageing is a major challenge.** As people get older, they are more likely to fall sick and and suffer disabilities.
 
-#### For residents with chronic conditions
+* There is increase in the **prevalence of chronic diseases** that causes significant health, emotional, financial burden on individuals &amp; families.
 
-From early 2024, CHAS cardholders enrolled to Healthier SG GP clinics with higher chronic medication needs and bills can opt for the **Healthier SG Chronic Tier**, where they can enjoy subsidies of up to 87.5% for a selected whitelist of chronic medications similar to those prescribed and subsidised at polyclinics. 
+* Healthier SG puts our healthcare system on a more **sustainable financial footing**.
 
-They will also receive subsidies of up to $360 per year for other components of their chronic care, such as consultation and lab tests. 
+<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/6tHRIJW7R-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-From early 2024, residents under the Chronic Disease Management Programme (CDMP) can use their MediSave to pay the full cost of their treatment at their Healthier SG clinic, without the need for cash co-payment.
+**Enrolling in Healthier SG offers you:**
+
+* Support to **keep healthy and prevent diseases**, from a **family doctor** who has a trusted relationship with you.
+ 
+* **Enhanced subsidies** for preventive health.
+
+* **Personalised Health Plan** with goals, advice and treatment. 
+
+* Connect to a wide range of **healthy lifestyle activities** to stay healthy and active.
 
 ![Seniors Health Check](/images/Enrolment_Benefits/Seniors%20Health%20Check.png)
 
-With Healthier SG, Singaporeans will have:
+### What benefits can I enjoy from Healthier SG?
 
-*  A choice of your preferred family clinic that will guide you to stay healthy;
+* Create a **free personalised Health Plan** with your family doctor for a healthy lifestyle, regular health screenings and vaccinations.
 
-*  A customised Health Plan and support you to achieve your health goals;
-  
-*  Access to community programmes to help you stay active and healthy.
+* Earn **$20 worth of Healthpoints** after your first Health Plan consultation
 
-***To learn more about how the Ministry of Health is empowering Singaporeans to lead healthy lives, read our [MOH Committee of Supply 2023 Booklet](/resources/booklets/cos-2023-booklet/).***
+* Get **fully-subsidised** nationally-recommended screenings and vaccinations (for Singapore Citizens)
 
-***For more useful health tips, visit [HealthHub](https://www.healthhub.sg/).***
+**From early 2024:**
+   
+* Healthier SG Chronic Drug Tier Subsidy: CHAS, Merdeka Generation and Pioneer Generation patients with high medication needs can get common chronic drugs from their enrolled Healthier SG GP at prices comparable to polyclinics.
 
-***Download the [Healthy 365 app](https://hpb.gov.sg/healthy-living/healthy-365) to earn Healthpoints towards your Healthier SG journey today!***
+* Use MediSave without cash co-payment for the treatment of chronic conditions.
+
+**Still have questions?**
+Refer to the 'Benefits' section in our [FAQs](/faqs) page.
