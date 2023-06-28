@@ -1,4 +1,5 @@
 collections:
   enrolment:
     output: true
-    order: []
+    order:
+      - Enrolment Terms.md
