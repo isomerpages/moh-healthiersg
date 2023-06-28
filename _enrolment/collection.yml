@@ -2,4 +2,5 @@ collections:
   enrolment:
     output: true
     order:
+      - Benefits of Enrolment.md
       - Enrolment Terms.md
