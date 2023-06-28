@@ -1,0 +1,4 @@
+collections:
+  enrolment:
+    output: true
+    order: []
