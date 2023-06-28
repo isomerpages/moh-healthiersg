@@ -3,7 +3,9 @@ title: Enrolment Terms
 permalink: /enrolment-terms/
 description: ""
 ---
-Last updated: 20 Apr 2023
+Click here for [Chinese](/about-cn), [Malay](/about-ml), [Tamil](/about-ta).
+
+[Last updated: 20 Apr 2023]
  
 ### **Introduction**
 
