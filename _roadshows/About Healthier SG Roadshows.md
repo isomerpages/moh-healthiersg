@@ -14,5 +14,3 @@ Besides enrolling in Healthier SG, you can learn more about the different ways y
 * Enrol in Healthier SG at the roadshow – Aged 60 and above are most welcome.
 * Learn more about Healthier SG with your favourite Mediacorp artists.
 * Participate in healthy lifestyle activities and receive giveaways.
-
-Click [here](/roadshows/central) to read up on the first roadshow. Information on other upcoming roadshows coming soon!
