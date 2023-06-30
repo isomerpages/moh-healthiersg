@@ -72,6 +72,24 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 </label>
     <div>
 			<p>Yes, you need to be a CHAS cardholder to enjoy the new Healthier SG Chronic Tier, which will be available from early 2024 onwards. Pioneer Generation (PG)/ Merdeka Generation (MG) cardholders may still use their cards to enjoy PG and MG subsidies for GP consultation, and should consider becoming a CHAS cardholder to fully enjoy the new Healthier SG Chronic Tier. You or your household members can sign up at www.chas.sg.</p>
+		</div></li>
+			
+				<li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">6. 7. Is there a difference in Healthier SG subsidies for each category of Community Health Assist Scheme (CHAS)/Pioneer Generation (PG)/Merdeka Generation (MG) cards?</label>
+    <div>
+			<p>With the launch of Healthier SG, residents who enrol with and visit their enrolled GP clinic for preventive and chronic care will receive the following Healthier SG benefits:</p>
+
+<ul>
+	<li>One-time fully-subsidised first Health Plan consultation with the chosen clinic.</li>
+<li>Healthpoints (worth $20) through Healthy 365 app after the first Health Plan consultation.</li>
+<li>Fully subsidised nationally recommended screenings and vaccinations (for Singapore Citizens only)</li>
+<li>From early 2024, CHAS cardholders with high medication requirements and bills can opt for the Healthier SG Chronic Tier, which provides subsidies of up to 87.5% on whitelisted chronic medications. More details of the subsidy levels for different CHAS cardholders under the Healthier SG Chronic Tier can be found in the table below.</li>
+<li>From early 2024, Singapore Residents can use MediSave to pay for their CDMP treatment at their enrolled Healthier SG clinic without cash co-payment, up to prevailing withdrawal limits.</li></ul>
+			
+			<strong>Healthier SG Chronic Tier (available from early 2024)</strong>
+			image
+<p></p>
 		</div></li></ul>
 	
 ### Enrolment
@@ -108,6 +126,43 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 
 </div>
   </li>
+	
+<li>
+    <input id="accordion8" type="checkbox"><label for="accordion8">Is there a step-by-step guide for enrolling in Healthier SG?</label>
+    <div>
+      Step-by-Step Guide to enrol in Healthier SG
+
+Enrol in Healthier SG via HealthHub 
+			<ul>
+				<li>Eligible residents will receive an SMS invitation from “MOH” to enrol.</li>
+				<li>Download HealthHub app from Google Play or Apple App Store.</li>
+				<li>Login to HealthHub using Singpass. Click on Healthier SG banner.</li>
+				<li>Select your user profile. Click on ‘Enrol to Healthier SG’ button.</li>
+<li>Choose your preferred Healthier SG clinic and make an appointment for your first Health Plan consultation. </li>
+				<li>Complete an Onboarding Questionnaire before you see your doctor.</li></ul>
+
+Alternatively, you may approach our Healthier SG Ambassadors at Community Centres (CC) or Joint Testing &amp; Vaccination Centres (JTVC) for assistance.
+    </div>
+	</li>  
+	
+	<li>
+    <input id="accordion8" type="checkbox"><label for="accordion8">How do I enrol if I do not have a valid mobile phone?<br>
+Can my caregiver enrol me on his/her HealthHub app?  
+</label>
+    <div>
+      <p>You can grant access to your family members or loved ones to assist you with the enrolment by adding them as your caregiver in HealthHub and enabling permission to manage Healthier SG on your behalf. Your caregiver can then add you as a care recipient to view your health records and manage your e-Services on HealthHub.</p>
+
+			<p>Follow the steps below to first add a caregiver.</p>
+image faq1,faq2
+    </div>
+	</li>  
+	
+	<li>
+    <input id="accordion8" type="checkbox"><label for="accordion8">Q</label>
+    <div>
+      xxx
+    </div>
+	</li>  
   <li>
     <input id="accordion8" type="checkbox"><label for="accordion8">Can I enrol with a polyclinic instead of a GP clinic?</label>
     <div>
