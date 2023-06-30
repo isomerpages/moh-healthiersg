@@ -62,7 +62,16 @@ Benefits after enrolment include:
 </li><li>Healthpoints (worth $20) through Healthy 365 app after the first Health Plan consultation.
 </li><li>Fully subsidised nationally recommended screenings and vaccinations (for Singapore Citizens only).</li>
 <li>From early 2024, CHAS cardholders with high medication requirements and bills can opt for Healthier SG Chronic Tier, which provides subsidies of up to 87.5% on whitelisted chronic medications, depending on income level.</li>
-<li>From early 2024, Singapore Residents under the Chronic Disease Management Programme (CDMP) can use MediSave to pay for treatment without cash co-payment. </li></ul>
+<li>From early 2024, Singapore Residents under the Chronic Disease Management Programme (CDMP) can use MediSave to pay for treatment without cash co-payment. </li>
+			
+			
+			<li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">5. Do I need to be a CHAS cardholder to enjoy the New Healthier SG Chronic Tier under Healthier SG from 2024?<br>
+Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP consult?
+</label>
+    <div>
+			<p>Yes, you need to be a CHAS cardholder to enjoy the new Healthier SG Chronic Tier, which will be available from early 2024 onwards. Pioneer Generation (PG)/ Merdeka Generation (MG) cardholders may still use their cards to enjoy PG and MG subsidies for GP consultation, and should consider becoming a CHAS cardholder to fully enjoy the new Healthier SG Chronic Tier. You or your household members can sign up at www.chas.sg.</p>
 		</div></li></ul>
 	
 ### Enrolment
@@ -241,4 +250,4 @@ What do I need to bring along for my first visit?</label>
 
 <p>For more information on SOC subsidies, please visit the MOH website or check directly with your CHAS GP or the public SOC.</p>
     </div>
-	</li> </ul>
+	</li> </ul></div></li></ul>
