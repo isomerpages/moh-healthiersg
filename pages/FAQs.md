@@ -83,11 +83,11 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 <li>Fully subsidised nationally recommended screenings and vaccinations (for Singapore Citizens only)</li>
 <li>From early 2024, CHAS cardholders with high medication requirements and bills can opt for the Healthier SG Chronic Tier, which provides subsidies of up to 87.5% on whitelisted chronic medications. More details of the subsidy levels for different CHAS cardholders under the Healthier SG Chronic Tier can be found in the table below.</li>
 <li>From early 2024, Singapore Residents can use MediSave to pay for their CDMP treatment at their enrolled Healthier SG clinic without cash co-payment, up to prevailing withdrawal limits.</li></ul>
-
 			<p><strong>Healthier SG Chronic Tier (available from early 2024)</strong>
 				image</p>
-		</div></li>
-	</ul>
+		</div>
+</li>
+</ul>
 	
 ### Enrolment
 	
