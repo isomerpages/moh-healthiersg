@@ -56,13 +56,14 @@ What is the difference between going to GPs and polyclinics?
 					<li>A higher quality of life for as long as possible;</li>
 					<li>Peace of mind for yourself and loved ones; and</li>
 					<li>Ease and convenience in accessing health and community services.</li></ul>
-Benefits after enrolment include:
-				<ul>
+<p>Benefits after enrolment include:
+				</p><ul>
 <li>One-time free first Health Plan consultation with your chosen clinic.
 </li><li>Healthpoints (worth $20) through Healthy 365 app after the first Health Plan consultation.
 </li><li>Fully subsidised nationally recommended screenings and vaccinations (for Singapore Citizens only).</li>
 <li>From early 2024, CHAS cardholders with high medication requirements and bills can opt for Healthier SG Chronic Tier, which provides subsidies of up to 87.5% on whitelisted chronic medications, depending on income level.</li>
 <li>From early 2024, Singapore Residents under the Chronic Disease Management Programme (CDMP) can use MediSave to pay for treatment without cash co-payment. </li>
+			</ul></div></li>
 			<li>
     <input id="accordion5" type="checkbox">
     <label for="accordion5">5. Do I need to be a CHAS cardholder to enjoy the New Healthier SG Chronic Tier under Healthier SG from 2024?<br>
@@ -76,7 +77,6 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
     <label for="accordion6">6. 7. Is there a difference in Healthier SG subsidies for each category of Community Health Assist Scheme (CHAS)/Pioneer Generation (PG)/Merdeka Generation (MG) cards?</label>
     <div>
 			<p>With the launch of Healthier SG, residents who enrol with and visit their enrolled GP clinic for preventive and chronic care will receive the following Healthier SG benefits:</p>
-
 <ul>
 	<li>One-time fully-subsidised first Health Plan consultation with the chosen clinic.</li>
 <li>Healthpoints (worth $20) through Healthy 365 app after the first Health Plan consultation.</li>
@@ -88,9 +88,9 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 		</div>
 </li>
 </ul>
-	
+			
 ### Enrolment
-	
+			
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion7" type="checkbox">
@@ -292,4 +292,4 @@ What do I need to bring along for my first visit?</label>
 <p>For more information on SOC subsidies, please visit the MOH website or check directly with your CHAS GP or the public SOC.</p>
     </div>
 	</li>
-			</ul></div></li></ul>
+			</ul>
