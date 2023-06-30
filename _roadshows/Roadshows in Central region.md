@@ -25,25 +25,21 @@ description: ""
 				<img src="/images/roadshows/roadshow1.jpg" alt="bishan">
 </div>
   </li>
-	
-	
-	  <li>
+	<li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Roadshow in Boon Keng</label>
     <div>
 	text		
 </div>
   </li>
-	
-	  <li>
+	<li>
     <input id="accordion3" type="checkbox">
     <label for="accordion3">Roadshow in Toa Payoh</label>
     <div>
 	text		
 </div>
   </li>
-	
-	  <li>
+	<li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4">Roadshow in Redhill</label>
     <div>
