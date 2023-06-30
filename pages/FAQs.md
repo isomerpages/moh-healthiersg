@@ -63,8 +63,7 @@ Benefits after enrolment include:
 </li><li>Fully subsidised nationally recommended screenings and vaccinations (for Singapore Citizens only).</li>
 <li>From early 2024, CHAS cardholders with high medication requirements and bills can opt for Healthier SG Chronic Tier, which provides subsidies of up to 87.5% on whitelisted chronic medications, depending on income level.</li>
 <li>From early 2024, Singapore Residents under the Chronic Disease Management Programme (CDMP) can use MediSave to pay for treatment without cash co-payment. </li>
-			
-			
+					
 			<li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4">5. Do I need to be a CHAS cardholder to enjoy the New Healthier SG Chronic Tier under Healthier SG from 2024?<br>
