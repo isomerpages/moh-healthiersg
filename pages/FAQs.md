@@ -8,14 +8,14 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">What is Healthier SG?</label>
+    <label for="accordion1">1. What is Healthier SG?</label>
     <div>
 			<p><strong>Healthier SG</strong> is a national strategy to transform Singapore’s healthcare system to focus more on preventive care to help residents stay healthy, detect health issues early and manage them well. Under Healthier SG, residents will be empowered to take steps to improve their health proactively with the support of their trusted family clinic and community partners.</p>
     </div>
 	</li>  
   <li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2">How will I know if I am eligible for Healthier SG? </label>
+    <label for="accordion2">2. How will I know if I am eligible for Healthier SG? </label>
     <div>
 	<p>Singapore Citizens (SC) and Permanent Residents (PR) can enrol in Healthier SG. The rollout phases will prioritise those who are more likely to need medical care or suffer from chronic illnesses.</p>
 
@@ -26,7 +26,7 @@ description: ""
   </li>
   <li>
     <input id="accordion3" type="checkbox">
-    <label for="accordion3">Will the care provided by different GPs and polyclinics under Healthier SG be the same?
+    <label for="accordion3">3. Will the care provided by different GPs and polyclinics under Healthier SG be the same?
 What is the difference between going to GPs and polyclinics?
 </label>
     <div>
@@ -44,7 +44,7 @@ What is the difference between going to GPs and polyclinics?
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion4" type="checkbox">
-    <label for="accordion4">What are the key benefits of Healthier SG?</label>
+    <label for="accordion4">4. What are the key benefits of Healthier SG?</label>
     <div>
       <p>Having a long-term, trusted relationship with a family clinic allows your doctor to focus more on preventive care to help you stay healthy, detect health issues early and manage them well. </p>
 
