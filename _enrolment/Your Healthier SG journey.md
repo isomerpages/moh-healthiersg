@@ -25,6 +25,5 @@ description: ""
 
 * Check in with your family doctor at least once a year.
 
-
 **Still have questions?**
 Refer to our FAQs [page](/faqs).
