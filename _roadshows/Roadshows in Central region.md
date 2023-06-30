@@ -50,3 +50,16 @@ description: ""
 * Take Bus: 8, 26, 28, 31, 73, 73T, 88, 90, 90A, 139, 139A, 141, 142, 142A, 
 143, 145, 155, 157, 159, 163, 231, 232, 235, 238 (Toa Payoh Interchange)
 * Use [OneMap](https://www.onemap.gov.sg/main/v2/?lat=1.33205485190481&amp;lng=103.848507643079&amp;postal=310480) to access the map
+
+###  Roadshow 10: Redhill
+
+**Location:**
+*  Block 79 Redhill Lane (Redhill Market)
+        
+**Date &amp; Time:**
+*   7 - 8 October: 10am to 6pm
+
+**How to get there:**
+* Take MRT: Redhill MRT Station
+* Take Bus: 63, 63A (Opp Blk 73)
+* Use [OneMap](https://www.onemap.gov.sg/main/v2/?lat=1.2875772&amp;lng=103.8183117&amp;postal=150085) to access the map
