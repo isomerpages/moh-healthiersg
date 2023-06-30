@@ -65,8 +65,8 @@ Benefits after enrolment include:
 <li>From early 2024, Singapore Residents under the Chronic Disease Management Programme (CDMP) can use MediSave to pay for treatment without cash co-payment. </li>
 					
 			<li>
-    <input id="accordion4" type="checkbox">
-    <label for="accordion4">5. Do I need to be a CHAS cardholder to enjoy the New Healthier SG Chronic Tier under Healthier SG from 2024?<br>
+    <input id="accordion5" type="checkbox">
+    <label for="accordion5">5. Do I need to be a CHAS cardholder to enjoy the New Healthier SG Chronic Tier under Healthier SG from 2024?<br>
 Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP consult?
 </label>
     <div>
@@ -74,8 +74,8 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 		</div></li>
 			
 				<li>
-    <input id="accordion4" type="checkbox">
-    <label for="accordion4">6. 7. Is there a difference in Healthier SG subsidies for each category of Community Health Assist Scheme (CHAS)/Pioneer Generation (PG)/Merdeka Generation (MG) cards?</label>
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">6. 7. Is there a difference in Healthier SG subsidies for each category of Community Health Assist Scheme (CHAS)/Pioneer Generation (PG)/Merdeka Generation (MG) cards?</label>
     <div>
 			<p>With the launch of Healthier SG, residents who enrol with and visit their enrolled GP clinic for preventive and chronic care will receive the following Healthier SG benefits:</p>
 
@@ -91,12 +91,12 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 <p></p>
 		</div></li></ul>
 	
-### Enrolment
+		### Enrolment
 	
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion5" type="checkbox">
-    <label for="accordion5">When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
+    <input id="accordion7" type="checkbox">
+    <label for="accordion7">When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
     <div>
 			<p>Healthier SG will be rolled out progressively in phases from July 2023 onwards. Although enrolment is not compulsory, we strongly encourage you to enrol in Healthier SG. Having a long-term, trusted relationship with a family clinic allows you to stay healthy, detect health issues early and manage them well, supported by your preferred family clinic.</p>
 
@@ -104,15 +104,15 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
      </div>
   </li>
   <li>
-    <input id="accordion6" type="checkbox">
-    <label for="accordion6">How can I tell if my Healthier SG SMS is not a scam?</label>
+    <input id="accordion8" type="checkbox">
+    <label for="accordion8">How can I tell if my Healthier SG SMS is not a scam?</label>
     <div>
     <p>The SMS(es) from MOH's Healthier SG will show the registered sender ID <strong>"MOH"</strong>, in upper case.</p>
 
 <p>We are aware of calls falsely informing recipients that they are from MOH, requesting for your personal or financial information over the phone. Please always verify the authenticity of instructions before offering any personal information. You can also call the MOH Hotline at 6325 9220 if you have any enquiries.</p> </div></li>
 	<li>
-    <input id="accordion7" type="checkbox">
-    <label for="accordion7">Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
+    <input id="accordion9" type="checkbox">
+    <label for="accordion9">Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
     <div>
 			<p>Our population is ageing rapidly with older age groups more susceptible to co-morbidities and chronic illnesses. As such, Healthier SG enrolment will focus on those aged 40 and above to proactively prevent them from falling ill and delay the deterioration of health. We will consider further expansions after the roll-out has stabilised.</p>
 
@@ -127,7 +127,7 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
   </li>
 	
 <li>
-    <input id="accordion8" type="checkbox"><label for="accordion8">Is there a step-by-step guide for enrolling in Healthier SG?</label>
+    <input id="accordion10" type="checkbox"><label for="accordion10">Is there a step-by-step guide for enrolling in Healthier SG?</label>
     <div>
       Step-by-Step Guide to enrol in Healthier SG
 
@@ -145,7 +145,7 @@ Alternatively, you may approach our Healthier SG Ambassadors at Community Centre
 	</li>  
 	
 	<li>
-    <input id="accordion8" type="checkbox"><label for="accordion8">How do I enrol if I do not have a valid mobile phone?<br>
+    <input id="accordion11" type="checkbox"><label for="accordion11">How do I enrol if I do not have a valid mobile phone?<br>
 Can my caregiver enrol me on his/her HealthHub app?  
 </label>
     <div>
@@ -157,7 +157,7 @@ image faq1,faq2
 	</li>  
 	
 	<li>
-    <input id="accordion8" type="checkbox"><label for="accordion8">Q</label>
+    <input id="accordion12" type="checkbox"><label for="accordion12">Q</label>
     <div>
       xxx
     </div>
