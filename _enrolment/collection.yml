@@ -2,8 +2,8 @@ collections:
   enrolment:
     output: true
     order:
-      - For caregivers.md
       - Benefits of Enrolment.md
       - How do I enrol?.md
       - Your Healthier SG journey.md
+      - For caregivers.md
       - Enrolment Terms.md
