@@ -3,6 +3,63 @@ title: Roadshows in Central region
 permalink: /roadshows/central/
 description: ""
 ---
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion1" type="checkbox">
+    <label for="accordion1">Roadshow in Ang Mo Kio</label>
+    <div>
+	<strong>Location:</strong>
+<ul>
+	<li>  Bishan-Ang Mo Kio Park, Ficus Green</li></ul>
+        
+<strong>Date &amp; Time:</strong>
+<ul>
+<li>   7 July: 1pm to 6pm</li>
+<li>   8-9 July: 9am to 6pm</li>
+			</ul>
+<strong>How to get there:</strong>
+<ul>
+<li>   Take MRT: Ang Mo Kio MRT Station</li>
+<li>   Take Bus: 71, 133, 136, 262 (opp Ang Mo Kio Swimming Complex)</li>
+<li>   Use [OneMap](https://www.onemap.gov.sg/v2/?lat=1.36111471450206&amp;lng=103.847705468769) to access the map</li>
+		</ul>
+				<img src="/images/roadshows/roadshow1.jpg" alt="bishan">
+</div>
+  </li>
+	
+	
+	  <li>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">xxxxx</label>
+    <div>
+	text		
+</div>
+  </li>
+	
+	  <li>
+    <input id="accordion3" type="checkbox">
+    <label for="accordion3">xxxxx</label>
+    <div>
+	text		
+</div>
+  </li>
+	
+	  <li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">xxxxx</label>
+    <div>
+	text		
+</div>
+  </li>
+</ul>
+
+
+
+
+
+
+
 ###  Roadshow 1: Ang Mo Kio
 
 **Location:**
