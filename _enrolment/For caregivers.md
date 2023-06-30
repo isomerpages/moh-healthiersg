@@ -10,12 +10,15 @@ You can grant access to your family members or loved ones to assist you with the
 Follow the steps below to first add a caregiver.
 
 
-![faq](/images/FAQs/enrolfaq1.png)
-![faq](/images/FAQs/enrolfaq2.png)
+![faq](/images/FAQs/caregiver1.png)
+![faq](/images/FAQs/caregiver2.png)
 
 Please ensure that you have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5). 
 
-After this has been done, inform your caregiver to add your Health Profile under Add a Care Recipient.
+After this has been done, inform your caregiver to add your Health Profile under **Add a Care Recipient**.
+
+![faq](/images/FAQs/recipient1.png)
+![faq](/images/FAQs/recipient2.png)
 
 Once your caregiver has successfully added you as a care recipient, your user profile will be shown on HealthHub for them to assist with your enrolment if you are eligible to enrol in Healthier SG.
 
@@ -28,14 +31,15 @@ With the consent of your family members, you can be given access to help them en
 Please follow the steps in the below graphics to set up access as a caregiver on your care recipient’s HealthHub app.  
 
  
-![faq](/images/FAQs/enrolfaq3.png)
-![faq](/images/FAQs/enrolfaq4.png)
+![faq](/images/FAQs/recipient3.png)
+![faq](/images/FAQs/recipient4.png)
 
-Please ensure that your care recipient have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5). 
+**Please ensure that your care recipient have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5). **
 
 Next, you can then add your care recipient (or loved ones) under ‘People under my care’.
  
+ ![faq](/images/FAQs/recipient5.png)
 
 After it has been added successfully, you can view your care recipient’s user profile in the Health Profiles page. You may continue to assist your loved ones to enrol in Healthier SG and access Healthier SG related functions on their behalf by following the below steps.
 
-For more information on how to add a caregiver and control your caregiver’s access to your health records, please refer to the HealthHub FAQs [here](https://www.healthhub.sg/faqs). 
+For more information on how to add a caregiver and control your caregiver’s access to your health records, please refer to the HealthHub FAQs [here](https://www.healthhub.sg/faqs).
