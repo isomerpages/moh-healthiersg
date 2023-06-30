@@ -22,7 +22,6 @@ description: ""
 				<img src="/images/roadshows/roadshow1.jpg" alt="bishan">
 				
 **Click here to view the programme:**
-[](/files/whitepaper.pdf)
 
 
 
@@ -41,10 +40,3 @@ description: ""
 *   Take MRT: Boon Keng MRT Station
 *   Take Bus: 21, 130, 139 (Boon Keng Stn/Blk 22)
 *   Use [OneMap](https://www.onemap.gov.sg/main/v2/?lat=1.3183879&amp;lng=103.8618332) to access the map
-				
-				
-				
-				
-				
-				
-				
