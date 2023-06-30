@@ -3,7 +3,7 @@ title: Roadshows in Central region
 permalink: /roadshows/central/
 description: ""
 ---
-###  Roadshow 1 - Ang Mo Kio
+###  Roadshow 1: Ang Mo Kio
 
 **Location:**
 
@@ -21,11 +21,7 @@ description: ""
 *   Use [OneMap](https://www.onemap.gov.sg/v2/?lat=1.36111471450206&amp;lng=103.847705468769) to access the map
 				<img src="/images/roadshows/roadshow1.jpg" alt="bishan">
 				
-**Click here to view the programme:**
-
-
-
-###  Roadshow 2 - Boon Keng
+###  Roadshow 2: Boon Keng
 
 **Location:**
 
@@ -40,3 +36,17 @@ description: ""
 *   Take MRT: Boon Keng MRT Station
 *   Take Bus: 21, 130, 139 (Boon Keng Stn/Blk 22)
 *   Use [OneMap](https://www.onemap.gov.sg/main/v2/?lat=1.3183879&amp;lng=103.8618332) to access the map
+
+###  Roadshow 5: Toa Payoh
+
+**Location:**
+*  HDB Hub (Toa Payoh) Atrium
+        
+**Date &amp; Time:**
+*   26-27 August: 10am to 6pm
+
+**How to get there:**
+* Take MRT: Toa Payoh MRT Station
+* Take Bus: 8, 26, 28, 31, 73, 73T, 88, 90, 90A, 139, 139A, 141, 142, 142A, 
+143, 145, 155, 157, 159, 163, 231, 232, 235, 238 (Toa Payoh Interchange)
+* Use [OneMap](https://www.onemap.gov.sg/main/v2/?lat=1.33205485190481&amp;lng=103.848507643079&amp;postal=310480) to access the map
