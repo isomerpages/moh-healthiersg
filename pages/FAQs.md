@@ -158,7 +158,7 @@ Can my caregiver enrol me on his/her HealthHub app?
 
 <p>Alternatively, you may enrol in Healthier SG through the <a href="https://www.healthhub.sg">HealthHub web portal</a> by logging in with your Singpass if you do not wish to download the app or do not have access to a smartphone.</p>
 
-<p>HealthHub FAQs can be found here: <a href="https://www.healthhub.sg/faqsq">www.healthhub.sg/faqs</a></p>
+<p>HealthHub FAQs can be found here: www.healthhub.sg/faqs</p>
 </div>
 	</li>  
 	<li>
@@ -179,7 +179,7 @@ Can we enrol our care recipients or family members?</label>
  
 <p>After it has been added successfully, you can view your care recipient’s user profile in the Health Profiles page. You may continue to assist your loved ones to enrol in Healthier SG and access Healthier SG related functions on their behalf by following the below steps.</p>
 <img src="/images/FAQs/caregiver5.png" alt="faq">
-<p>For more information on how to add a caregiver and control your caregiver’s access to your health records, please refer to the HealthHub FAQs at https://www.healthhub.sg/faqs under the section ‘Caregiver Access’.</p>
+<p>For more information on how to add a caregiver and control your caregiver’s access to your health records, please refer to the <a href="https://www.healthhub.sg/faqs">HealthHub FAQs</a> under the section ‘Caregiver Access’.</p>
 
     </div>
 	</li>  
@@ -332,7 +332,7 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     <div>
       <p>If your caregiver has enrolled you via the HealthHub app, he/she will be able to book an appointment for you through the same app.</p>
 <p>Alternatively, you may approach the nearest Community Club (CC) or Joint Testing &amp; Vaccination Centre (JTVC) for assistance with the appointment booking. Healthier SG ambassadors at the CC or JTVC will provide you with an appointment card to bring along for your appointment. Subsequently, you will receive a Health Plan Booklet at your Healthier SG clinic to keep track of your appointments and guide you towards achieving your health goals.</p>
-			<p>For more information on the locations, click <a href="https://gowhere.gov.sg/healthiersg">here</a>.</p>
+			<p>For more information on CC/JTVC locations, click <a href="https://gowhere.gov.sg/healthiersg">here</a>.</p>
 <p></p>
     </div>
   </li>
@@ -453,7 +453,7 @@ What do I need to bring along for my first visit?</label>
     <div>
       <p>HealthHub retrieves your health records such as screening and lab test results from the medical records system of various public healthcare institutions, such as polyclinics and public structured hospitals.</p>
 
-<p>For more information on the types of health records, you may refer to the HealthHub FAQs at https://www.healthhub.sg/faqs for more information.</p>
+<p>For more information on the types of health records, you may refer to the <a href="https://www.healthhub.sg/faqs">HealthHub FAQs</a>.</p>
     </div>
   </li>
 	<li>
@@ -462,7 +462,7 @@ What do I need to bring along for my first visit?</label>
     <div>
       <p>You may:
 				</p><ul>
-					<li>refer to the HealthHub FAQs at https://www.healthhub.sg/faqs, </li>
+					<li>refer to the <a href="https://www.healthhub.sg/faqs">HealthHub FAQs</a>, </li>
 					<li>call HealthHub contact centre at 1800 225 4482 or </li>
 					<li>send an email to contact_us@healthhub.sg</li>
 			</ul>
@@ -480,7 +480,7 @@ What do I need to bring along for my first visit?</label>
     <div>
       <p>You may approach our Healthier SG ambassadors at Community Clubs (CC) or the Joint Testing &amp; Vaccination Centres (JTVC) for assistance.</p>
 
-<p>For more information on the locations, click <a href="https://gowhere.gov.sg/healthiersg">here</a>.</p>
+<p>For more information on CC/JTVC locationsclick <a href="https://gowhere.gov.sg/healthiersg">here</a>.</p>
     </div>
   </li>
 		<li>
@@ -501,7 +501,7 @@ What do I need to bring along for my first visit?</label>
 <li>Charity Donations</li>
 <li>TransitLink eVouchers</li>
 			</ul>
-	<p>You may refer to the rewards section of the Healthy 365 Website at https://go.gov.sg/hpbrewards</p>
+		<p>You may refer to the rewards section of the Healthy 365 Website at <a href="https://go.gov.sg/hpbrewardsfaqs">https://go.gov.sg/hpbrewardsfaqs</a></p>
 <p></p>
     </div>
   </li>
@@ -511,7 +511,7 @@ What do I need to bring along for my first visit?</label>
     <div>
       <p>Each Healthpoint is valid for 6 months. Your Healthpoints summary details (including its expiry date) can be found under the “My Wallet” tab in the Rewards section of Healthy 365 app.</p>
 
-<p>For more information, please visit https://go.gov.sg/hpbrewardsfaqs
+<p>For more information, please visit <a href="https://go.gov.sg/hpbrewardsfaqs">https://go.gov.sg/hpbrewardsfaqs</a>
 </p>
     </div>
   </li>
