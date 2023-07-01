@@ -22,6 +22,23 @@ sections:
           url: https://gowhere.gov.sg/healthiersg
       background: /images/hsg microsite banner.png
   - infopic:
+      title: Why should you enrol in Healthier SG?
+      description: What are the benefits of enrolling in Healthier SG? How can
+        Healthier SG help you become healthier?
+      button: Find out more
+      url: /benefits/enrolment
+      image: /images/Enrolment_Benefits/Seniors Mobile.png
+      alt: Healthier SG Benefits
+  - infopic:
+      title: Your Healthier SG journey!
+      description: From enrolling into Healthier SG to going for your first
+        consultation, here’s a step by step guide on how you can participate
+        fully in Healthier SG.
+      button: Find out more
+      url: /enrolment/healthiersgjourney/
+      image: /images/Enrolment_Benefits/Seniors Health Check.png
+      alt: Healthier SG Enrolment
+  - infopic:
       title: How can I tell if my Healthier SG SMS is not a scam?
       description: The SMS(es) from MOH’s Healthier SG will show a registered sender
         ID “MOH”. Read our FAQs to learn how to verify the authenticity of the
@@ -31,23 +48,11 @@ sections:
       image: /images/textmessage.jpg
       alt: Image alt text
   - infopic:
-      title: Pre-Enrolment for 40 and above with chronic illnesses
-      description: Residents aged 40 and above with chronic illness and who are
-        already seeing a Healthier SG-registered GP will be notified by their
-        clinic to pre-enrol.
+      title: Join us at the Healthier SG roadshows!
+      description: Enrol in Healthier SG, take part in healthy lifestyle activities
+        and receive giveaways at the Healthier SG roadshows.
       button: Find out more
-      url: /about/enrolment/
-      image: /images/Enrolment_Benefits/Seniors Health Check.png
-      alt: Healthier SG Enrolment
-  - infopic:
-      title: Healthier SG Benefits
-      description: What are the resident benefits?
-      button: Find out here
-      url: /about/benefits/
-      image: /images/Enrolment_Benefits/Seniors Mobile.png
-      alt: Healthier SG Benefits
-  - resources:
-      title: Healthier SG Resources
-      subtitle: Resources
-      button: View more
+      url: /roadshows/about
+      image: /images/roadshow.jpg
+      alt: Image alt text
 ---
