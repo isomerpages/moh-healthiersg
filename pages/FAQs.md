@@ -470,3 +470,54 @@ What do I need to bring along for my first visit?</label>
     </div>
   </li>
 	</ul>
+	
+### Healthy 365
+
+<ul class="jekyllcodex_accordion">
+<li>
+    <input id="accordion39" type="checkbox">
+    <label for="accordion39">39. If I do not have a smartphone, mobile number nor any caregiver, how do I redeem my Healthpoints?</label>
+    <div>
+      <p>You may approach our Healthier SG ambassadors at Community Clubs (CC) or the Joint Testing &amp; Vaccination Centres (JTVC) for assistance.</p>
+
+<p>For more information on CC/JTVC locations: https://gowhere.gov.sg/healthiersg</p>
+    </div>
+  </li>
+		<li>
+    <input id="accordion40" type="checkbox">
+    <label for="accordion40">40. How can I earn Healthpoints?</label>
+    <div>
+      <p>You can earn Healthpoints by participating in healthy lifestyle programmes and challenges on the Healthy 365 app.</p>
+    </div>
+  </li>
+	<li>
+    <input id="accordion41" type="checkbox">
+    <label for="accordion41">41. What can I redeem my Healthpoints for?</label>
+    <div>
+      <p>You can redeem your Healthpoints for the following reward types:
+				</p><ul>
+<li>HPB Credit$</li>
+<li>HPB eVouchers</li>
+<li>Charity Donations</li>
+<li>TransitLink eVouchers</li>
+			</ul>
+			<p></p>
+			
+			<p>You may refer to the rewards section of the Healthy 365 Website at https://go.gov.sg/hpbrewards</p>
+<p></p>
+    </div>
+  </li>
+	<li>
+    <input id="accordion42" type="checkbox">
+    <label for="accordion42">42. Will my Healthpoints expire?</label>
+    <div>
+      <p>Each Healthpoint is valid for 6 months. Your Healthpoints summary details (including its expiry date) can be found under the “My Wallet” tab in the Rewards section of Healthy 365 app.</p>
+
+<p>For more information, please visit https://go.gov.sg/hpbrewardsfaqs
+</p>
+    </div>
+  </li>
+	</ul>
+
+### Programmes
+
