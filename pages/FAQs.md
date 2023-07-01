@@ -94,7 +94,7 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion7" type="checkbox">
-    <label for="accordion7">When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
+    <label for="accordion7">7. When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
     <div>
 			<p>Healthier SG will be rolled out progressively in phases from July 2023 onwards. Although enrolment is not compulsory, we strongly encourage you to enrol in Healthier SG. Having a long-term, trusted relationship with a family clinic allows you to stay healthy, detect health issues early and manage them well, supported by your preferred family clinic.</p>
 
@@ -103,14 +103,14 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
   </li>
   <li>
     <input id="accordion8" type="checkbox">
-    <label for="accordion8">How can I tell if my Healthier SG SMS is not a scam?</label>
+    <label for="accordion8">8. How can I tell if my Healthier SG SMS is not a scam?</label>
     <div>
     <p>The SMS(es) from MOH's Healthier SG will show the registered sender ID <strong>"MOH"</strong>, in upper case.</p>
 
 <p>We are aware of calls falsely informing recipients that they are from MOH, requesting for your personal or financial information over the phone. Please always verify the authenticity of instructions before offering any personal information. You can also call the MOH Hotline at 6325 9220 if you have any enquiries.</p> </div></li>
 	<li>
     <input id="accordion9" type="checkbox">
-    <label for="accordion9">Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
+    <label for="accordion9">9. Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
     <div>
 			<p>Our population is ageing rapidly with older age groups more susceptible to co-morbidities and chronic illnesses. As such, Healthier SG enrolment will focus on those aged 40 and above to proactively prevent them from falling ill and delay the deterioration of health. We will consider further expansions after the roll-out has stabilised.</p>
 
@@ -124,7 +124,7 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 </div>
   </li>
 <li>
-    <input id="accordion10" type="checkbox"><label for="accordion10">Is there a step-by-step guide for enrolling in Healthier SG?</label>
+    <input id="accordion10" type="checkbox"><label for="accordion10">10. Is there a step-by-step guide for enrolling in Healthier SG?</label>
     <div>
       Step-by-Step Guide to enrol in Healthier SG
 
@@ -136,7 +136,7 @@ Enrol in Healthier SG via HealthHub
 				<li>Select your user profile. Click on ‘Enrol to Healthier SG’ button.</li>
 <li>Choose your preferred Healthier SG clinic and make an appointment for your first Health Plan consultation. </li>
 				<li>Complete an Onboarding Questionnaire before you see your doctor.</li></ul>
-Alternatively, you may approach our Healthier SG Ambassadors at Community Centres (CC) or Joint Testing &amp; Vaccination Centres (JTVC) for assistance.
+<strong>Alternatively, you may approach our Healthier SG Ambassadors at Community Centres (CC) or Joint Testing &amp; Vaccination Centres (JTVC) for assistance.</strong>
     </div>
 	</li>  
 	<li>
@@ -147,7 +147,12 @@ Can my caregiver enrol me on his/her HealthHub app?
       <p>You can grant access to your family members or loved ones to assist you with the enrolment by adding them as your caregiver in HealthHub and enabling permission to manage Healthier SG on your behalf. Your caregiver can then add you as a care recipient to view your health records and manage your e-Services on HealthHub.</p>
 
 			<p>Follow the steps below to first add a caregiver.</p>
-image faq1,faq2
+<img src="/images/FAQs/caregiver1.png" alt="faq">
+			<img src="/images/FAQs/caregiver2.png" alt="faq">
+		<p><strong>Please ensure that you have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5).</strong></p>
+
+<p>After this has been done, inform your caregiver to add your Health Profile under <strong>Add a Care Recipient.</strong></p>
+
     </div>
 	</li>  
 	<li>
