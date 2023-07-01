@@ -74,7 +74,7 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 		</div></li>
 				<li>
     <input id="accordion6" type="checkbox">
-    <label for="accordion6">6. 7. Is there a difference in Healthier SG subsidies for each category of Community Health Assist Scheme (CHAS)/Pioneer Generation (PG)/Merdeka Generation (MG) cards?</label>
+    <label for="accordion6">6. Is there a difference in Healthier SG subsidies for each category of Community Health Assist Scheme (CHAS)/Pioneer Generation (PG)/Merdeka Generation (MG) cards?</label>
     <div>
 			<p>With the launch of Healthier SG, residents who enrol with and visit their enrolled GP clinic for preventive and chronic care will receive the following Healthier SG benefits:</p>
 <ul>
@@ -84,7 +84,7 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 <li>From early 2024, CHAS cardholders with high medication requirements and bills can opt for the Healthier SG Chronic Tier, which provides subsidies of up to 87.5% on whitelisted chronic medications. More details of the subsidy levels for different CHAS cardholders under the Healthier SG Chronic Tier can be found in the table below.</li>
 <li>From early 2024, Singapore Residents can use MediSave to pay for their CDMP treatment at their enrolled Healthier SG clinic without cash co-payment, up to prevailing withdrawal limits.</li></ul>
 			<p><strong>Healthier SG Chronic Tier (available from early 2024)</strong>
-				image</p>
+				<img src="/images/FAQs/hsgchronictier.PNG" alt="bishan"></p>
 		</div>
 </li>
 </ul>
