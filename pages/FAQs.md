@@ -427,3 +427,46 @@ What do I need to bring along for my first visit?</label>
     </div>
   </li>
 			</ul>
+			
+### Maintaining my Relationship with my Family Clinic
+
+<ul class="jekyllcodex_accordion">
+<li>
+    <input id="accordion36" type="checkbox">
+    <label for="accordion36">36. How often do I need to visit my Healthier SG clinic?</label>
+    <div>
+			<p>Your clinic will advise you on your next check-in dates.</p>
+
+<p>Those with chronic conditions will typically require two to four follow-up consultations annually with a doctor. Prevailing subsidies, such as the Community Health Assist Scheme (CHAS), will apply for visits and treatment. The enhanced Healthier SG benefits will apply for residents seeking care from their enrolled clinic.</p>
+
+<p>For those without chronic conditions, you may check-in with your enrolled clinic annually.</p>
+    </div>
+  </li>
+	</ul>
+	
+### HealthHub
+
+<ul class="jekyllcodex_accordion">
+<li>
+    <input id="accordion37" type="checkbox">
+    <label for="accordion37">37. Will all my health records and screening/tests results be viewable on HealthHub app</label>
+    <div>
+      <p>HealthHub retrieves your health records such as screening and lab test results from the medical records system of various public healthcare institutions, such as polyclinics and public structured hospitals.</p>
+
+<p>For more information on the types of health records, you may refer to the HealthHub FAQs at https://www.healthhub.sg/faqs for more information.</p>
+    </div>
+  </li>
+	<li>
+    <input id="accordion38" type="checkbox">
+    <label for="accordion38">38. Where can I seek technical assistance on the HealthHub app?</label>
+    <div>
+      <p>You may:
+				</p><ul>
+					<li>refer to the HealthHub FAQs at https://www.healthhub.sg/faqs, </li>
+					<li>call HealthHub contact centre at 1800 225 4482 or </li>
+					<li>send an email to contact_us@healthhub.sg</li>
+			</ul>
+<p></p>
+    </div>
+  </li>
+	</ul>
