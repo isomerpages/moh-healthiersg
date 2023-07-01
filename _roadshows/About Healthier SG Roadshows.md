@@ -21,7 +21,7 @@ Get ready to participate in engaging workshops, educational talks and curated pe
 
 
 **Healthier SG exclusive giveaways**
-
+![](/images/Roadshows/giveaway.PNG)
 *while stocks last
 
 Collect at least 2 stamps to get a chance and spin the wheel to take home one of these Healthier SG exclusive giveaways. Get additional chance to spin the wheel by collecting all 4 stamps at the roadshow.
