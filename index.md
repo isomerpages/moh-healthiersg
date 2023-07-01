@@ -22,6 +22,14 @@ sections:
           url: https://gowhere.gov.sg/healthiersg
       background: /images/hsg microsite banner.png
   - infopic:
+      title: Join us at the Healthier SG roadshows!
+      description: Enrol in Healthier SG, take part in healthy lifestyle activities
+        and receive giveaways at the Healthier SG roadshows.
+      button: Find out more
+      url: /roadshows/about
+      image: /images/roadshow.jpg
+      alt: Image alt text
+  - infopic:
       title: Why should you enrol in Healthier SG?
       description: What are the benefits of enrolling in Healthier SG? How can
         Healthier SG help you become healthier?
@@ -46,13 +54,5 @@ sections:
       button: Read the FAQs
       url: /faqs
       image: /images/textmessage.jpg
-      alt: Image alt text
-  - infopic:
-      title: Join us at the Healthier SG roadshows!
-      description: Enrol in Healthier SG, take part in healthy lifestyle activities
-        and receive giveaways at the Healthier SG roadshows.
-      button: Find out more
-      url: /roadshows/about
-      image: /images/roadshow.jpg
       alt: Image alt text
 ---
