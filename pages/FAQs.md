@@ -539,7 +539,7 @@ What do I need to bring along for my first visit?</label>
 
 <li>
     <input id="accordion44" type="checkbox">
-    <label for="accordion44">44. How will my attendance at Healthier SG programmes be tracked?xx</label>
+    <label for="accordion44">44. How will my attendance at Healthier SG programmes be tracked?</label>
     <div>
       <p>Your attendance will be taken through the Healthy 365 app and/or during the programmes by the programme facilitators.</p>
     </div>
