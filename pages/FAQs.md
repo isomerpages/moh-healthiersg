@@ -355,11 +355,26 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 ### Health Plan
 
 <ul class="jekyllcodex_accordion">
-  
+	<li>
+    <input id="accordion29" type="checkbox">
+    <label for="accordion29">29. How do I view and access my Health Plan?</label>
+    <div>
+      <p>A digital summary of your Health Plan can be viewed and accessed on the HealthHub app after your first consultation.</p>
 
+<p>Follow the steps below to view your Health Plan in HealthHub.</p>
+			<img src="/images/FAQs/faqaccess.png" alt="faq">
+    </div>
+  </li>
+	<li>
+    <input id="accordion11" type="checkbox">
+    <label for="accordion11">q</label>
+    <div>
+      <p>a</p>
+    </div>
+  </li>
   <li>
-    <input id="accordion18" type="checkbox">
-    <label for="accordion18">How often will my Health Plan be reviewed?</label>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">How often will my Health Plan be reviewed?</label>
     <div>
 			<p>Your family clinic will have an annual check-in with you based on your Health Plan and to discuss any changes or next steps you wish to take. </p>
 
