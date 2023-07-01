@@ -184,14 +184,14 @@ Can we enrol our care recipients or family members?</label>
     </div>
 	</li>  
   <li>
-    <input id="accordion8" type="checkbox"><label for="accordion8">13. Can I enrol with a polyclinic instead of a GP clinic?</label>
+    <input id="accordion13" type="checkbox"><label for="accordion13">13. Can I enrol with a polyclinic instead of a GP clinic?</label>
     <div>
       <p>The care provided at the polyclinics and GP clinics are both guided by the same care protocols. You are strongly advised to enrol with a GP clinic where you would be more likely to see the same doctor for each visit. By seeing the same doctor each time, you can develop and enjoy a long-term trusted relationship with a doctor who knows you well. Healthcare clusters and community partners will work with your chosen clinic to support your needs. Do continue to follow up with your GP if you have been seeing the GP clinic previously.</p>
     </div>
 	</li>  
     <li>
-    <input id="accordion9" type="checkbox">
-    <label for="accordion9">14. Will I be allowed to change the GP / polyclinic after I have successfully enrolled with Healthier SG?</label>
+    <input id="accordion14" type="checkbox">
+    <label for="accordion14">14. Will I be allowed to change the GP / polyclinic after I have successfully enrolled with Healthier SG?</label>
     <div>
 			<p>Yes, you can switch clinics after you have enrolled.</p>
 
@@ -200,22 +200,22 @@ Can we enrol our care recipients or family members?</label>
 <p>We will support one change of enrolled clinic in a year to accommodate personal preferences and changes in life circumstances, e.g., families who move house.  As some residents may need more time to find a clinic that they are comfortable with at the start, we will support up to four changes for the initial enrolment period.
 </p></div></li>
 <li>
-    <input id="accordion10" type="checkbox">
-    <label for="accordion10">15. I have recently changed my mobile/contact number, how do I update it for Healthier SG</label>
+    <input id="accordion15" type="checkbox">
+    <label for="accordion15">15. I have recently changed my mobile/contact number, how do I update it for Healthier SG</label>
     <div>
       <p>You may call the MOH hotline at 6325 9220 or approach the Healthier SG ambassadors at the nearest Community Club or Joint Testing &amp; Vaccination Centres (JTVC) for assistance to update your contact number.</p>
 
 <p>For more information on the locations: https://gowhere.gov.sg/healthiersg</p></div>
   </li>    
 <li>
-    <input id="accordion10" type="checkbox">
-    <label for="accordion10">16. What if my preferred Healthier SG clinic is popular and I am unable to enrol or make my appointment?</label>
+    <input id="accordion16" type="checkbox">
+    <label for="accordion16">16. What if my preferred Healthier SG clinic is popular and I am unable to enrol or make my appointment?</label>
     <div>
       <p>You can choose to enrol with other Healthier SG clinics suggested in the HealthHub App, or wait for the next available appointment date.</p></div>
   </li>
 	<li>
-    <input id="accordion10" type="checkbox">
-    <label for="accordion10">17. How do I check my Healthier SG enrolment status?</label>
+    <input id="accordion17" type="checkbox">
+    <label for="accordion17">17. How do I check my Healthier SG enrolment status?</label>
     <div>
       <p>You are considered to have successfully enrolled when you are able to view your selected clinic’s name under “Your Enrolled Clinic” tab in HealthHub.</p></div>
   </li>	
