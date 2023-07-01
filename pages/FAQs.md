@@ -156,9 +156,9 @@ Can my caregiver enrol me on his/her HealthHub app?
 			<img src="/images/FAQs/recipient2.png" alt="faq">
 			<p>Once your caregiver has successfully added you as a care recipient, your user profile will be shown on HealthHub for them to assist with your enrolment if you are eligible to enrol in Healthier SG.</p>
 
-<p>Alternatively, you may enrol in Healthier SG through the HealthHub web portal at https://www.healthhub.sg by logging in with your Singpass if you do not wish to download the app or do not have access to a smartphone.</p>
+<p>Alternatively, you may enrol in Healthier SG through the <a href="https://www.healthhub.sg">HealthHub web portal</a> by logging in with your Singpass if you do not wish to download the app or do not have access to a smartphone.</p>
 
-<p>HealthHub FAQs can be found here: www.healthhub.sg/faqs</p>
+<p>HealthHub FAQs can be found here: <a href="https://www.healthhub.sg/faqsq">www.healthhub.sg/faqs</a></p>
 </div>
 	</li>  
 	<li>
@@ -205,7 +205,7 @@ Can we enrol our care recipients or family members?</label>
     <div>
       <p>You may call the MOH hotline at 6325 9220 or approach the Healthier SG ambassadors at the nearest Community Club or Joint Testing &amp; Vaccination Centres (JTVC) for assistance to update your contact number.</p>
 
-<p>For more information on the locations: https://gowhere.gov.sg/healthiersg</p></div>
+<p>For more information on the locations, click <a href="https://gowhere.gov.sg/healthiersg">here</a>.</p></div>
   </li>    
 <li>
     <input id="accordion16" type="checkbox">
@@ -332,7 +332,7 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     <div>
       <p>If your caregiver has enrolled you via the HealthHub app, he/she will be able to book an appointment for you through the same app.</p>
 <p>Alternatively, you may approach the nearest Community Club (CC) or Joint Testing &amp; Vaccination Centre (JTVC) for assistance with the appointment booking. Healthier SG ambassadors at the CC or JTVC will provide you with an appointment card to bring along for your appointment. Subsequently, you will receive a Health Plan Booklet at your Healthier SG clinic to keep track of your appointments and guide you towards achieving your health goals.</p>
-			<p>For more information on CC/JTVC locations: https://gowhere.gov.sg/healthiersg</p>
+			<p>For more information on the locations, click <a href="https://gowhere.gov.sg/healthiersg">here</a>.</p>
 <p></p>
     </div>
   </li>
@@ -480,7 +480,7 @@ What do I need to bring along for my first visit?</label>
     <div>
       <p>You may approach our Healthier SG ambassadors at Community Clubs (CC) or the Joint Testing &amp; Vaccination Centres (JTVC) for assistance.</p>
 
-<p>For more information on CC/JTVC locations: https://gowhere.gov.sg/healthiersg</p>
+<p>For more information on the locations, click <a href="https://gowhere.gov.sg/healthiersg">here</a>.</p>
     </div>
   </li>
 		<li>
@@ -501,9 +501,7 @@ What do I need to bring along for my first visit?</label>
 <li>Charity Donations</li>
 <li>TransitLink eVouchers</li>
 			</ul>
-			<p></p>
-			
-			<p>You may refer to the rewards section of the Healthy 365 Website at https://go.gov.sg/hpbrewards</p>
+	<p>You may refer to the rewards section of the Healthy 365 Website at https://go.gov.sg/hpbrewards</p>
 <p></p>
     </div>
   </li>
