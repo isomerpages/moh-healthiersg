@@ -363,31 +363,34 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 
 <p>Follow the steps below to view your Health Plan in HealthHub.</p>
 			<img src="/images/FAQs/faqaccess.png" alt="faq">
+			<p>For recommended health programmes offered by community partners, you can use the direct link function within the HealthHub app to access Healthy 365 app conveniently and see what activities are available near you. Alternatively, you may download the Healthy 365 app from your app store.</p>
+
+<p>If you do not have a smartphone to access the HealthHub app, you may request your clinic to print out a copy of your Health Plan for you.</p>
     </div>
   </li>
-	<li>
-    <input id="accordion11" type="checkbox">
-    <label for="accordion11">q</label>
-    <div>
-      <p>a</p>
-    </div>
-  </li>
-  <li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2">How often will my Health Plan be reviewed?</label>
+<li>
+    <input id="accordion30" type="checkbox">
+    <label for="accordion30">30. How often will my Health Plan be reviewed?</label>
     <div>
 			<p>Your family clinic will have an annual check-in with you based on your Health Plan and to discuss any changes or next steps you wish to take. </p>
 
 <p>If you have chronic conditions, you can expect to have more frequent check-ins with your family clinic as guided by the care protocols and based on your doctor’s assessment.</p>
     </div>
-	</li> </ul>
+	</li> 
+<li>
+    <input id="accordion31" type="checkbox">
+    <label for="accordion31">31. If I have changed my enrolled clinic, can my current family clinic view my previous Health Plan?</label>
+    <div>
+			<p>Yes, your current family clinic will be able to view your past Health Plans co-developed with your previous family clinic.</p>
+    </div>
+	</li></ul>
 
 ### Referral
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion19" type="checkbox">
-    <label for="accordion19">Can my family clinic refer me for specialist care? <br>
+    <input id="accordion32" type="checkbox">
+    <label for="accordion32">32. Can my family clinic refer me for specialist care? <br>
 Will referrals made under Healthier SG be subsidised at Specialist Outpatient Centre (SOC) rates, similar to those referred by polyclinics?<br>
 What do I need to bring along for my first visit?</label>
     <div>
@@ -398,4 +401,29 @@ What do I need to bring along for my first visit?</label>
 <p>For more information on SOC subsidies, please visit the MOH website or check directly with your CHAS GP or the public SOC.</p>
     </div>
 	</li>
+	<li>
+    <input id="accordion33" type="checkbox">
+    <label for="accordion33">33. Who will manage my clinical referrals after seeing my family clinic?</label>
+    <div>
+      <p>Your Healthier SG GP clinic’s care team will facilitate your referrals to specialist outpatient clinics (SOC) and/or Hospital as part of your care (if required). Do inform your clinic’s team if you have a preferred SOC and/or Hospital.</p>
+
+<p>There may be situations where you may be required to provide information or submit documents to complete the referral. Your Healthier SG GP clinic’s care team will advise you if you need to fill up documents as part of the referral process.</p>
+    </div>
+  </li>
+
+<li>
+    <input id="accordion34" type="checkbox">
+    <label for="accordion34">34. Who do I contact should I need to amend my appointments for referrals?</label>
+    <div>
+      <p>Please inform the clinic you were referred to that you would like to change your appointment. If you are unsure of the clinic you were referred to, please contact your enrolled Healthier SG GP clinic for clarification.</p>
+    </div>
+  </li>
+
+<li>
+    <input id="accordion35" type="checkbox">
+    <label for="accordion35">35. Will my referral results be automatically sent to my family clinic for review?</label>
+    <div>
+      <p>Not all your clinical results by other care providers will be automatically sent to your family clinic. As such, it is good practice to always bring your clinical results physically during your appointments.</p>
+    </div>
+  </li>
 			</ul>
