@@ -521,3 +521,43 @@ What do I need to bring along for my first visit?</label>
 
 ### Programmes
 
+<ul class="jekyllcodex_accordion">
+<li>
+    <input id="accordion43" type="checkbox">
+    <label for="accordion43">43. Where can I locate Healthier SG programmes to sign up/participate in?</label>
+    <div>
+      <p>You will be able to find healthy lifestyle programmes by using the Healthy 365 app:
+</p><ul>
+<li>Take healthier actions by getting started with challenges such as the National Steps Challenge™ and Eat, Drink, Shop Healthy Challenge, participating in recommended programmes (e.g. Live Well, Age Well programme) and booking activities including a wide variety of MOVE IT free exercise classes and health workshop in the community.</li>
+<li>Earn Healthpoints for taking healthier actions and redeem Healthpoints by choosing from a catalogue of lifestyle rewards available.</li>
+<li>Track your daily physical activity and sleep duration with a compatible wearable and use the meal log tool to monitor your daily calorie intake under “My Daily Progress” section, which provides a view of your health-related lifestyle data at a glance</li>
+<li>Enjoy access to informative resources and community partners programmes to support your journey to a healthier lifestyle.</li>
+
+<p></p>
+    </ul></div>
+  </li>
+
+<li>
+    <input id="accordion44" type="checkbox">
+    <label for="accordion44">44. How will my attendance at Healthier SG programmes be tracked?xx</label>
+    <div>
+      <p>Your attendance will be taken through the Healthy 365 app and/or during the programmes by the programme facilitators.</p>
+    </div>
+  </li>
+
+<li>
+    <input id="accordion45" type="checkbox">
+    <label for="accordion45">45. Do I need to make bookings for Healthier SG programmes, or can I just walk in?</label>
+    <div>
+      <p>Selected programmes and activities are open for walk in, but slots are subject to availability. To ensure you get a slot, you are encouraged to make a booking beforehand through Healthy 365 app.</p>
+    </div>
+  </li>
+
+<li>
+    <input id="accordion46" type="checkbox">
+    <label for="accordion46">46. If I do not have a smartphone, how can I sign up for the programmes and keep track of it?</label>
+    <div>
+      <p>If you or your loved ones do not have access to a smartphone or the Healthy 365 app, you may approach the nearest Community Club (CC), Active Ageing Centre (AAC) or ActiveSG Sport Centres for assistance with the booking of programmes. </p>
+    </div>
+  </li>
+</ul>
