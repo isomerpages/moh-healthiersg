@@ -158,9 +158,8 @@ Can my caregiver enrol me on his/her HealthHub app?
 
 <p>Alternatively, you may enrol in Healthier SG through the HealthHub web portal at https://www.healthhub.sg by logging in with your Singpass if you do not wish to download the app or do not have access to a smartphone.</p>
 
-			<p>HealthHub FAQs can be found here: www.healthhub.sg/faqs</p>
-
-    </div>
+<p>HealthHub FAQs can be found here: www.healthhub.sg/faqs</p>
+</div>
 	</li>  
 	<li>
     <input id="accordion12" type="checkbox"><label for="accordion12">13. How can I access HealthHub and Healthier SG-related functions on behalf of my loved ones?<br>
