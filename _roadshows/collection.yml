@@ -2,6 +2,7 @@ collections:
   roadshows:
     output: true
     order:
+      - Roadshows in South East Region.md
       - About Healthier SG Roadshows.md
       - Roadshows in Central region.md
       - Roadshows in North West Region.md
