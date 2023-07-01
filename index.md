@@ -9,22 +9,18 @@ sections:
   - hero:
       key_highlights:
         - title: What is Healthier SG?
-          description: Everything you need to know
+          description: About the national initiative.
           url: /about/what-is-healthier-sg/
-        - title: Enrolment
-          description: When can I enrol?
-          url: /about/enrolment
+        - title: Benefits of Enrolment
+          description: Why should you enrol?
+          url: /enrolment/benefits
         - title: Roadshows
-          description: More on Healthier SG roadshows.
+          description: What you can look forward to.
           url: /roadshows/about/
-        - title: FAQs
-          description: Frequently Asked Questions
-          url: /faqs/
-      url: /about
+        - title: Healthier SG Clinic Finder
+          description: Find a Healthier SG clinic.
+          url: https://gowhere.gov.sg/healthiersg
       background: /images/hsg microsite banner.png
-      title: " "
-      subtitle: "  "
-      button: enrol
   - infopic:
       title: How can I tell if my Healthier SG SMS is not a scam?
       description: The SMS(es) from MOH’s Healthier SG will show a registered sender
