@@ -229,8 +229,8 @@ Which doctor should I enrol with, and can I continue to see multiple doctors aft
 <p>We encourage you to commit to visiting one family clinic who will support you in developing and adopting a Health Plan. The Healthier SG family clinic will serve as the first point-of-contact to holistically manage your health.</p></div>
   </li>
 	<li>
-    <input id="accordion11" type="checkbox">
-    <label for="accordion11">19. How do I change my enrolled Healthier SG clinic on HealthHub?</label>
+    <input id="accordion19" type="checkbox">
+    <label for="accordion19">19. How do I change my enrolled Healthier SG clinic on HealthHub?</label>
     <div>
       <p>Steps for changing enrolled Healthier SG clinic on HealthHub:</p>
 			<img src="/images/FAQs/faqclinic1.png" alt="faq">
@@ -238,8 +238,8 @@ Which doctor should I enrol with, and can I continue to see multiple doctors aft
     </div>
   </li>
 	<li>
-    <input id="accordion11" type="checkbox">
-    <label for="accordion11">20. Why can’t I find my Healthier SG clinic of choice? <br>
+    <input id="accordion20" type="checkbox">
+    <label for="accordion20">20. Why can’t I find my Healthier SG clinic of choice? <br>
 What do I do if my existing General Practitioner (GP) is not a Healthier SG clinic?</label>
     <div>
       <p>For Healthier SG, residents can enrol only with a clinic that is participating in Healthier SG. GP clinics that are not Healthier SG will not be available for selection. </p>
@@ -252,8 +252,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
   </li>
 <li>
-    <input id="accordion12" type="checkbox">
-    <label for="accordion12">21. Why do I need to visit the clinic after enrolment? <br>What can I expect at this first Health Plan consultation session?
+    <input id="accordion21" type="checkbox">
+    <label for="accordion21">21. Why do I need to visit the clinic after enrolment? <br>What can I expect at this first Health Plan consultation session?
 </label>
     <div>
       <p>During the Health Plan consultation at your enrolled Healthier SG clinic, the doctor will discuss your health, and co-create a Health Plan that works for you. This could include:
@@ -269,29 +269,29 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
   </li>
 <li>
-    <input id="accordion13" type="checkbox">
-    <label for="accordion13">22. What happens if I need to see the doctor for my illness during the same visit for my first Health Plan discussion? Do I still need to pay?</label>
+    <input id="accordion22" type="checkbox">
+    <label for="accordion22">22. What happens if I need to see the doctor for my illness during the same visit for my first Health Plan discussion? Do I still need to pay?</label>
     <div>
       <p>The first Health Plan discussion is fully subsidised, and you do not need to pay for the discussion. If you are seeing the doctor for your first Health Plan discussion and for other illnesses, please check with the clinic whether there are charges for consultation/treatment unrelated to Healthier SG.</p>
     </div>
   </li>
 <li>
-    <input id="accordion14" type="checkbox">
-    <label for="accordion14">23. Can I use my next appointment at the GP/Polyclinic for my first Health Plan discussion?</label>
+    <input id="accordion23" type="checkbox">
+    <label for="accordion23">23. Can I use my next appointment at the GP/Polyclinic for my first Health Plan discussion?</label>
     <div>
       <p>If you have enrolled with your existing GP/Polyclinic, you can use your next scheduled appointment as an opportunity to also have your first Health Plan discussion with the doctor. However, please note that there may still be fees charged for consultation and treatment that are unrelated to Healthier SG.</p>
     </div>
   </li>
 <li>
-    <input id="accordion15" type="checkbox">
-    <label for="accordion15">24. If I have a company doctor and/or any other healthcare insurance plans, can I still enrol with a Healthier SG clinic?</label>
+    <input id="accordion24" type="checkbox">
+    <label for="accordion24">24. If I have a company doctor and/or any other healthcare insurance plans, can I still enrol with a Healthier SG clinic?</label>
     <div>
      <p>Your existing health benefits and insurance coverage (e.g., provided by your employer) can co-exist with Healthier SG. MOH encourages employers and insurers to support their panel of clinics to join Healthier SG, so that their employees/clients can tap on medical benefits from employers/insurers and also be supported by the Healthier SG clinic they enrol with for more personalised and comprehensive care offerings.</p>
     </div>
   </li>
 <li>
-    <input id="accordion16" type="checkbox">
-    <label for="accordion16">25. Do I have the flexibility to choose a preferred clinic near my residence or workplace?</label>
+    <input id="accordion25" type="checkbox">
+    <label for="accordion25">25. Do I have the flexibility to choose a preferred clinic near my residence or workplace?</label>
     <div>
       <p>Residents can choose any clinic that is participating in Healthier SG. This can be a clinic located near your home or workplace or a clinic that you have visited for many years. </p>
 
@@ -304,8 +304,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 ### Planning my first Health Plan discussion
 <ul class="jekyllcodex_accordion">
 <li>
-    <input id="accordion11" type="checkbox">
-    <label for="accordion11">26. How do I book my first appointment for my Health Plan discussion?</label>
+    <input id="accordion26" type="checkbox">
+    <label for="accordion26">26. How do I book my first appointment for my Health Plan discussion?</label>
     <div>
       <p>Follow the steps below to book your first consultation with your enrolled Healthier SG clinic for your health plan discussion: </p>
 
@@ -327,8 +327,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
   </li>
 	<li>
-    <input id="accordion11" type="checkbox">
-    <label for="accordion11">27. If I do not have a smartphone, how can I make an appointment?</label>
+    <input id="accordion27" type="checkbox">
+    <label for="accordion27">27. If I do not have a smartphone, how can I make an appointment?</label>
     <div>
       <p>If your caregiver has enrolled you via the HealthHub app, he/she will be able to book an appointment for you through the same app.</p>
 <p>Alternatively, you may approach the nearest Community Club (CC) or Joint Testing &amp; Vaccination Centre (JTVC) for assistance with the appointment booking. Healthier SG ambassadors at the CC or JTVC will provide you with an appointment card to bring along for your appointment. Subsequently, you will receive a Health Plan Booklet at your Healthier SG clinic to keep track of your appointments and guide you towards achieving your health goals.</p>
@@ -337,8 +337,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
   </li>
 	<li>
-    <input id="accordion17" type="checkbox">
-    <label for="accordion17">28. What do I need to bring along for my first visit?</label>
+    <input id="accordion28" type="checkbox">
+    <label for="accordion28">28. What do I need to bring along for my first visit?</label>
     <div>
 			<p>Do bring along:</p><ul>
 <li>your NRIC to your Healthier SG clinic for verification purposes; and</li>
