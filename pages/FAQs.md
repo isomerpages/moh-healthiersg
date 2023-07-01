@@ -220,8 +220,8 @@ Can we enrol our care recipients or family members?</label>
       <p>You are considered to have successfully enrolled when you are able to view your selected clinic’s name under “Your Enrolled Clinic” tab in HealthHub.</p></div>
   </li>	
   <li>
-    <input id="accordion10" type="checkbox">
-    <label for="accordion10">18. I have been seeing various doctors at GP clinics as well as the polyclinic.<br>
+    <input id="accordion18" type="checkbox">
+    <label for="accordion18">18. I have been seeing various doctors at GP clinics as well as the polyclinic.<br>
 Which doctor should I enrol with, and can I continue to see multiple doctors after the enrolment?</label>
     <div>
       <p>If you are already visiting a regular Healthier SG GP clinic, you are encouraged to stay to develop and enjoy a long-term trusted relationship with a doctor who knows you well. </p>
