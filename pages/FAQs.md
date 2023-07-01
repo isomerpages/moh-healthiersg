@@ -174,11 +174,11 @@ Can we enrol our care recipients or family members?</label>
 <p><strong>Please ensure that your care recipient have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5). </strong></p>
 
 			<p>Next, you can then add your care recipient (or loved ones) under ‘People under my care’.</p>
-<img src="/images/FAQs/caregiver3.png" alt="faq">
-			<img src="/images/FAQs/caregiver4.png" alt="faq">
+<img src="/images/FAQs/recipient3.png" alt="faq">
+			<img src="/images/FAQs/recipient4.png" alt="faq">
  
 <p>After it has been added successfully, you can view your care recipient’s user profile in the Health Profiles page. You may continue to assist your loved ones to enrol in Healthier SG and access Healthier SG related functions on their behalf by following the below steps.</p>
-<img src="/images/FAQs/caregiver5.png" alt="faq">
+<img src="/images/FAQs/recipient5.png" alt="faq">
 <p>For more information on how to add a caregiver and control your caregiver’s access to your health records, please refer to the <a href="https://www.healthhub.sg/faqs">HealthHub FAQs</a> under the section ‘Caregiver Access’.</p>
 
     </div>
