@@ -35,7 +35,7 @@ description: ""
     <div>
 	<strong>Location:</strong>
 <ul>
-	<li>  Hard court behind Kallang Community Club</li></ul>
+	<li>Hard court behind Kallang Community Club</li></ul>
         
 <strong>Date &amp; Time:</strong>
 <ul>
