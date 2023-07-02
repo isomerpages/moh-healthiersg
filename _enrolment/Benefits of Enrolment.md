@@ -3,7 +3,7 @@ title: Benefits of Enrolment
 permalink: /enrolment/benefits/
 description: ""
 ---
-[Healthier SG national enrolment will begin on 5 July 2023] 
+[Healthier SG national enrolment programme will begin on 5 July 2023] 
 ### Why should I enrol in Healthier SG?
 
 ![Seniors mobile](/images/Enrolment_Benefits/Seniors%20Mobile.png)
