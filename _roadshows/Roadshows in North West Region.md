@@ -21,7 +21,7 @@ description: ""
 <li>   Take MRT: Yew Tee MRT Station</li>
 <li>   Take Bus: 302, 302A, 307, 307A, 979 (Yew Tee Station)</li>
 <li>   Use <a href="https://www.onemap.gov.sg/main/v2/?lat=1.397523&amp;lng=103.7469327&amp;postal=689578">OneMap</a> to access the map</li></ul>
-				<img src="/images/roadshows/roadshow3.jpg" alt="bishan">
+				<img src="/images/roadshows/YewTee.jpg" alt="bishan">
 </div>
   </li>
 	<li>
