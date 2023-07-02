@@ -3,7 +3,7 @@ title: For caregivers
 permalink: /enrolment/caregivers/
 description: ""
 ---
-[Healthier SG national enrolment programme will begin on 5 July 2023]
+[Healthier SG enrolment programme will begin on 5 July 2023]
 
 ### Do you need help enrolling to Healthier SG?
 
