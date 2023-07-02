@@ -17,13 +17,16 @@ description: ""
 <li>   7 July: 1pm to 6pm</li>
 <li>   8-9 July: 9am to 6pm</li>
 			</ul>
+			<strong>Programme schedule:</strong>
+			<ul>
+				<li>Click <a href="https://go.gov.sg/healthiersg-bishanamk">here</a> to view the main stage and zone programme!</li>
+			</ul>
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Ang Mo Kio MRT Station</li>
 <li>   Take Bus: 71, 133, 136, 262 (opp Ang Mo Kio Swimming Complex)</li>
 <li>   Use <a href="https://www.onemap.gov.sg/main/v2/?lat=1.3536547&amp;lng=103.9406687&amp;postal=528523">OneMap</a> to access the map</li></ul>
 				<img src="/images/roadshows/roadshow1.jpg" alt="bishan">
-Click <a href="https://go.gov.sg/healthiersg-bishanamk">here</a> to view the main stage and zone programme!
 </div>
   </li>
 	<li>
