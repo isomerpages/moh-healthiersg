@@ -3,7 +3,8 @@ title: For caregivers
 permalink: /enrolment/caregivers/
 description: ""
 ---
-[Healthier SG national enrolment will begin on 5 July 2023] 
+[Healthier SG national enrolment programme will begin on 5 July 2023]
+
 ### Do you need help enrolling to Healthier SG?
 
 You can grant access to your family members or loved ones to assist you with the enrolment by adding them as your caregiver in HealthHub and enabling permission to manage Healthier SG on your behalf. Your caregiver can then add you as a care recipient to view your health records and manage your e-Services on HealthHub.
