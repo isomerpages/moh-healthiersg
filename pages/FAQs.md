@@ -170,7 +170,8 @@ Can we enrol our care recipients or family members?</label>
 
 <p>Please follow the steps in the below graphics to set up access as a caregiver on your care recipient’s HealthHub app. </p>
 
- 
+ <img src="/images/FAQs/caregiver3.png" alt="faq">
+			<img src="/images/FAQs/caregiver4.png" alt="faq">
 <p><strong>Please ensure that your care recipient have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5). </strong></p>
 
 			<p>Next, you can then add your care recipient (or loved ones) under ‘People under my care’.</p>
