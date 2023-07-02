@@ -3,7 +3,7 @@ title: Enrolment Terms
 permalink: /enrolment-terms/
 description: ""
 ---
-[Last updated: 16 May 2023]
+[Last updated: 2 July 2023]
  
 ### **Introduction**
 
