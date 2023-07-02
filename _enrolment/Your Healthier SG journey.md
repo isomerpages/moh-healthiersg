@@ -3,7 +3,7 @@ title: Your Healthier SG journey
 permalink: /enrolment/healthiersgjourney/
 description: ""
 ---
-[Healthier SG national programme will begin on 5 July 2023] 
+[Healthier SG enrolment programme will begin on 5 July 2023] 
 ### Step 1: Register
 
 * Enrol when you receive MOH’s SMS invitation.
