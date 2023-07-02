@@ -3,7 +3,7 @@ title: How do I enrol?
 permalink: /enrolment/howtoenrol/
 description: ""
 ---
-[Healthier SG national enrolment will begin on 5 July 2023] 
+[Healthier SG national enrolment programme will begin on 5 July 2023] 
 
 Under Healthier SG, you can enrol with a Healthier SG clinic and your family clinic will develop a personalised Health Plan with you.
 
