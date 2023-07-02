@@ -34,7 +34,7 @@ sections:
       description: What are the benefits of enrolling in Healthier SG? How can
         Healthier SG help you become healthier?
       button: Find out more
-      url: /benefits/enrolment/
+      url: /enrolment//benefits/
       image: /images/Enrolment_Benefits/Seniors Mobile.png
       alt: Healthier SG Benefits
   - infopic:
