@@ -3,4 +3,8 @@ collections:
     output: true
     order:
       - About Healthier SG Roadshows.md
-      - Central.md
+      - Roadshows in Central Region.md
+      - Roadshows in North East Region.md
+      - Roadshows in North West Region.md
+      - Roadshows in South East Region.md
+      - Roadshows in South West Region.md

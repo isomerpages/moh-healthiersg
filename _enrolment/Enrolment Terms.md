@@ -3,13 +3,13 @@ title: Enrolment Terms
 permalink: /enrolment-terms/
 description: ""
 ---
-Last updated: 20 Apr 2023
+[Last updated: 2 July 2023]
  
 ### **Introduction**
 
 1.              Healthier SG (the “**Programme**”) is a multi-year transformation strategy by the Ministry of Health (“**MOH**”) to shift the focus of Singapore’s healthcare system beyond caring for individuals who are sick, to proactively preventing individuals from falling ill.
 
-2.              The Programme aims to empower Singapore Citizens and Singapore Permanent Residents who enrol to the Programme (each, an “**Enrolee**”) to become healthier and improve their quality of life through preventive care, anchored by a strong patient-doctor relationship with a participating primary care provider, and supported by the relevant healthcare cluster. Enrolees may also be granted enhanced access to relevant lifestyle and preventive health programmes. The features of the Programme may be adjusted from time to time to improve the experience and health outcomes for Enrolees.
+2.              The Programme aims to empower Singapore Citizens and Singapore Permanent Residents who enrol in the Programme (each, an “**Enrolee**”) to become healthier and improve their quality of life through preventive care, anchored by a strong patient-doctor relationship with a participating primary care provider, and supported by the relevant healthcare cluster. Enrolees may also be granted enhanced access to relevant lifestyle and preventive health programmes. The features of the Programme may be adjusted from time to time to improve the experience and health outcomes for Enrolees.
 
 3.              Enrolees are bound by and shall comply with the provisions set out below (the “**Enrolment Terms**”).
 

@@ -9,19 +9,43 @@ sections:
   - hero:
       key_highlights:
         - title: What is Healthier SG?
-          description: Everything you need to know
+          description: About the national initiative.
           url: /about/what-is-healthier-sg/
-        - title: Enrolment
-          description: When can I enrol?
-          url: /about/enrolment
+        - title: Benefits of Enrolment
+          description: Why should you enrol?
+          url: /enrolment/benefits
         - title: Roadshows
-          description: More on Healthier SG roadshows.
+          description: What you can look forward to.
           url: /roadshows/about/
-        - title: FAQs
-          description: Frequently Asked Questions
-          url: /faqs/
-      url: /about
+        - title: Healthier SG Clinic Finder
+          description: Find a Healthier SG clinic.
+          url: https://gowhere.gov.sg/healthiersg
       background: /images/hsg microsite banner.png
+  - infopic:
+      title: Join us at the Healthier SG roadshows!
+      description: Enrol in Healthier SG, take part in healthy lifestyle activities
+        and receive giveaways at the Healthier SG roadshows.
+      button: Find out more
+      url: /roadshows/about
+      image: /images/roadshow.jpg
+      alt: Image alt text
+  - infopic:
+      title: Why should you enrol in Healthier SG?
+      description: What are the benefits of enrolling in Healthier SG? How can
+        Healthier SG help you become healthier?
+      button: Find out more
+      url: /enrolment//benefits/
+      image: /images/Enrolment_Benefits/Seniors Mobile.png
+      alt: Healthier SG Benefits
+  - infopic:
+      title: Your Healthier SG journey!
+      description: From enrolling into Healthier SG to going for your first
+        consultation, here’s a step by step guide on how you can participate
+        fully in Healthier SG.
+      button: Find out more
+      url: /enrolment/healthiersgjourney/
+      image: /images/Enrolment_Benefits/Seniors Health Check.png
+      alt: Healthier SG Enrolment
   - infopic:
       title: How can I tell if my Healthier SG SMS is not a scam?
       description: The SMS(es) from MOH’s Healthier SG will show a registered sender
@@ -31,24 +55,4 @@ sections:
       url: /faqs
       image: /images/textmessage.jpg
       alt: Image alt text
-  - infopic:
-      title: Pre-Enrolment for 40 and above with chronic illnesses
-      description: Residents aged 40 and above with chronic illness and who are
-        already seeing a Healthier SG-registered GP will be notified by their
-        clinic to pre-enrol.
-      button: Find out more
-      url: /about/enrolment/
-      image: /images/Enrolment_Benefits/Seniors Health Check.png
-      alt: Healthier SG Enrolment
-  - infopic:
-      title: Healthier SG Benefits
-      description: What are the resident benefits?
-      button: Find out here
-      url: /about/benefits/
-      image: /images/Enrolment_Benefits/Seniors Mobile.png
-      alt: Healthier SG Benefits
-  - resources:
-      title: Healthier SG Resources
-      subtitle: Resources
-      button: View more
 ---
