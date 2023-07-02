@@ -3,8 +3,6 @@ title: What is Healthier SG?
 permalink: /about/what-is-healthier-sg/
 description: ""
 ---
-Click here for [Chinese](/about-cn), [Malay](/about-ml), [Tamil](/about-ta)
-
 **Healthier SG** is a national initiative by the Ministry of Health (MOH) that aims to&nbsp;help Singaporeans take steps towards better health and quality of life in the years to come.
 
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/wqA7pO9C80I?start=1348" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
@@ -49,4 +47,4 @@ Read more on Healthier SG from the [White Paper on Healthier SG](/resources/whit
 
 **Still have questions?**
 
-Refer to the General Information section under our FAQs [page](/faqs). 
+Refer to the General Information section under our FAQs [page](/faqs).
