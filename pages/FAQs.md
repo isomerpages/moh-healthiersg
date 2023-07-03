@@ -202,7 +202,7 @@ Can we enrol our care recipients or family members?</label>
 </p></div></li>
 <li>
     <input id="accordion15" type="checkbox">
-    <label for="accordion15">15. I have recently changed my mobile/contact number, how do I update it for Healthier SG</label>
+    <label for="accordion15">15. I have recently changed my mobile/contact number, how do I update it for Healthier SG?</label>
     <div>
       <p>You may call the MOH hotline at 6325 9220 or approach the Healthier SG ambassadors at the nearest Community Club or Joint Testing &amp; Vaccination Centres (JTVC) for assistance to update your contact number.</p>
 
