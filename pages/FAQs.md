@@ -70,7 +70,7 @@ What is the difference between going to GPs and polyclinics?
 Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP consult?
 </label>
     <div>
-			<p>Yes, you need to be a CHAS cardholder to enjoy the new Healthier SG Chronic Tier, which will be available from early 2024 onwards. Pioneer Generation (PG)/ Merdeka Generation (MG) cardholders may still use their cards to enjoy PG and MG subsidies for GP consultation, and should consider becoming a CHAS cardholder to fully enjoy the new Healthier SG Chronic Tier. You or your household members can sign up at www.chas.sg.</p>
+			<p>Yes, you need to be a CHAS cardholder to enjoy the new Healthier SG Chronic Tier, which will be available from early 2024 onwards. Pioneer Generation (PG)/ Merdeka Generation (MG) cardholders may still use their cards to enjoy PG and MG subsidies for GP consultation, and should consider becoming a CHAS cardholder to fully enjoy the new Healthier SG Chronic Tier. You or your household members can sign up at <a href="https://www.chas.sg">www.chas.sg</a>.</p>
 		</div></li>
 				<li>
     <input id="accordion6" type="checkbox">
@@ -126,9 +126,9 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 <li>
     <input id="accordion10" type="checkbox"><label for="accordion10">10. Is there a step-by-step guide for enrolling in Healthier SG?</label>
     <div>
-      Step-by-Step Guide to enrol in Healthier SG
+			<p> Step-by-Step Guide to enrol in Healthier SG</p>
 
-Enrol in Healthier SG via HealthHub 
+			<strong>Enrol in Healthier SG via HealthHub </strong>
 			<ul>
 				<li>Eligible residents will receive an SMS invitation from “MOH” to enrol.</li>
 				<li>Download HealthHub app from Google Play or Apple App Store.</li>
@@ -158,7 +158,7 @@ Can my caregiver enrol me on his/her HealthHub app?
 
 <p>Alternatively, you may enrol in Healthier SG through the <a href="https://www.healthhub.sg">HealthHub web portal</a> by logging in with your Singpass if you do not wish to download the app or do not have access to a smartphone.</p>
 
-<p>HealthHub FAQs can be found here: www.healthhub.sg/faqs</p>
+			<p>HealthHub FAQs can be found <a href="www.healthhub.sg/faqs">here</a>.</p>
 </div>
 	</li>  
 	<li>
@@ -202,7 +202,7 @@ Can we enrol our care recipients or family members?</label>
 </p></div></li>
 <li>
     <input id="accordion15" type="checkbox">
-    <label for="accordion15">15. I have recently changed my mobile/contact number, how do I update it for Healthier SG</label>
+    <label for="accordion15">15. I have recently changed my mobile/contact number, how do I update it for Healthier SG?</label>
     <div>
       <p>You may call the MOH hotline at 6325 9220 or approach the Healthier SG ambassadors at the nearest Community Club or Joint Testing &amp; Vaccination Centres (JTVC) for assistance to update your contact number.</p>
 
@@ -392,8 +392,7 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
   <li>
     <input id="accordion32" type="checkbox">
     <label for="accordion32">32. Can my family clinic refer me for specialist care? <br>
-Will referrals made under Healthier SG be subsidised at Specialist Outpatient Centre (SOC) rates, similar to those referred by polyclinics?<br>
-What do I need to bring along for my first visit?</label>
+Will referrals made under Healthier SG be subsidised at Specialist Outpatient Centre (SOC) rates, similar to those referred by polyclinics?</label>
     <div>
 			<p>Yes, your family clinic can refer you for specialist care if it is clinically appropriate. Your doctor (or the care team) will discuss with you prior to making any referral for specialist care.</p> 
  
@@ -450,7 +449,7 @@ What do I need to bring along for my first visit?</label>
 <ul class="jekyllcodex_accordion">
 <li>
     <input id="accordion37" type="checkbox">
-    <label for="accordion37">37. Will all my health records and screening/tests results be viewable on HealthHub app</label>
+    <label for="accordion37">37. Will all my health records and screening/tests results be viewable on HealthHub app?</label>
     <div>
       <p>HealthHub retrieves your health records such as screening and lab test results from the medical records system of various public healthcare institutions, such as polyclinics and public structured hospitals.</p>
 
@@ -465,7 +464,7 @@ What do I need to bring along for my first visit?</label>
 				</p><ul>
 					<li>refer to the <a href="https://www.healthhub.sg/faqs">HealthHub FAQs</a>, </li>
 					<li>call HealthHub contact centre at 1800 225 4482 or </li>
-					<li>send an email to contact_us@healthhub.sg</li>
+			<li>send an email to <a href="mailto: contact_us@healthhub.sg">contact_us@healthhub.sg</a>.</li>
 			</ul>
 <p></p>
     </div>

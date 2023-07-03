@@ -67,22 +67,22 @@ description: ""
   </li>
 	<li>
     <input id="accordion4" type="checkbox">
-    <label for="accordion4">Roadshow in Redhill</label>
+    <label for="accordion4">Roadshow in Bukit Panjang</label>
     <div>
 		<strong>Location:</strong>
 <ul>
-	<li>Block 79 Redhill Lane (Redhill Market)</li></ul>
+	<li>Open Space in front of Hillion Mall (Next to Bukit Panjang MRT Station)</li></ul>
         
 <strong>Date &amp; Time:</strong>
 <ul>
-<li>   7 – 8 October: 10am to 6pm</li>
+<li>   4 - 5 November: 10am to 6pm</li>
 			</ul>
 <strong>How to get there:</strong>
 <ul>
-<li>   Take MRT: Redhill MRT Station</li>
-<li>   Take Bus: 63, 63A (Opp Blk 73)</li>
-<li>   Use <a href="https://www.onemap.gov.sg/main/v2/?lat=1.2875772&amp;lng=103.8183117&amp;postal=150085">OneMap</a> to access the map</li></ul>
-				<img src="/images/roadshows/roadshow10.jpg" alt="bishan">
+<li>   Take MRT: Bukit Panjang MRT Station</li>
+<li>   Take Bus: 176, 180, 180A, 920, 922, 970, 972, 972A, 972M, 973, 973A, 975, 975C, 976, 979 (Bukit Panjang Interchange)</li>
+<li>   Use <a href="https://www.onemap.gov.sg/main/v2/?lat=1.3783723&amp;lng=103.7627041&amp;postal=678270">OneMap</a> to access the map</li></ul>
+				<img src="/images/roadshows/roadshow16.jpg" alt="bishan">
 </div>
   </li>
 </ul>
