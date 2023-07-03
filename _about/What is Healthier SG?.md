@@ -19,7 +19,7 @@ We want all Singaporeans to have a trusted and lifelong relationship with your f
 
 * Your family doctor will work with you to develop a personalised health plan. 
 
-* You will be encouraged to visit your chosen family clinic for all your care needs and discuss your health goals, including the nationally recommended health screenings and vaccinations you should go for.
+* You are encouraged to visit your chosen family clinic for all your care needs and discuss your health goals, including the nationally recommended health screenings and vaccinations you should go for.
  
 
 #### An Ecosystem of Support for Better Health 
