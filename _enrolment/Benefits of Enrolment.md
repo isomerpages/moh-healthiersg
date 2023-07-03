@@ -30,7 +30,7 @@ description: ""
 
 * Create a **free personalised Health Plan^** with your family doctor for a healthy lifestyle, regular health screenings and vaccinations.
 
-* Earn **$20 worth of Healthpoints** after your first Health Plan consultation
+* **Earn $20 worth of Healthpoints** after your first Health Plan consultation
 
 * **Get fully-subsidised** nationally-recommended screenings and vaccinations (for Singapore Citizens)
 
