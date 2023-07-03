@@ -70,7 +70,7 @@ What is the difference between going to GPs and polyclinics?
 Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP consult?
 </label>
     <div>
-			<p>Yes, you need to be a CHAS cardholder to enjoy the new Healthier SG Chronic Tier, which will be available from early 2024 onwards. Pioneer Generation (PG)/ Merdeka Generation (MG) cardholders may still use their cards to enjoy PG and MG subsidies for GP consultation, and should consider becoming a CHAS cardholder to fully enjoy the new Healthier SG Chronic Tier. You or your household members can sign up at www.chas.sg.</p>
+			<p>Yes, you need to be a CHAS cardholder to enjoy the new Healthier SG Chronic Tier, which will be available from early 2024 onwards. Pioneer Generation (PG)/ Merdeka Generation (MG) cardholders may still use their cards to enjoy PG and MG subsidies for GP consultation, and should consider becoming a CHAS cardholder to fully enjoy the new Healthier SG Chronic Tier. You or your household members can sign up at <a href="https://www.chas.sg">www.chas.sg</a>.</p>
 		</div></li>
 				<li>
     <input id="accordion6" type="checkbox">
@@ -126,9 +126,9 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 <li>
     <input id="accordion10" type="checkbox"><label for="accordion10">10. Is there a step-by-step guide for enrolling in Healthier SG?</label>
     <div>
-      Step-by-Step Guide to enrol in Healthier SG
+			<p> Step-by-Step Guide to enrol in Healthier SG</p>
 
-Enrol in Healthier SG via HealthHub 
+			<strong>Enrol in Healthier SG via HealthHub </strong>
 			<ul>
 				<li>Eligible residents will receive an SMS invitation from “MOH” to enrol.</li>
 				<li>Download HealthHub app from Google Play or Apple App Store.</li>
