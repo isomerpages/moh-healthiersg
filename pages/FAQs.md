@@ -158,7 +158,7 @@ Can my caregiver enrol me on his/her HealthHub app?
 
 <p>Alternatively, you may enrol in Healthier SG through the <a href="https://www.healthhub.sg">HealthHub web portal</a> by logging in with your Singpass if you do not wish to download the app or do not have access to a smartphone.</p>
 
-<p>HealthHub FAQs can be found here: www.healthhub.sg/faqs</p>
+			<p>HealthHub FAQs can be found <a href="www.healthhub.sg/faqs">here</a>.</p>
 </div>
 	</li>  
 	<li>
@@ -392,8 +392,7 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
   <li>
     <input id="accordion32" type="checkbox">
     <label for="accordion32">32. Can my family clinic refer me for specialist care? <br>
-Will referrals made under Healthier SG be subsidised at Specialist Outpatient Centre (SOC) rates, similar to those referred by polyclinics?<br>
-What do I need to bring along for my first visit?</label>
+Will referrals made under Healthier SG be subsidised at Specialist Outpatient Centre (SOC) rates, similar to those referred by polyclinics?</label>
     <div>
 			<p>Yes, your family clinic can refer you for specialist care if it is clinically appropriate. Your doctor (or the care team) will discuss with you prior to making any referral for specialist care.</p> 
  
@@ -450,7 +449,7 @@ What do I need to bring along for my first visit?</label>
 <ul class="jekyllcodex_accordion">
 <li>
     <input id="accordion37" type="checkbox">
-    <label for="accordion37">37. Will all my health records and screening/tests results be viewable on HealthHub app</label>
+    <label for="accordion37">37. Will all my health records and screening/tests results be viewable on HealthHub app?</label>
     <div>
       <p>HealthHub retrieves your health records such as screening and lab test results from the medical records system of various public healthcare institutions, such as polyclinics and public structured hospitals.</p>
 
@@ -465,7 +464,7 @@ What do I need to bring along for my first visit?</label>
 				</p><ul>
 					<li>refer to the <a href="https://www.healthhub.sg/faqs">HealthHub FAQs</a>, </li>
 					<li>call HealthHub contact centre at 1800 225 4482 or </li>
-					<li>send an email to contact_us@healthhub.sg</li>
+			<li>send an email to <a href="mailto: contact_us@healthhub.sg">contact_us@healthhub.sg</a>.</li>
 			</ul>
 <p></p>
     </div>
