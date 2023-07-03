@@ -9,7 +9,7 @@ Under Healthier SG, you can enrol with a Healthier SG clinic and your family cli
 
 ###   Am I eligible and when can I enrol?
 
-From July 2023, the national enrolment programme will begin with Singapore Citizens and Permanent Residents who are aged 60 years and above. They will be progressively invited via SMS to enrol with either a Healthier SG clinic or polyclinic. 
+From July 2023, the Healthier SG national enrolment programme will begin with Singapore Citizens and Permanent Residents who are aged 60 years and above. They will be progressively invited via SMS to enrol with either a Healthier SG clinic or polyclinic. 
 
 Those aged 40 to 59 years will be invited on a later date.
 
