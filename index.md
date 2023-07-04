@@ -20,7 +20,7 @@ sections:
         - title: Healthier SG Clinic Finder
           description: Find a Healthier SG clinic.
           url: https://gowhere.gov.sg/healthiersg
-      background: /images/Enrolment_Benefits/hsg microsite banner.png
+      background: /images/Homepage/launchbanner.png
       subtitle: Enrolment begins from 5th July.
       button: Read more
       url: /enrolment/howtoenrol
