@@ -2,12 +2,12 @@ collections:
   enrolment:
     output: true
     order:
-      - Enrolment Terms/Enrolment Terms (Tamil).md
-      - Enrolment Terms/Enrolment Terms (Malay).md
-      - Enrolment Terms/Enrolment Terms (Chinese).md
-      - Enrolment Terms/Enrolment Terms.md
-      - Enrolment Terms/.keep
       - Benefits of Enrolment.md
       - How do I enrol?.md
       - Your Healthier SG journey.md
       - For caregivers.md
+      - Enrolment Terms/.keep
+      - Enrolment Terms/Enrolment Terms (Tamil).md
+      - Enrolment Terms/Enrolment Terms (Malay).md
+      - Enrolment Terms/Enrolment Terms (Chinese).md
+      - Enrolment Terms/Enrolment Terms.md
