@@ -2,7 +2,6 @@ collections:
   enrolment:
     output: true
     order:
-      - Data Sharing.md
       - Benefits of Enrolment.md
       - How do I enrol?.md
       - Your Healthier SG journey.md
@@ -12,3 +11,4 @@ collections:
       - Enrolment Terms/Enrolment Terms (Tamil).md
       - Enrolment Terms/Enrolment Terms (Malay).md
       - Enrolment Terms/Enrolment Terms (Chinese).md
+      - Data Sharing.md
