@@ -11,4 +11,4 @@ Clusters, family doctors, agencies and community partners will only use your dat
                                                          
 Clusters, family doctors, agencies and community partners are committed to protecting your data and maintaining data confidentiality. Data protection, data security and cybersecurity safeguards are in place. Your data is stored securely and accessed by authorised personnel only. MOH also monitors and maintains oversight to ensure your data is properly handled. As part of our commitment, MOH will continue to strengthen our policies, processes and safeguards to ensure proper management and protection of data for Healthier SG.      
 
-If you have any questions, you can contact MOH hotline (6325 9220) or submit your feedback form under “Contact Us” on the website. 
+If you have any questions, you can contact MOH hotline (6325 9220) or submit your feedback form under “Contact Us” on the website.
