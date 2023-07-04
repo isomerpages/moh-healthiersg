@@ -2,7 +2,7 @@
 layout: homepage
 title: Healthier SG
 description: Towards a Healthier Singapore
-image: /images/HSG and Forward SG Lockup.png
+image: /images/Homepage/healthier sg & moh logo.png
 permalink: /
 notification: ""
 sections:
