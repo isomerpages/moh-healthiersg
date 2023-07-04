@@ -4,7 +4,7 @@ permalink: /enrolment/enrolment-terms/ml/
 description: ""
 third_nav_title: Enrolment Terms
 ---
- **Terakhir dikemas kini : 4 July 2023**
+**Terakhir dikemas kini : 4 July 2023**
 
 ### **Pengenalan**
 
