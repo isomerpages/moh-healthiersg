@@ -24,7 +24,7 @@ sections:
       url: /enrolment/howtoenrol
       title: Healthier SG
       subtitle: The Healthier SG Enrolment Programme has begun!
-      background: /images/Homepage/hsg microsite banner5.png
+      background: /images/Homepage/healthier sg microsite banner-min.png
   - infopic:
       title: Join us at the Healthier SG roadshows!
       description: Enrol in Healthier SG, take part in healthy lifestyle activities
