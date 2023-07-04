@@ -5,6 +5,7 @@ description: ""
 ---
 [Healthier SG enrolment programme will begin on 5 July 2023] 
 ### Step 1: Register
+![enrol](/images/Enrolment_Benefits/image1.jpg)
 
 * Enrol when you receive MOH’s SMS invitation.
 
@@ -15,12 +16,13 @@ description: ""
 For list of Healthier SG clinics: [https://gowhere.gov.sg/healthiersg](https://gowhere.gov.sg/healthiersg)
 
 ### Step 2: See your doctor
-
+![enrol](/images/Enrolment_Benefits/image2.jpg)
 * Schedule your first Health Plan consultation, which will be fully subsidised.
 
 * Create your Health Plan with your family doctor.
 
 ### Step 3: Participate
+![enrol](/images/Enrolment_Benefits/image3.jpg)
 
 * Follow your personalised Health Plan.
 
