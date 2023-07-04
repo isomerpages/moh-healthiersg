@@ -21,6 +21,9 @@ sections:
           description: Find a Healthier SG clinic.
           url: https://gowhere.gov.sg/healthiersg
       background: /images/hsg microsite banner.png
+      subtitle: Healthier SG enrolment programme has begun on 5th July onwards!
+      button: Read more
+      url: /enrolment/howtoenrol
   - infopic:
       title: Join us at the Healthier SG roadshows!
       description: Enrol in Healthier SG, take part in healthy lifestyle activities
