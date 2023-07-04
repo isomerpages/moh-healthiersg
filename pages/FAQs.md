@@ -107,7 +107,9 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
     <div>
     <p>The SMS(es) from MOH's Healthier SG will show the registered sender ID <strong>"MOH"</strong>, in upper case.</p>
 
-<p>We are aware of calls falsely informing recipients that they are from MOH, requesting for your personal or financial information over the phone. Please always verify the authenticity of instructions before offering any personal information. You can also call the MOH Hotline at 6325 9220 if you have any enquiries.</p> </div></li>
+<p>We are aware of calls falsely informing recipients that they are from MOH, requesting for your personal or financial information over the phone. Please always verify the authenticity of instructions before offering any personal information. You can also call the MOH Hotline at 6325 9220 if you have any enquiries.</p> 
+		<img src="/images/FAQs/healthiersgscam.PNG" alt="bishan"><p></p>
+		</div></li>
 	<li>
     <input id="accordion9" type="checkbox">
     <label for="accordion9">9. Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
