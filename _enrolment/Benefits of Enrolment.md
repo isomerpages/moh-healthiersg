@@ -30,15 +30,15 @@ description: ""
 
 * Create a **free personalised Health Plan^** with your family doctor for a healthy lifestyle, regular health screenings and vaccinations.
 
-* **Earn $20 worth of Healthpoints** after your first Health Plan consultation
+* **Earn $20 worth of Healthpoints** after your first Health Plan consultation.
 
-* **Get fully subsidised** nationally-recommended screenings and vaccinations (for Singapore Citizens)
+* **Get fully-subsidised** nationally-recommended screenings and vaccinations (for Singapore Citizens).
 
 For list of screenings and eligibility, please click [here](https://www.healthhub.sg/programmes/61/Screen_for_Life).
 
 For list of vaccinations and eligibility, please click [here](https://www.moh.gov.sg/resources-statistics/nationally-recommended-vaccines).
 
-*^ Your first Health Plan discussion with your first enrolled clinic is fully-subsidised. For services outside of Healthier SG scope, prevailing fees will apply.*
+*^ Your first Health Plan discussion with your first enrolled clinic is fully subsidised. For services outside of Healthier SG scope, prevailing fees will apply.*
 
 
 ### From early 2024:
