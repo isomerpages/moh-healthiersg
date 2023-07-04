@@ -2,7 +2,6 @@ collections:
   health-tips:
     output: true
     order:
-      - Healthier SG short films.md
       - Active Ageing.md
       - Active Living.md
       - Healthy Eating.md
