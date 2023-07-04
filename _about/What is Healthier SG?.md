@@ -47,3 +47,5 @@ Read more on Healthier SG from the [White Paper on Healthier SG](/resources/whit
 **Still have questions?**
 
 Refer to the General Information section under our FAQs [page](/faqs).
+
+![](/images/HSG%20and%20Forward%20SG%20Lockup.png)
