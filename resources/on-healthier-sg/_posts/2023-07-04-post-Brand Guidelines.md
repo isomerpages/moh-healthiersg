@@ -10,4 +10,4 @@ MOH welcomes the support of interested groups to promote Healthier SG, a nationa
 
 #### Click in image below to access the guidelines.
 
-[![](/images/brandguidelinescover.PNG)](/images/brandguidelinescover.PNG)
+[![](/images/brandguidelinescover.PNG)](/files/healthier%20sg%20brand%20guidelines.pdf)
