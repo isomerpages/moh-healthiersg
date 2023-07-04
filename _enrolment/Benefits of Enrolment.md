@@ -32,7 +32,7 @@ description: ""
 
 * **Earn $20 worth of Healthpoints** after your first Health Plan consultation
 
-* **Get fully-subsidised** nationally-recommended screenings and vaccinations (for Singapore Citizens)
+* **Get fully subsidised** nationally-recommended screenings and vaccinations (for Singapore Citizens)
 
 For list of screenings and eligibility, please click [here](https://www.healthhub.sg/programmes/61/Screen_for_Life).
 
