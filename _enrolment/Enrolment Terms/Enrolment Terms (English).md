@@ -4,6 +4,8 @@ permalink: /enrolment-terms/
 description: ""
 third_nav_title: Enrolment Terms
 ---
+Click here for [Chinese](/enrolment/enrolment-terms/cn/), [Malay](/enrolment/enrolment-terms/ml/), [Tamil](/enrolment/enrolment-terms/tl/)
+
 [Last updated: 2 July 2023]
  
 ### **Introduction**
