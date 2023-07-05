@@ -23,7 +23,7 @@ Eligible residents will progressively receive SMS invites to enrol via HealthHub
 Once you receive an SMS from MOH, you can enrol in Healthier SG in three simple steps:
 
 * Enrol via the HealthHub app, which can be downloaded from Google Play or Apple App Store.
-* Choose your preferred Healthier SG clinic from the [list of Healthier SG clinics](https://gowhere.gov.sg/healthiersg)
+* Choose your preferred Healthier SG clinic from the [list of Healthier SG clinics](https://gowhere.gov.sg/healthiersg).
 *  Book an appointment for your free first Health Plan consultation.
 
 For a more detailed step-by-step guide on how to self enrol, click [here](/enrolment/guide/).
