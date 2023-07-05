@@ -26,6 +26,8 @@ Once you receive an SMS from MOH, you can enrol in Healthier SG in three simple 
 * Choose your preferred Healthier SG clinic from the [list of Healthier SG clinics](https://gowhere.gov.sg/healthiersg)
 *  Book an appointment for your free first Health Plan consultation.
 
+For a more detailed step-by-step guide on how to self enrol, click [here](/enrolment/guide/).
+
 **2. Enrol with caregiver's assistance**
 
 You can grant access to your caregiver/family member/loved one by adding him/her in HealthHub, so he/she can enrol you in Healthier SG on your behalf using his/her smartphone. You can add your caregiver by following the step-by-step guide on [this page](/enrolment/addcaregiver/). 
