@@ -30,9 +30,9 @@ Once you receive an SMS from MOH, you can enrol in Healthier SG in three simple 
 
 **2. Enrol with caregiver's assistance**
 
-You can grant access to your caregiver/family member/loved one by adding him/her in HealthHub, so he/she can enrol you on your behalf using his/her smartphone. You can add your caregiver by following the step-by-step guide in [this page](/enrolment/addcaregiver/). 
+You can grant access to your caregiver/family member/loved one by adding him/her in HealthHub, so he/she can enrol you in Healthier SG on your behalf using his/her smartphone. You can add your caregiver by following the step-by-step guide in [this page](/enrolment/addcaregiver/). 
 
-If you are a caregiver, you can help your care recipient to enrol by following the steps in this page [this page](/enrolment/caregivers/).
+If you are a caregiver, you can add your care recipient to your HealthHub and help them enrol in Healthier SG by following the steps in this page [this page](/enrolment/caregivers/).
 
 **3. Assisted enrolment**
 
