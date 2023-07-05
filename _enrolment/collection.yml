@@ -2,10 +2,10 @@ collections:
   enrolment:
     output: true
     order:
-      - Step by step guide on enrolment.md
       - Benefits of Enrolment.md
       - How Do I Enrol?.md
       - Your Healthier SG journey.md
+      - Step by step guide on enrolment.md
       - For Caregivers.md
       - How To Add A Caregiver In HealthHub?.md
       - Enrolment Terms/.keep
