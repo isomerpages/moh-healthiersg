@@ -8,7 +8,6 @@ Click here for [Chinese](/enrolment/enrolment-terms/cn/), [Malay](/enrolment/enr
 
 [Last updated: 2 July 2023]
  
-### **Introduction**
 
 1.              Healthier SG (the “**Programme**”) is a multi-year transformation strategy by the Ministry of Health (“**MOH**”) to shift the focus of Singapore’s healthcare system beyond caring for individuals who are sick, to proactively preventing individuals from falling ill.
 
