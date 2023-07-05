@@ -28,7 +28,7 @@ You can grant access to your caregiver/family member/loved one by adding him/her
 
 **3. Assisted enrolment**
 
-Approach the Healthier SG Ambassadors at Community Centres (CC) or Joint Testing and Vaccination Centres (JTVC) for assistance. Please bring this letter and your NRIC/FIN. To check for an enrolment station near you, visit this [page](https://www.gowhere.gov.sg/healthiersg).
+Approach the Healthier SG Ambassadors at Community Centres (CC) or Joint Testing and Vaccination Centres (JTVC) for assistance. Please bring your letter and your NRIC/FIN. To check for an enrolment station near you, visit this [page](https://www.gowhere.gov.sg/healthiersg).
 
 ### Do you need help enrolling to Healthier SG?
 
