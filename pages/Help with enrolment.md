@@ -3,8 +3,6 @@ title: Help with enrolment
 permalink: /helpwithenrolment/
 description: ""
 ---
-### Do you need help enrolling to Healthier SG?
-
 You can grant access to your family members or loved ones to assist you with your enrolment by adding them as your caregiver in HealthHub and enabling permission to manage Healthier SG on your behalf. Your caregiver can then add you as a care recipient to view your health records and manage your e-Services on HealthHub.
 
 Follow the steps below to first add a caregiver.
@@ -21,4 +19,4 @@ After this has been done, inform your caregiver to add your Health Profile under
 
 Once your caregiver has successfully added you as a care recipient, your user profile will be shown on HealthHub for them to assist with your enrolment if you are eligible to enrol in Healthier SG.
 
-Alternatively, you may enrol in Healthier SG through the HealthHub web portal at https://www.healthhub.sg by logging in with your Singpass if you do not wish to download the app or do not have access to a smartphone. 
+Alternatively, you may enrol in Healthier SG through the HealthHub web portal at https://www.healthhub.sg by logging in with your Singpass if you do not wish to download the app or do not have access to a smartphone.
