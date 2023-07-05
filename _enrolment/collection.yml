@@ -2,7 +2,7 @@ collections:
   enrolment:
     output: true
     order:
-      - Do you need help enrolling to Healthier SG?.md
+      - How to add a caregiver in HealthHub?.md
       - Benefits of Enrolment.md
       - How Do I Enrol?.md
       - Your Healthier SG journey.md
