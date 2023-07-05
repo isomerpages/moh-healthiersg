@@ -3,7 +3,6 @@ title: Your Healthier SG journey
 permalink: /enrolment/healthiersgjourney/
 description: ""
 ---
-[Healthier SG enrolment programme will begin on 5 July 2023] 
 ### Step 1: Register
 ![enrol](/images/Enrolment_Benefits/image1.jpg)
 
