@@ -22,7 +22,7 @@ Eligible residents will progressively receive SMS invites to enrol via HealthHub
 
 **1. Self-enrol**
 
-You can self-enrol using HealthHub. 
+You can self-enrol using HealthHub. If you need help with enrolment, click [here](/helpwithenrolment).
 
 **2. Enrol with caregiver's assistance**
 
