@@ -6,8 +6,6 @@ third_nav_title: Enrolment Terms
 ---
 **Terakhir dikemas kini : 4 July 2023**
 
-### **Pengenalan**
-
 1.                SG Yang Lebih Sihat ialah (“**Program**”) strategi transformasi berbilang tahun oleh Kementerian Kesihatan (“**MOH**”) untuk mengalihkan tumpuan sistem penjagaan kesihatan Singapura melebihi penjagaan individu yang sakit, kepada pendekatan proaktif untuk mencegah individu daripada jatuh sakit.
 
 2.                Program ini bertujuan untuk memperkasakan Warga Singapura dan Penduduk Tetap Singapura yang mendaftar di Program ini (setiap seorang adalah "**Enrolee**" atau Orang Yang Mendaftar) untuk menjadi lebih sihat dan meningkatkan mutu kehidupan mereka melalui penjagaan pencegahan, yang ditunjangi oleh hubungan pesakit-doktor yang kukuh dengan penyedia penjagaan asas yang mengambil bahagian, dan disokong oleh kluster penjagaan kesihatan yang berkaitan. Mereka yang telah berdaftar juga boleh diberikan akses yang dipertingkatkan kepada program-program gaya hidup dan pencegahan penyakit. Ciri-ciri Program tersebut boleh diselaraskan dari semasa ke semasa untuk meningkatkan pengalaman dan hasil kesihatan untuk para Peserta yang Mendaftar.
