@@ -7,6 +7,8 @@ description: ""
 
 Under Healthier SG, you can enrol with a Healthier SG clinic and your family clinic will develop a personalised Health Plan with you.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y3J41kFgTk0" height="315" width="560"></iframe>
+
 ###   Am I eligible and when can I enrol?
 
 From July 2023, the Healthier SG enrolment programme will begin with Singapore Citizens and Permanent Residents aged 60 years and above. They will be progressively invited via SMS to enrol with either a Healthier SG clinic or polyclinic. 
