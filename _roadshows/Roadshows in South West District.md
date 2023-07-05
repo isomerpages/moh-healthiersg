@@ -1,5 +1,5 @@
 ---
-title: Roadshows in South West Region
+title: Roadshows in South West District
 permalink: /roadshows/southwest/
 description: ""
 ---
@@ -54,7 +54,7 @@ description: ""
         
 <strong>Date &amp; Time:</strong>
 <ul>
-<li>30 September – 1 October: 10am to 6pm</li>
+<li>21 – 22 October: 9am to 5pm</li>
 			</ul>
 <strong>How to get there:</strong>
 <ul>

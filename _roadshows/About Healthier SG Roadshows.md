@@ -7,17 +7,17 @@ description: ""
 
 Healthier SG Roadshows will be held islandwide from July to November 2023 where you can learn more about Healthier SG and enrol in the initiative. 
 
-Besides enrolling in Healthier SG, you can learn more about the different ways you can take charge of your health, participate in fun activities, engage with Mediacorp artistes and receive Healthier SG giveaways!
+Besides enrolling in Healthier SG, you can learn more about the different ways you can take charge of your health, participate in fun activities and receive Healthier SG giveaways!
 
 **Key Highlights** 
 
-* Enrol in Healthier SG at the roadshow – Aged 60 and above are most welcome.
+* Enrol in Healthier SG at the roadshow – Residents aged 60 and above are most welcome to enrol.
 * Learn more about Healthier SG with your favourite Mediacorp artists.
 * Participate in healthy lifestyle activities and receive giveaways.
 
 **Programme Highlights**
 
-Get ready to participate in engaging workshops, educational talks and curated performances taking the center stage that will leave you in awe! Giveaways for participants who attend our hourly programmes. 
+Get ready to participate in engaging workshops, educational talks and curated performances taking the center stage that will leave you in awe! There will be giveaways for participants who attend our hourly programmes. 
 
 
 **Healthier SG exclusive giveaways**

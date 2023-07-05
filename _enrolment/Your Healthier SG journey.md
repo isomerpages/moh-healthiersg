@@ -3,7 +3,6 @@ title: Your Healthier SG journey
 permalink: /enrolment/healthiersgjourney/
 description: ""
 ---
-[Healthier SG enrolment programme will begin on 5 July 2023] 
 ### Step 1: Register
 ![enrol](/images/Enrolment_Benefits/image1.jpg)
 
@@ -13,7 +12,7 @@ description: ""
 
 * Choose your preferred Healthier SG clinic.
 
-For list of Healthier SG clinics, click [here](https://gowhere.gov.sg/healthiersg).
+For a list of Healthier SG clinics, click [here](https://gowhere.gov.sg/healthiersg).
 
 ### Step 2: See your doctor
 ![enrol](/images/Enrolment_Benefits/image2.jpg)

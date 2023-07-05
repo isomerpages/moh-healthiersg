@@ -23,16 +23,8 @@ sections:
       button: Read more
       url: /enrolment/howtoenrol
       title: Healthier SG
-      subtitle: The Healthier SG Enrolment Programme has begun!
+      subtitle: Healthier SG Enrolment has begun!
       background: /images/Homepage/healthier sg microsite banner-min.png
-  - infopic:
-      title: Join us at the Healthier SG roadshows!
-      description: Enrol in Healthier SG, take part in healthy lifestyle activities
-        and receive giveaways at the Healthier SG roadshows.
-      button: Find out more
-      url: /roadshows/about
-      image: /images/roadshow.jpg
-      alt: Image alt text
   - infopic:
       title: Why should you enrol in Healthier SG?
       description: What are the benefits of enrolling in Healthier SG? How can
@@ -41,6 +33,14 @@ sections:
       url: /enrolment//benefits/
       image: /images/Enrolment_Benefits/Seniors Mobile.png
       alt: Healthier SG Benefits
+  - infopic:
+      title: Join us at the Healthier SG roadshows!
+      description: Enrol in Healthier SG, take part in healthy lifestyle activities
+        and receive giveaways at the Healthier SG roadshows.
+      button: Find out more
+      url: /roadshows/about
+      image: /images/roadshow.jpg
+      alt: Image alt text
   - infopic:
       title: Your Healthier SG journey!
       description: From enrolling into Healthier SG to going for your first
