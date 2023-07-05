@@ -22,11 +22,17 @@ Eligible residents will progressively receive SMS invites to enrol via HealthHub
 
 **1. Self-enrol**
 
-You can self-enrol using HealthHub. If you need help with enrolment, click [here](/helpwithenrolment).
+Once you receive an SMS from MOH, you can enrol in Healthier SG in three simple steps:
+
+1.&nbsp; Enrol via the HealthHub app, which can be downloaded from Google Play or Apple App Store.
+2.&nbsp; Choose your preferred Healthier SG clinic from the [list of Healthier SG clinics](https://gowhere.gov.sg/healthiersg).
+3.&nbsp; Book an appointment for your free first Health Plan consultation.
 
 **2. Enrol with caregiver's assistance**
 
-You can grant access to your caregiver/family member/loved one by adding him/her in HealthHub, so he/she can enrol you on your behalf using his/her smartphone. You can follow the step-by-step guide in [this page](/enrolment/caregivers/). 
+You can grant access to your caregiver/family member/loved one by adding him/her in HealthHub, so he/she can enrol you on your behalf using his/her smartphone. You can add your caregiver by following the step-by-step guide in [this page](/enrolment/addcaregiver/). 
+
+If you are a caregiver, you can help your care recipient to enrol by following the steps in this page [this page](/enrolment/caregivers/).
 
 **3. Assisted enrolment**
 
