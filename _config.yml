@@ -53,7 +53,8 @@ plugins:
 staging: https://moh-healthiersg-staging.netlify.app
 prod: https://moh-healthiersg-prod.netlify.app
 is_government: true
-shareicon: /images/HSG and Forward SG Lockup.png
+shareicon: /images/Homepage/healthier sg & moh logo.png
 google_analytics: UA-56164365-7
 facebook-pixel: ""
 linkedin-insights: ""
+google_analytics_ga4: ""

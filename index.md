@@ -2,7 +2,7 @@
 layout: homepage
 title: Healthier SG
 description: Towards a Healthier Singapore
-image: /images/HSG and Forward SG Lockup.png
+image: /images/Homepage/healthier sg & moh logo.png
 permalink: /
 notification: ""
 sections:
@@ -20,7 +20,11 @@ sections:
         - title: Healthier SG Clinic Finder
           description: Find a Healthier SG clinic.
           url: https://gowhere.gov.sg/healthiersg
-      background: /images/hsg microsite banner.png
+      button: Read more
+      url: /enrolment/howtoenrol
+      title: Healthier SG
+      subtitle: The Healthier SG Enrolment Programme has begun!
+      background: /images/Homepage/healthier sg microsite banner-min.png
   - infopic:
       title: Join us at the Healthier SG roadshows!
       description: Enrol in Healthier SG, take part in healthy lifestyle activities

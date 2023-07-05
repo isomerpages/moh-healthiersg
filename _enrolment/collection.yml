@@ -3,7 +3,12 @@ collections:
     output: true
     order:
       - Benefits of Enrolment.md
-      - How do I enrol?.md
+      - How Do I Enrol?.md
       - Your Healthier SG journey.md
-      - For caregivers.md
-      - Enrolment Terms.md
+      - For Caregivers.md
+      - Enrolment Terms/.keep
+      - Enrolment Terms/Enrolment Terms (English).md
+      - Enrolment Terms/Enrolment Terms (Chinese).md
+      - Enrolment Terms/Enrolment Terms (Malay).md
+      - Enrolment Terms/Enrolment Terms (Tamil).md
+      - Data Sharing for Healthier SG.md
