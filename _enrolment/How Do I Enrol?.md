@@ -7,7 +7,7 @@ description: ""
 
 Under Healthier SG, you can enrol with a Healthier SG clinic and your family clinic will develop a personalised Health Plan with you.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y3J41kFgTk0" height="315" width="560"></iframe>
+<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Y3J41kFgTk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ###   Am I eligible and when can I enrol?
 
