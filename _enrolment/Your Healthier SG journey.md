@@ -13,7 +13,7 @@ description: ""
 
 * Choose your preferred Healthier SG clinic.
 
-For list of Healthier SG clinics, click [here](https://gowhere.gov.sg/healthiersg).
+For a list of Healthier SG clinics, click [here](https://gowhere.gov.sg/healthiersg).
 
 ### Step 2: See your doctor
 ![enrol](/images/Enrolment_Benefits/image2.jpg)
