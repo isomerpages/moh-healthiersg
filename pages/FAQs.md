@@ -152,7 +152,7 @@ Can my caregiver enrol me on his/her HealthHub app?
  <img src="/images/Guide/slide1.PNG" alt="faq">
  <img src="/images/Guide/slide2.PNG" alt="faq">
 
-		<p><strong>Please ensure that you have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5).</strong>x</p>
+		<p><strong>Please ensure that you have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5).</strong></p>
 
 <p>After this has been done, inform your caregiver to add your Health Profile under <strong>Add a Care Recipient.</strong></p>
  <img src="/images/Guide/slide3.PNG" alt="faq">
