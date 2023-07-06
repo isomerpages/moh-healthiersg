@@ -36,7 +36,7 @@ If you are a caregiver, you can add your care recipient to your HealthHub and he
 
 **3. Assisted enrolment**
 
-Approach the Healthier SG Ambassadors at Community Centres (CC) or Joint Testing and Vaccination Centres (JTVC) for assistance. Please bring your letter and your NRIC/FIN. To check for an enrolment station near you, visit [this page](https://www.gowhere.gov.sg/healthiersg).
+Approach the Healthier SG Ambassadors at Community Centres (CC) or Joint Testing and Vaccination Centres (JTVC) for assistance. Please bring along a photo identification with NRIC/FIN number. To check for an enrolment station near you, visit [this page](https://www.gowhere.gov.sg/healthiersg).
 
 **Still have questions?**
 Refer to the Enrolment section under this [FAQs page](/faqs).
