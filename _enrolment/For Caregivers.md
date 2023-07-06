@@ -11,14 +11,11 @@ Please follow the steps in the below graphics to set up access as a caregiver on
 
 ![guide](/images/Guide/slide3.PNG) 
 ![guide](/images/Guide/slide4.PNG) 
-![faq](/images/FAQs/recipient3.png)
-![faq](/images/FAQs/recipient4.png)
 
 **Please ensure that your care recipient have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5). **
 
 Next, you can then add your care recipient (or loved ones) under ‘People under my care’.
  ![guide](/images/Guide/slide5.PNG) 
- ![faq](/images/FAQs/recipient5.png)
 
 After it has been added successfully, you can view your care recipient’s user profile in the Health Profiles page. You may continue to assist your loved ones to enrol in Healthier SG and access Healthier SG related functions on their behalf by following the below steps.
 
