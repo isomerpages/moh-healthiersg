@@ -26,6 +26,7 @@ description: ""
 ![Seniors Health Check](/images/Enrolment_Benefits/Seniors%20Health%20Check.png)
 
 ### What benefits can I enjoy from Healthier SG?
+<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/gAuP1xaQ0Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 * Create a **free personalised Health Plan^** with your family doctor for a healthy lifestyle, regular health screenings and vaccinations.
 
@@ -38,7 +39,6 @@ For list of screenings and eligibility, please click [here](https://www.healthhu
 For list of vaccinations and eligibility, please click [here](https://www.moh.gov.sg/resources-statistics/nationally-recommended-vaccines).
 
 *^ Your first Health Plan discussion with your first enrolled clinic is fully subsidised. For services outside of Healthier SG scope, prevailing fees will apply.*
-
 
 ### From early 2024:
    
