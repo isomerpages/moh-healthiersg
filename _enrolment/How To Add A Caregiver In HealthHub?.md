@@ -6,6 +6,8 @@ description: ""
 You can grant access to your family members or loved ones to assist you with your enrolment by adding them as your caregiver in HealthHub and enabling permission to manage Healthier SG on your behalf. Your caregiver can then add you as a care recipient to view your health records and manage your e-Services on HealthHub.
 
 Follow the steps below to first add a caregiver.
+![guide](/images/Guide/slide1.PNG) 
+![guide](/images/Guide/slide2.PNG) 
 
 ![faq](/images/FAQs/caregiver1.png)
 ![faq](/images/FAQs/caregiver2.png)
@@ -13,6 +15,9 @@ Follow the steps below to first add a caregiver.
 Please ensure that you have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5). 
 
 After this has been done, inform your caregiver to add your Health Profile under **Add a Care Recipient**.
+
+![guide](/images/Guide/slide3.PNG) 
+![guide](/images/Guide/slide4.PNG) 
 
 ![faq](/images/FAQs/recipient1.png)
 ![faq](/images/FAQs/recipient2.png)
