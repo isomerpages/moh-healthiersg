@@ -9,18 +9,12 @@ Follow the steps below to first add a caregiver.
 ![guide](/images/Guide/slide1.PNG) 
 ![guide](/images/Guide/slide2.PNG) 
 
-![faq](/images/FAQs/caregiver1.png)
-![faq](/images/FAQs/caregiver2.png)
-
 Please ensure that you have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5). 
 
 After this has been done, inform your caregiver to add your Health Profile under **Add a Care Recipient**.
 
 ![guide](/images/Guide/slide3.PNG) 
 ![guide](/images/Guide/slide4.PNG) 
-
-![faq](/images/FAQs/recipient1.png)
-![faq](/images/FAQs/recipient2.png)
 
 Once your caregiver has successfully added you as a care recipient, your user profile will be shown on HealthHub for them to assist with your enrolment if you are eligible to enrol in Healthier SG.
 
