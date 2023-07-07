@@ -25,7 +25,7 @@ Access the links below to view the roadshow digital content and learn more about
     <input id="accordion3" type="checkbox">
     <label for="accordion3">Eat Well Live Well</label>
     <div>
-			<a href="https://go.gov.sg/healthiersg-zone3-en">English</a> | <a href="https://go.gov.sg/healthiersg-zone3-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone3-ml">Malay</a> | Tamil 
+			<a href="https://go.gov.sg/healthiersg-zone3-en">English</a> | <a href="https://go.gov.sg/healthiersg-zone3-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone3-ml">Malay</a> | <a href="https://go.gov.sg/healthiersg-zone3-tl">Tamil</a> 
 </div>
   </li>
 	<li>
