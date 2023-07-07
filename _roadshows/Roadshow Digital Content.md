@@ -15,7 +15,7 @@ description: ""
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Take Time to Stay Active</label>
     <div>
-	English | Chinese | Malay | Tamil 
+			English | <a href="https://go.gov.sg/healthiersg-zone2-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone2-ml">Malay</a> | Tamil 
 </div>
   </li>
 	<li>
@@ -29,7 +29,7 @@ description: ""
     <input id="accordion4" type="checkbox">
     <label for="accordion4">Participate in Community Activities</label>
     <div>
-		English | Chinese | Malay | Tamil 
+			English | Chinese | <a href="https://go.gov.sg/healthiersg-zone4-ml">Malay</a> | Tamil 
 </div>
   </li>
 </ul>
