@@ -3,3 +3,33 @@ title: Roadshow Digital Content
 permalink: /roadshows/digitalcontent/
 description: ""
 ---
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion1" type="checkbox">
+    <label for="accordion1">Start your Healthier SG Journey</label>
+    <div>
+	English | Chinese | Malay | Tamil 
+</div>
+  </li>
+	<li>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">Take Time to Stay Active</label>
+    <div>
+	English | Chinese | Malay | Tamil 
+</div>
+  </li>
+	<li>
+    <input id="accordion3" type="checkbox">
+    <label for="accordion3">Eat Well Live Well</label>
+    <div>
+	English | Chinese | Malay | Tamil 
+</div>
+  </li>
+	<li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">Participate in Community Activities</label>
+    <div>
+		English | Chinese | Malay | Tamil 
+</div>
+  </li>
+</ul>
