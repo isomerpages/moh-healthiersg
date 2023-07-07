@@ -11,7 +11,7 @@ Access the links below to view the roadshow digital content and learn more about
     <input id="accordion1" type="checkbox">
     <label for="accordion1">Start your Healthier SG Journey</label>
     <div>
-			English | <a href="https://go.gov.sg/healthiersg-zone1-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone1-ml">Malay</a> | Tamil 
+			English | <a target="_blank" href="https://go.gov.sg/healthiersg-zone1-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone1-ml">Malay</a> | Tamil 
 </div>
   </li>
 	<li>
