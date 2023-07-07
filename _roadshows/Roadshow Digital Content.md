@@ -18,7 +18,7 @@ Access the links below to view the roadshow digital content and learn more about
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Take Time to Stay Active</label>
     <div>
-			English | <a href="https://go.gov.sg/healthiersg-zone2-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone2-ml">Malay</a> | <a href="https://go.gov.sg/healthiersg-zone2-tl">Tamil</a>
+			<a href="https://go.gov.sg/healthiersg-zone2-en">English</a> | <a href="https://go.gov.sg/healthiersg-zone2-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone2-ml">Malay</a> | <a href="https://go.gov.sg/healthiersg-zone2-tl">Tamil</a>
 </div>
   </li>
 	<li>
