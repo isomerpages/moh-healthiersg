@@ -11,14 +11,14 @@ Access the links below to view the roadshow digital content and learn more about
     <input id="accordion1" type="checkbox">
     <label for="accordion1">Start your Healthier SG Journey</label>
     <div>
-	English | Chinese | Malay | Tamil 
+			English | <a href="https://go.gov.sg/healthiersg-zone1-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone1-ml">Malay</a> | Tamil 
 </div>
   </li>
 	<li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Take Time to Stay Active</label>
     <div>
-			English | <a href="https://go.gov.sg/healthiersg-zone2-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone2-ml">Malay</a> | Tamil 
+			English | <a href="https://go.gov.sg/healthiersg-zone2-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone2-ml">Malay</a> | <a href="https://go.gov.sg/healthiersg-zone2-tl">Tamil</a>
 </div>
   </li>
 	<li>
@@ -32,7 +32,7 @@ Access the links below to view the roadshow digital content and learn more about
     <input id="accordion4" type="checkbox">
     <label for="accordion4">Participate in Community Activities</label>
     <div>
-			English |  <a href="https://go.gov.sg/healthiersg-zone4-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone4-ml">Malay</a> | Tamil 
+			<a href="https://go.gov.sg/healthiersg-zone4-en">English</a> |  <a href="https://go.gov.sg/healthiersg-zone4-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone4-ml">Malay</a> | Tamil 
 </div>
   </li>
 </ul>
