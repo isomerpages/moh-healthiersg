@@ -29,7 +29,7 @@ description: ""
     <input id="accordion4" type="checkbox">
     <label for="accordion4">Participate in Community Activities</label>
     <div>
-			English | Chinese | <a href="https://go.gov.sg/healthiersg-zone4-ml">Malay</a> | Tamil 
+			English |  <a href="https://go.gov.sg/healthiersg-zone4-cn">Chinese</a> | <a href="https://go.gov.sg/healthiersg-zone4-ml">Malay</a> | Tamil 
 </div>
   </li>
 </ul>
