@@ -3,7 +3,7 @@ title: Roadshow Digital Content
 permalink: /roadshows/digitalcontent/
 description: ""
 ---
-Missed the roadshows or would like to view the panel exhibits in Chinese, Malay or Tamil language?
+<h4><strong>Missed the roadshows or would like to view the panel exhibits in Chinese, Malay or Tamil language?</strong></h4>
 
 Access the links below to view the roadshow digital content and learn more about Healthier SG!
 <ul class="jekyllcodex_accordion">
