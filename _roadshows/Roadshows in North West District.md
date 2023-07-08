@@ -26,7 +26,7 @@ description: ""
   </li>
 	<li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2">Roadshow in Admiralty</label>
+    <label for="accordion2">Roadshow in Woodlands</label>
     <div>
 	<strong>Location:</strong>
 <ul>
