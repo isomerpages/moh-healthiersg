@@ -48,6 +48,6 @@ Read more on Healthier SG from the [White Paper on Healthier SG](/resources/whit
 
 Refer to the General Information section under our FAQs [page](/faqs).
 
-You can learn more about Healthier SG, by listening to CNA's Dailycuts [here](https://www.channelnewsasia.com/listen/daily-cuts/formal-launch-healthier-sg-3606731?field_season_value=608156&amp;page=10).
+You can learn more about Healthier SG, by listening to CNA's Daily Cuts podcast [here](https://www.channelnewsasia.com/listen/daily-cuts/formal-launch-healthier-sg-3606731?field_season_value=608156&amp;page=10).
 
 ![](/images/HSG%20and%20Forward%20SG%20Lockup.png)
