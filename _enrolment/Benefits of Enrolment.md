@@ -48,3 +48,5 @@ For list of vaccinations and eligibility, please click [here](https://www.moh.go
 
 **Still have questions?**
 Refer to the 'Benefits' section in our [FAQs](/faqs) page.
+
+You can learn more about the benefits of Healthier SG by listening to this CNA [podcast](https://www.channelnewsasia.com/listen/daily-cuts/how-will-healthier-sg-benefit-you-3608016).
