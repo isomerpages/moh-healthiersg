@@ -17,10 +17,7 @@ description: ""
 <li>   7 July: 1pm to 6pm</li>
 <li>   8-9 July: 9am to 6pm</li>
 			</ul>
-			<strong>Programme schedule:</strong>
-			<ul>
-				<li>Click <a href="https://go.gov.sg/healthiersg-bishanamk">here</a> to view the main stage and zone programme!</li>
-			</ul>
+		
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Ang Mo Kio MRT Station</li>
@@ -40,6 +37,10 @@ description: ""
 <strong>Date &amp; Time:</strong>
 <ul>
 <li>   15-16 July: 10am to 6pm</li>
+			</ul>
+							<strong>Programme schedule:</strong>
+			<ul>
+				<li>Click <a href="https://go.gov.sg/healthiersg-boonkeng">here</a> to view the main stage and zone programme!</li>
 			</ul>
 <strong>How to get there:</strong>
 <ul>
