@@ -89,20 +89,16 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
 
 <p>For more information and eligibility criteria:</p>
 
-<strong>Screen For Life (SFL)</strong>
-			image 1
-			
+<strong>Screen For Life (SFL)</strong>	
 			<ul>
 				<li>Enhanced Screen for Life</li>
 				<li>Screen for Life</li>
 			</ul>
 			
-			<strong>National Adult Immunisation Schedule (NAIS)</strong>
-			image 2
+<strong>National Adult Immunisation Schedule (NAIS)</strong>
 			<ul>
 				<li>Nationally recommended vaccines</li>
 				</ul>
-			
 		</div>
 </li>
 				<li>
