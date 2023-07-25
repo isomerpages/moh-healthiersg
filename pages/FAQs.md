@@ -123,6 +123,7 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
 <strong>National Adult Immunisation Schedule (NAIS)</strong>
 			<ul>
 				<li>Nationally recommended vaccines</li>
+				<img src="/images/FAQs/NAISFAQ7.PNG" alt="bishan">
 				</ul>
 		</div>
 </li>
