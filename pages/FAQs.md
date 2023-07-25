@@ -42,9 +42,34 @@ What is the difference between going to GPs and polyclinics?
 ### Benefits
 
 <ul class="jekyllcodex_accordion">
-  <li>
+	<li>
     <input id="accordion4" type="checkbox">
-    <label for="accordion4">5. What are the chronic conditions covered under Healthier SG Chronic Tier?</label>
+    <label for="accordion4">4. What are the key benefits of Healthier SG?</label>
+    <div>
+		<p>Having a long-term, trusted relationship with a family clinic allows your doctor to focus more on preventive care to help you stay healthy, detect health issues early and manage them well.</p>
+
+<p>Healthier SG empowers you to take steps to improve your health proactively with the support of your trusted family clinic and community partners, every step of the way.</p>
+
+<p>The aim is to help you enjoy:</p>
+			<ul>
+				<li>A higher quality of life for as long as possible;</li>
+				<li>Peace of mind for yourself and loved ones; and</li>
+				<li>Ease and convenience in accessing health and community services.</li>
+			</ul>
+
+Benefits after enrolment include:
+<ul>
+	<li>One-time fully-subsidised first Health Plan consultation with your chosen clinic.</li>
+<li>Healthpoints (worth $20) through Healthy 365 app after the first Health Plan consultation.</li>
+<li>Fully-subsidised nationally recommended screenings and vaccinations (for Singapore Citizens only).</li>
+<li>From early 2024, CHAS cardholders with high medication requirements and bills can opt for Healthier SG Chronic Tier, which provides subsidies of up to 87.5% on whitelisted chronic medications, depending on income level.</li>
+<li>From early 2024, Singapore Residents under the Chronic Disease Management Programme (CDMP) can use MediSave to pay for treatment without cash co-payment. </li>
+			</ul>
+      </div>
+	</li>
+  <li>
+    <input id="accordion5" type="checkbox">
+    <label for="accordion5">5. What are the chronic conditions covered under Healthier SG Chronic Tier?</label>
     <div>
 			Enrolees with any chronic conditions under the Chronic Disease Management Programme (CDMP) and have CHAS/Merdeka Generation/Pioneer Generation cards can opt for the Healthier SG Chronic Tier, which allows them access to common chronic drugs at prices comparable to polyclinics. The chronic conditions under CDMP are:
 <ul>
@@ -75,15 +100,15 @@ What is the difference between going to GPs and polyclinics?
 For more information, please visit <a href="https://www.moh.gov.sg/policies-and-legislation/chronic-disease-management-programme-(cdmp)">MOH | Chronic Disease Management Programme (CDMP)</a>
       </div></li>
 			<li>
-    <input id="accordion5" type="checkbox">
-    <label for="accordion5">6. Do I need to be a CHAS cardholder to enjoy the New Healthier SG Chronic Tier under Healthier SG from 2024?
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">6. Do I need to be a CHAS cardholder to enjoy the New Healthier SG Chronic Tier under Healthier SG from 2024?
 </label>
     <div>
 			<p>You will need to be a CHAS/ Pioneer Generation (PG)/ Merdeka Generation (MG) cardholder and also be enrolled with a Healthier SG GP clinic to be eligible for the subsidies under the new Healthier SG Chronic Tier, which will be available from early 2024 onwards. Under this Healthier SG Chronic Tier, these CHAS/PG/MG patients, especially those with high medication needs, can opt for and benefit from this alternative subsidy tier, allowing them to enjoy common chronic drugs from their enrolled Healthier SG GP clinics at prices comparable to polyclinics. You or your household members can sign up at <a href="https://www.chas.sg">www.chas.sg</a>.</p>
 		</div></li>
 	<li>
-    <input id="accordion6" type="checkbox">
-    <label for="accordion6">7. What are the fully-subsidised nationally recommended screenings and vaccinations? How am I eligible?</label>
+    <input id="accordion7" type="checkbox">
+    <label for="accordion7">7. What are the fully-subsidised nationally recommended screenings and vaccinations? How am I eligible?</label>
     <div>
 		<p>Nationally recommended screenings listed on the Screen-For-Life (SFL) programme and vaccinations on the National Adult Immunisation Schedule (NAIS) are fully-subsidised for Healthier SG enrolees who are Singapore Citizens that meet the eligibility criteria and as advised by their family doctor at their enrolled Healthier SG clinic only.</p>
 
@@ -102,8 +127,8 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
 		</div>
 </li>
 				<li>
-    <input id="accordion6" type="checkbox">
-    <label for="accordion6">8. Is there a difference in Healthier SG subsidies for each category of Community Health Assist Scheme (CHAS)/Pioneer Generation (PG)/Merdeka Generation (MG) cards?</label>
+    <input id="accordion8" type="checkbox">
+    <label for="accordion8">8. Is there a difference in Healthier SG subsidies for each category of Community Health Assist Scheme (CHAS)/Pioneer Generation (PG)/Merdeka Generation (MG) cards?</label>
     <div>
 			<p>With the launch of Healthier SG, residents who enrol with and visit their enrolled GP clinic for preventive and chronic care will receive the following Healthier SG benefits:</p>
 <ul>
@@ -117,8 +142,8 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
 		</div>
 </li>
 	<li>
-    <input id="accordion6" type="checkbox">
-    <label for="accordion6">9. What are the whitelisted drugs under Healthier SG Chronic Tier?</label>
+    <input id="accordion9" type="checkbox">
+    <label for="accordion9">9. What are the whitelisted drugs under Healthier SG Chronic Tier?</label>
     <div>
 			<p>Commonly used drugs for managing chronic conditions such as diabetes, high blood pressure and high blood cholesterol will be whitelisted under Healthier SG Chronic Tier. This will be available in early 2024. Prices for these drugs at the GPs will be comparable with that of polyclinic drug prices.</p>
 
@@ -131,8 +156,8 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
 			
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion7" type="checkbox">
-    <label for="accordion7">7. When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
+    <input id="accordion10" type="checkbox">
+    <label for="accordion10">10. When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
     <div>
 			<p>Healthier SG will be rolled out progressively in phases from July 2023 onwards. Although enrolment is not compulsory, we strongly encourage you to enrol in Healthier SG. Having a long-term, trusted relationship with a family clinic allows you to stay healthy, detect health issues early and manage them well, supported by your preferred family clinic.</p>
 
