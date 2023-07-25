@@ -165,8 +165,8 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
      </div>
   </li>
   <li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">8. How can I tell if my Healthier SG SMS is not a scam?</label>
+    <input id="accordion11" type="checkbox">
+    <label for="accordion11">11. How can I tell if my Healthier SG SMS is not a scam?</label>
     <div>
     <p>The SMS(es) from MOH's Healthier SG will show the registered sender ID <strong>"MOH"</strong>, in upper case.</p>
 
@@ -174,8 +174,8 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
 		<img src="/images/FAQs/healthiersgscam.PNG" alt="bishan"><p></p>
 		</div></li>
 	<li>
-    <input id="accordion9" type="checkbox">
-    <label for="accordion9">9. Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
+    <input id="accordion12" type="checkbox">
+    <label for="accordion12">12. Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
     <div>
 			<p>Our population is ageing rapidly with older age groups more susceptible to co-morbidities and chronic illnesses. As such, Healthier SG enrolment will focus on those aged 40 and above to proactively prevent them from falling ill and delay the deterioration of health. We will consider further expansions after the roll-out has stabilised.</p>
 
@@ -189,7 +189,7 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
 </div>
   </li>
 <li>
-    <input id="accordion10" type="checkbox"><label for="accordion10">10. Is there a step-by-step guide for enrolling in Healthier SG?</label>
+    <input id="accordion13" type="checkbox"><label for="accordion13">13. Is there a step-by-step guide for enrolling in Healthier SG?</label>
     <div>
 			<p> Step-by-Step Guide to enrol in Healthier SG</p>
 
@@ -205,7 +205,7 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
     </div>
 	</li>  
 	<li>
-    <input id="accordion11" type="checkbox"><label for="accordion11">11. How do I enrol if I do not have a valid mobile phone?<br>
+    <input id="accordion14" type="checkbox"><label for="accordion15">15. How do I enrol if I do not have a valid mobile phone?<br>
 Can my caregiver enrol me on his/her HealthHub app?  
 </label>
     <div>
