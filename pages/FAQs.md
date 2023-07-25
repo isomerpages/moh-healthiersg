@@ -44,37 +44,70 @@ What is the difference between going to GPs and polyclinics?
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion4" type="checkbox">
-    <label for="accordion4">4. What are the key benefits of Healthier SG?</label>
+    <label for="accordion4">5. What are the chronic conditions covered under Healthier SG Chronic Tier?</label>
     <div>
-      <p>Having a long-term, trusted relationship with a family clinic allows your doctor to focus more on preventive care to help you stay healthy, detect health issues early and manage them well. </p>
-
-<p>Healthier SG empowers you to take steps to improve your health proactively with the support of your trusted family clinic and community partners, every step of the way.</p>
-
-<p>The aim is to help you enjoy: 
-				</p>
-			<ul>
-					<li>A higher quality of life for as long as possible;</li>
-					<li>Peace of mind for yourself and loved ones; and</li>
-					<li>Ease and convenience in accessing health and community services.</li></ul>
-<p>Benefits after enrolment include:
-				</p><ul>
-<li>One-time free first Health Plan consultation with your chosen clinic.
-</li><li>Healthpoints (worth $20) through Healthy 365 app after the first Health Plan consultation.
-</li><li>Fully subsidised nationally recommended screenings and vaccinations (for Singapore Citizens only).</li>
-<li>From early 2024, CHAS cardholders with high medication requirements and bills can opt for Healthier SG Chronic Tier, which provides subsidies of up to 87.5% on whitelisted chronic medications, depending on income level.</li>
-<li>From early 2024, Singapore Residents under the Chronic Disease Management Programme (CDMP) can use MediSave to pay for treatment without cash co-payment. </li>
-			</ul></div></li>
+			Enrolees with any chronic conditions under the Chronic Disease Management Programme (CDMP) and have CHAS/Merdeka Generation/Pioneer Generation cards can opt for the Healthier SG Chronic Tier, which allows them access to common chronic drugs at prices comparable to polyclinics. The chronic conditions under CDMP are:
+<ul>
+<li>Diabetes Mellitus/ Pre-diabetes</li>
+<li>Hypertension</li>
+<li>Hyperlipidemia (Lipid Disorders)</li>
+<li>Stroke</li>
+<li>Asthma</li>
+<li>Chronic Obstructive Pulmonary Disease (COPD)</li>
+<li>Schizophrenia</li>
+<li>Major Depression</li>
+<li>Bipolar Disorder</li>
+<li>Dementia</li>
+<li>Osteoarthritis</li>
+<li>Benign Prostatic Hyperplasia</li>
+<li>Anxiety</li>
+<li>Parkinson's Disease</li>
+<li>Chronic Kidney Disease (Nephrosis/Nephritis)</li>
+<li>Epilepsy</li>
+<li>Osteoporosis</li>
+<li>Psoriasis</li>
+<li>Rheumatoid Arthritis</li>
+<li>Ischaemic Heart Disease</li>
+<li>Allergic Rhinitis</li>
+<li>Gout</li>
+<li>Chronic Hepatitis B</li>
+</ul>
+For more information, please visit <a href="https://www.moh.gov.sg/policies-and-legislation/chronic-disease-management-programme-(cdmp)">MOH | Chronic Disease Management Programme (CDMP)</a>
+      </div></li>
 			<li>
     <input id="accordion5" type="checkbox">
-    <label for="accordion5">5. Do I need to be a CHAS cardholder to enjoy the New Healthier SG Chronic Tier under Healthier SG from 2024?<br>
-Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP consult?
+    <label for="accordion5">6. Do I need to be a CHAS cardholder to enjoy the New Healthier SG Chronic Tier under Healthier SG from 2024?
 </label>
     <div>
-			<p>Yes, you need to be a CHAS cardholder to enjoy the new Healthier SG Chronic Tier, which will be available from early 2024 onwards. Pioneer Generation (PG)/ Merdeka Generation (MG) cardholders may still use their cards to enjoy PG and MG subsidies for GP consultation, and should consider becoming a CHAS cardholder to fully enjoy the new Healthier SG Chronic Tier. You or your household members can sign up at <a href="https://www.chas.sg">www.chas.sg</a>.</p>
+			<p>You will need to be a CHAS/ Pioneer Generation (PG)/ Merdeka Generation (MG) cardholder and also be enrolled with a Healthier SG GP clinic to be eligible for the subsidies under the new Healthier SG Chronic Tier, which will be available from early 2024 onwards. Under this Healthier SG Chronic Tier, these CHAS/PG/MG patients, especially those with high medication needs, can opt for and benefit from this alternative subsidy tier, allowing them to enjoy common chronic drugs from their enrolled Healthier SG GP clinics at prices comparable to polyclinics. You or your household members can sign up at <a href="https://www.chas.sg">www.chas.sg</a>.</p>
 		</div></li>
+	<li>
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">7. What are the fully-subsidised nationally recommended screenings and vaccinations? How am I eligible?</label>
+    <div>
+		<p>Nationally recommended screenings listed on the Screen-For-Life (SFL) programme and vaccinations on the National Adult Immunisation Schedule (NAIS) are fully-subsidised for Healthier SG enrolees who are Singapore Citizens that meet the eligibility criteria and as advised by their family doctor at their enrolled Healthier SG clinic only.</p>
+
+<p>For more information and eligibility criteria:</p>
+
+<strong>Screen For Life (SFL)</strong>
+			image 1
+			
+			<ul>
+				<li>Enhanced Screen for Life</li>
+				<li>Screen for Life</li>
+			</ul>
+			
+			<strong>National Adult Immunisation Schedule (NAIS)</strong>
+			image 2
+			<ul>
+				<li>Nationally recommended vaccines</li>
+				</ul>
+			
+		</div>
+</li>
 				<li>
     <input id="accordion6" type="checkbox">
-    <label for="accordion6">6. Is there a difference in Healthier SG subsidies for each category of Community Health Assist Scheme (CHAS)/Pioneer Generation (PG)/Merdeka Generation (MG) cards?</label>
+    <label for="accordion6">8. Is there a difference in Healthier SG subsidies for each category of Community Health Assist Scheme (CHAS)/Pioneer Generation (PG)/Merdeka Generation (MG) cards?</label>
     <div>
 			<p>With the launch of Healthier SG, residents who enrol with and visit their enrolled GP clinic for preventive and chronic care will receive the following Healthier SG benefits:</p>
 <ul>
@@ -85,6 +118,15 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 <li>From early 2024, Singapore Residents can use MediSave to pay for their CDMP treatment at their enrolled Healthier SG clinic without cash co-payment, up to prevailing withdrawal limits.</li></ul>
 			<p><strong>Healthier SG Chronic Tier (available from early 2024)</strong>
 				<img src="/images/FAQs/hsgchronictier.PNG" alt="bishan"></p>
+		</div>
+</li>
+	<li>
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">9. What are the whitelisted drugs under Healthier SG Chronic Tier?</label>
+    <div>
+			<p>Commonly used drugs for managing chronic conditions such as diabetes, high blood pressure and high blood cholesterol will be whitelisted under Healthier SG Chronic Tier. This will be available in early 2024. Prices for these drugs at the GPs will be comparable with that of polyclinic drug prices.</p>
+
+<p>Do keep a look out for future announcements.</p>
 		</div>
 </li>
 </ul>
