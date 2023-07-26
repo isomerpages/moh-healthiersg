@@ -42,39 +42,96 @@ What is the difference between going to GPs and polyclinics?
 ### Benefits
 
 <ul class="jekyllcodex_accordion">
-  <li>
+	<li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4">4. What are the key benefits of Healthier SG?</label>
     <div>
-      <p>Having a long-term, trusted relationship with a family clinic allows your doctor to focus more on preventive care to help you stay healthy, detect health issues early and manage them well. </p>
+		<p>Having a long-term, trusted relationship with a family clinic allows your doctor to focus more on preventive care to help you stay healthy, detect health issues early and manage them well.</p>
 
 <p>Healthier SG empowers you to take steps to improve your health proactively with the support of your trusted family clinic and community partners, every step of the way.</p>
 
-<p>The aim is to help you enjoy: 
-				</p>
+<p>The aim is to help you enjoy:</p>
 			<ul>
-					<li>A higher quality of life for as long as possible;</li>
-					<li>Peace of mind for yourself and loved ones; and</li>
-					<li>Ease and convenience in accessing health and community services.</li></ul>
-<p>Benefits after enrolment include:
-				</p><ul>
-<li>One-time free first Health Plan consultation with your chosen clinic.
-</li><li>Healthpoints (worth $20) through Healthy 365 app after the first Health Plan consultation.
-</li><li>Fully subsidised nationally recommended screenings and vaccinations (for Singapore Citizens only).</li>
+				<li>A higher quality of life for as long as possible;</li>
+				<li>Peace of mind for yourself and loved ones; and</li>
+				<li>Ease and convenience in accessing health and community services.</li>
+			</ul>
+
+Benefits after enrolment include:
+<ul>
+	<li>One-time fully-subsidised first Health Plan consultation with your chosen clinic.</li>
+<li>Healthpoints (worth $20) through Healthy 365 app after the first Health Plan consultation.</li>
+<li>Fully-subsidised nationally recommended screenings and vaccinations (for Singapore Citizens only).</li>
 <li>From early 2024, CHAS cardholders with high medication requirements and bills can opt for Healthier SG Chronic Tier, which provides subsidies of up to 87.5% on whitelisted chronic medications, depending on income level.</li>
 <li>From early 2024, Singapore Residents under the Chronic Disease Management Programme (CDMP) can use MediSave to pay for treatment without cash co-payment. </li>
-			</ul></div></li>
-			<li>
+			</ul>
+      </div>
+	</li>
+  <li>
     <input id="accordion5" type="checkbox">
-    <label for="accordion5">5. Do I need to be a CHAS cardholder to enjoy the New Healthier SG Chronic Tier under Healthier SG from 2024?<br>
-Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP consult?
+    <label for="accordion5">5. What are the chronic conditions covered under Healthier SG Chronic Tier?</label>
+    <div>
+			Enrolees with any chronic conditions under the Chronic Disease Management Programme (CDMP) and have CHAS/Merdeka Generation/Pioneer Generation cards can opt for the Healthier SG Chronic Tier, which allows them access to common chronic drugs at prices comparable to polyclinics. The chronic conditions under CDMP are:
+<ul>
+<li>Diabetes Mellitus/ Pre-diabetes</li>
+<li>Hypertension</li>
+<li>Hyperlipidaemia (Lipid Disorders)</li>
+<li>Stroke</li>
+<li>Asthma</li>
+<li>Chronic Obstructive Pulmonary Disease (COPD)</li>
+<li>Schizophrenia</li>
+<li>Major Depression</li>
+<li>Bipolar Disorder</li>
+<li>Dementia</li>
+<li>Osteoarthritis</li>
+<li>Benign Prostatic Hyperplasia</li>
+<li>Anxiety</li>
+<li>Parkinson's Disease</li>
+<li>Chronic Kidney Disease (Nephrosis/Nephritis)</li>
+<li>Epilepsy</li>
+<li>Osteoporosis</li>
+<li>Psoriasis</li>
+<li>Rheumatoid Arthritis</li>
+<li>Ischaemic Heart Disease</li>
+<li>Allergic Rhinitis</li>
+<li>Gout</li>
+<li>Chronic Hepatitis B</li>
+</ul>
+For more information, please visit <a href="https://www.moh.gov.sg/policies-and-legislation/chronic-disease-management-programme-(cdmp)">MOH | Chronic Disease Management Programme (CDMP)</a>
+      </div></li>
+			<li>
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">6. Do I need to be a CHAS cardholder to enjoy the New Healthier SG Chronic Tier under Healthier SG from 2024?
 </label>
     <div>
-			<p>Yes, you need to be a CHAS cardholder to enjoy the new Healthier SG Chronic Tier, which will be available from early 2024 onwards. Pioneer Generation (PG)/ Merdeka Generation (MG) cardholders may still use their cards to enjoy PG and MG subsidies for GP consultation, and should consider becoming a CHAS cardholder to fully enjoy the new Healthier SG Chronic Tier. You or your household members can sign up at <a href="https://www.chas.sg">www.chas.sg</a>.</p>
+			<p>You will need to be a CHAS/ Pioneer Generation (PG)/ Merdeka Generation (MG) cardholder and also be enrolled with a Healthier SG GP clinic to be eligible for the subsidies under the new Healthier SG Chronic Tier, which will be available from early 2024 onwards. Under this Healthier SG Chronic Tier, these CHAS/PG/MG patients, especially those with high medication needs, can opt for and benefit from this alternative subsidy tier, allowing them to enjoy common chronic drugs from their enrolled Healthier SG GP clinics at prices comparable to polyclinics. You or your household members can sign up at <a href="https://www.chas.sg">www.chas.sg</a>.</p>
 		</div></li>
+	<li>
+    <input id="accordion7" type="checkbox">
+    <label for="accordion7">7. What are the fully subsidised nationally recommended screenings and vaccinations? How am I eligible?</label>
+    <div>
+		<p>Nationally recommended screenings listed on the Screen-For-Life (SFL) programme and vaccinations on the National Adult Immunisation Schedule (NAIS) are fully-subsidised for Healthier SG enrolees who are Singapore Citizens. These must meet the eligibility criteria and are as advised by their family doctor at their enrolled Healthier SG clinic only.</p>
+
+<p>For more information and eligibility criteria:</p>
+
+<u>Screen For Life (SFL)</u>	
+			
+ <img src="/images/FAQs/sflhsg.PNG" alt="faq">
+			<ul>
+				<li><a href="https://www.moh.gov.sg/healthcare-schemes-subsidies/enhanced-screen-for-life">Enhanced Screen for Life</a></li>
+				<li><a href="https://www.healthhub.sg/programmes/61/Screen_for_Life/sfl-faqs#home">Screen for Life</a></li>
+			</ul>
+			
+<u>National Adult Immunisation Schedule (NAIS)</u>
+			<img src="/images/FAQs/naisfaq7.png" alt="faq">
+			<ul>
+				<li><a href="https://www.moh.gov.sg/resources-statistics/nationally-recommended-vaccines">Nationally recommended vaccines</a></li>
+		</ul>
+		</div>
+</li>
 				<li>
-    <input id="accordion6" type="checkbox">
-    <label for="accordion6">6. Is there a difference in Healthier SG subsidies for each category of Community Health Assist Scheme (CHAS)/Pioneer Generation (PG)/Merdeka Generation (MG) cards?</label>
+    <input id="accordion8" type="checkbox">
+    <label for="accordion8">8. Is there a difference in Healthier SG subsidies for each category of Community Health Assist Scheme (CHAS)/Pioneer Generation (PG)/Merdeka Generation (MG) cards?</label>
     <div>
 			<p>With the launch of Healthier SG, residents who enrol with and visit their enrolled GP clinic for preventive and chronic care will receive the following Healthier SG benefits:</p>
 <ul>
@@ -87,14 +144,23 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 				<img src="/images/FAQs/hsgchronictier.PNG" alt="bishan"></p>
 		</div>
 </li>
+	<li>
+    <input id="accordion9" type="checkbox">
+    <label for="accordion9">9. What are the whitelisted drugs under Healthier SG Chronic Tier?</label>
+    <div>
+			<p>Commonly used drugs for managing chronic conditions such as diabetes, high blood pressure and high blood cholesterol, will be whitelisted under Healthier SG Chronic Tier. This will be available in early 2024. Prices for these drugs at the GPs will be comparable with that of polyclinic drug prices.</p>
+
+<p>Do keep a look out for future announcements.</p>
+		</div>
+</li>
 </ul>
 			
 ### Enrolment
 			
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion7" type="checkbox">
-    <label for="accordion7">7. When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
+    <input id="accordion10" type="checkbox">
+    <label for="accordion10">10. When can I enrol in Healthier SG? Is it compulsory for Singaporeans to join Healthier SG?</label>
     <div>
 			<p>Healthier SG will be rolled out progressively in phases from July 2023 onwards. Although enrolment is not compulsory, we strongly encourage you to enrol in Healthier SG. Having a long-term, trusted relationship with a family clinic allows you to stay healthy, detect health issues early and manage them well, supported by your preferred family clinic.</p>
 
@@ -102,8 +168,8 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
      </div>
   </li>
   <li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">8. How can I tell if my Healthier SG SMS is not a scam?</label>
+    <input id="accordion11" type="checkbox">
+    <label for="accordion11">11. How can I tell if my Healthier SG SMS is not a scam?</label>
     <div>
     <p>The SMS(es) from MOH's Healthier SG will show the registered sender ID <strong>"MOH"</strong>, in upper case.</p>
 
@@ -111,8 +177,8 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 		<img src="/images/FAQs/healthiersgscam.PNG" alt="bishan"><p></p>
 		</div></li>
 	<li>
-    <input id="accordion9" type="checkbox">
-    <label for="accordion9">9. Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
+    <input id="accordion12" type="checkbox">
+    <label for="accordion12">12. Are there plans for those aged below 40 years old to be included in Healthier SG?</label>
     <div>
 			<p>Our population is ageing rapidly with older age groups more susceptible to co-morbidities and chronic illnesses. As such, Healthier SG enrolment will focus on those aged 40 and above to proactively prevent them from falling ill and delay the deterioration of health. We will consider further expansions after the roll-out has stabilised.</p>
 
@@ -126,7 +192,7 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
 </div>
   </li>
 <li>
-    <input id="accordion10" type="checkbox"><label for="accordion10">10. Is there a step-by-step guide for enrolling in Healthier SG?</label>
+    <input id="accordion13" type="checkbox"><label for="accordion13">13. Is there a step-by-step guide for enrolling in Healthier SG?</label>
     <div>
 			<p> Step-by-Step Guide to enrol in Healthier SG</p>
 
@@ -142,30 +208,51 @@ Can I still use my Pioneer Generation (PG)/ Merdeka Generation (MG) card for GP 
     </div>
 	</li>  
 	<li>
-    <input id="accordion11" type="checkbox"><label for="accordion11">11. How do I enrol if I do not have a valid mobile phone?<br>
+    <input id="accordion14" type="checkbox"><label for="accordion14">14. I do not have a mobile phone/smartphone and can’t receive SMS. How do I enrol in Healthier SG?</label>
+		<div>
+			<p>There are a few ways that you can enrol in Healthier SG.</p>
+
+<u>1. Assisted enrolment</u>
+
+<p>Approach the Healthier SG Ambassadors at Community Centres/Clubs (CC) or Joint Testing &amp; Vaccination Centres (JTVC) for assistance. To check for an enrolment station (and operating hours) near you, click <a href="https://www.gowhere.gov.sg/healthiersg/">here</a>.</p>
+
+<u>2. Enrol with caregiver's assistance</u>
+<p>You can grant access to your caregiver/family member/loved one by adding him/her in HealthHub, so he/she can enrol you on your behalf using his/her smartphone. You will need your Singpass account to authorise your caregiver via HealthHub. If you do not have a Singpass account, you may register for Singpass through <a href="https://www.singpass.gov.sg/home/ui/register/instructions">this website</a> or head down to the nearest Singpass counter for assistance, with your caregiver and bring along both your NRICs. For Singpass counter locations, click <a href="https://www.singpass.gov.sg/home/ui/counter-locations">here</a>.</p>
+
+<p>For caregiver enrolment, your caregiver can refer to the step-by-step guide <a href="https://www.healthiersg.gov.sg/enrolment/caregivers/">here</a>.</p>
+
+<u>3. Via a computer</u>
+<p>You can self-enrol via <a href="https://www.healthhub.sg/">HealthHub</a>. A Singpass account is required to do so.</p>
+
+			<p>For any clarification, please call 6325 9220.</p>
+		</div></li>
+			
+	<li>
+    <input id="accordion15" type="checkbox"><label for="accordion15">15. How do I enrol if I do not have a valid mobile phone?<br>
 Can my caregiver enrol me on his/her HealthHub app?  
 </label>
     <div>
       <p>You can grant access to your family members or loved ones to assist you with the enrolment by adding them as your caregiver in HealthHub and enabling permission to manage Healthier SG on your behalf. Your caregiver can then add you as a care recipient to view your health records and manage your e-Services on HealthHub.</p>
 
+			<p>You will need your Singpass account to authorise your caregiver via HealthHub. If you do not have a Singpass account, you may register for Singpass through <a href="https://www.singpass.gov.sg/home/ui/register/instructions">this website</a> or head down to the nearest Singpass counter for assistance, with your caregiver and bring along both your NRICs. For Singpass counter locations, click <a href="https://www.singpass.gov.sg/home/ui/counter-locations">here</a>.</p>
 			<p>Follow the steps below to first add a caregiver.</p>
  <img src="/images/Guide/slide1.PNG" alt="faq">
  <img src="/images/Guide/slide2.PNG" alt="faq">
 
 		<p><strong>Please ensure that you have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5).</strong></p>
 
-<p>After this has been done, inform your caregiver to add your Health Profile under <strong>Add a Care Recipient.</strong></p>
+<p>After this has been done, inform your caregiver to add your Health Profile under <strong>Add Loved ones</strong>, using his/her own HealthHub account.</p>
  <img src="/images/Guide/slide3.PNG" alt="faq">
 			 <img src="/images/Guide/slide4.PNG" alt="faq">
 			<p>Once your caregiver has successfully added you as a care recipient, your user profile will be shown on HealthHub for them to assist with your enrolment if you are eligible to enrol in Healthier SG.</p>
 
 <p>Alternatively, you may enrol in Healthier SG through the <a href="https://www.healthhub.sg">HealthHub web portal</a> by logging in with your Singpass if you do not wish to download the app or do not have access to a smartphone.</p>
 
-			<p>HealthHub FAQs can be found <a href="www.healthhub.sg/faqs">here</a>.</p>
+			<p>HealthHub FAQs can be found <a href="https://www.healthhub.sg/faqs">here</a>.</p>
 </div>
 	</li>  
 	<li>
-    <input id="accordion12" type="checkbox"><label for="accordion12">12. How can I access HealthHub and Healthier SG-related functions on behalf of my loved ones?<br>
+    <input id="accordion16" type="checkbox"><label for="accordion16">16. How can I access HealthHub and Healthier SG-related functions on behalf of my loved ones?<br>
 Can I assist my family members to enrol in Healthier SG?<br>
 Can we enrol our care recipients or family members?</label>
     <div>
@@ -190,14 +277,14 @@ Can we enrol our care recipients or family members?</label>
     </div>
 	</li>  
   <li>
-    <input id="accordion13" type="checkbox"><label for="accordion13">13. Can I enrol with a polyclinic instead of a GP clinic?</label>
+    <input id="accordion17" type="checkbox"><label for="accordion17">17. Can I enrol with a polyclinic instead of a GP clinic?</label>
     <div>
       <p>The care provided at the polyclinics and GP clinics are both guided by the same care protocols. You are strongly advised to enrol with a GP clinic where you would be more likely to see the same doctor for each visit. By seeing the same doctor each time, you can develop and enjoy a long-term trusted relationship with a doctor who knows you well. Healthcare clusters and community partners will work with your chosen clinic to support your needs. Do continue to follow up with your GP if you have been seeing the GP clinic previously.</p>
     </div>
 	</li>  
     <li>
-    <input id="accordion14" type="checkbox">
-    <label for="accordion14">14. Will I be allowed to change the GP / polyclinic after I have successfully enrolled with Healthier SG?</label>
+    <input id="accordion18" type="checkbox">
+    <label for="accordion18">18. Will I be allowed to change the GP / polyclinic after I have successfully enrolled with Healthier SG?</label>
     <div>
 			<p>Yes, you can switch clinics after you have enrolled.</p>
 
@@ -205,29 +292,32 @@ Can we enrol our care recipients or family members?</label>
 
 <p>We will support one change of enrolled clinic in a year to accommodate personal preferences and changes in life circumstances, e.g., families who move house.  As some residents may need more time to find a clinic that they are comfortable with at the start, we will support up to four changes for the initial enrolment period.
 </p></div></li>
-<li>
-    <input id="accordion15" type="checkbox">
-    <label for="accordion15">15. I have recently changed my mobile/contact number, how do I update it for Healthier SG?</label>
-    <div>
-      <p>You may call the MOH hotline at 6325 9220 or approach the Healthier SG ambassadors at the nearest Community Club or Joint Testing &amp; Vaccination Centres (JTVC) for assistance to update your contact number.</p>
 
-<p>For more information on the locations, click <a href="https://gowhere.gov.sg/healthiersg">here</a>.</p></div>
-  </li>    
+	<li>
+    <input id="accordion19" type="checkbox">
+    <label for="accordion19">19. I have recently changed my mobile/contact number, how do I update it for Healthier SG?<br>
+How do I notify MOH to send my Healthier SG SMSes directly to my caregiver/loved ones, on my behalf?
+</label>
+    <div>
+      <p>You may call the MOH Hotline on 6325 9220 or approach our Healthier SG ambassadors at Community Centre (CC) or Joint Testing Vaccination Centres (JTVC) for assistance.</p>
+
+<p>To check for the nearest location for Healthier SG ambassador’s on-site assistance and operating hours, click <a href="https://gowhere.gov.sg/healthiersg">here</a>.</p></div>
+  </li>   
 <li>
-    <input id="accordion16" type="checkbox">
-    <label for="accordion16">16. What if my preferred Healthier SG clinic is popular and I am unable to enrol or make my appointment?</label>
+    <input id="accordion20" type="checkbox">
+    <label for="accordion20">20. What if my preferred Healthier SG clinic is popular and I am unable to enrol or make my appointment?</label>
     <div>
       <p>You can choose to enrol with other Healthier SG clinics suggested in the HealthHub App, or wait for the next available appointment date.</p></div>
   </li>
 	<li>
-    <input id="accordion17" type="checkbox">
-    <label for="accordion17">17. How do I check my Healthier SG enrolment status?</label>
+    <input id="accordion21" type="checkbox">
+    <label for="accordion21">21. How do I check my Healthier SG enrolment status?</label>
     <div>
       <p>You are considered to have successfully enrolled when you are able to view your selected clinic’s name under “Your Enrolled Clinic” tab in HealthHub.</p></div>
   </li>	
   <li>
-    <input id="accordion18" type="checkbox">
-    <label for="accordion18">18. I have been seeing various doctors at GP clinics as well as the polyclinic.<br>
+    <input id="accordion22" type="checkbox">
+    <label for="accordion22">22. I have been seeing various doctors at GP clinics as well as the polyclinic.<br>
 Which doctor should I enrol with, and can I continue to see multiple doctors after the enrolment?</label>
     <div>
       <p>If you are already visiting a regular Healthier SG GP clinic, you are encouraged to stay to develop and enjoy a long-term trusted relationship with a doctor who knows you well. </p>
@@ -235,8 +325,8 @@ Which doctor should I enrol with, and can I continue to see multiple doctors aft
 <p>We encourage you to commit to visiting one family clinic who will support you in developing and adopting a Health Plan. The Healthier SG family clinic will serve as the first point-of-contact to holistically manage your health.</p></div>
   </li>
 	<li>
-    <input id="accordion19" type="checkbox">
-    <label for="accordion19">19. How do I change my enrolled Healthier SG clinic on HealthHub?</label>
+    <input id="accordion23" type="checkbox">
+    <label for="accordion23">23. How do I change my enrolled Healthier SG clinic on HealthHub?</label>
     <div>
       <p>Steps for changing enrolled Healthier SG clinic on HealthHub:</p>
 			<img src="/images/FAQs/faqclinic1.png" alt="faq">
@@ -244,8 +334,8 @@ Which doctor should I enrol with, and can I continue to see multiple doctors aft
     </div>
   </li>
 	<li>
-    <input id="accordion20" type="checkbox">
-    <label for="accordion20">20. Why can’t I find my Healthier SG clinic of choice? <br>
+    <input id="accordion24" type="checkbox">
+    <label for="accordion24">24. Why can’t I find my Healthier SG clinic of choice? <br>
 What do I do if my existing General Practitioner (GP) is not a Healthier SG clinic?</label>
     <div>
       <p>For Healthier SG, residents can enrol only with a clinic that is participating in Healthier SG. GP clinics that are not Healthier SG will not be available for selection. </p>
@@ -258,8 +348,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
   </li>
 <li>
-    <input id="accordion21" type="checkbox">
-    <label for="accordion21">21. Why do I need to visit the clinic after enrolment? <br>What can I expect at this first Health Plan consultation session?
+    <input id="accordion25" type="checkbox">
+    <label for="accordion25">25. Why do I need to visit the clinic after enrolment? <br>What can I expect at this first Health Plan consultation session?
 </label>
     <div>
       <p>During the Health Plan consultation at your enrolled Healthier SG clinic, the doctor will discuss your health, and co-create a Health Plan that works for you. This could include:
@@ -275,29 +365,29 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
   </li>
 <li>
-    <input id="accordion22" type="checkbox">
-    <label for="accordion22">22. What happens if I need to see the doctor for my illness during the same visit for my first Health Plan discussion? Do I still need to pay?</label>
+    <input id="accordion26" type="checkbox">
+    <label for="accordion26">26. What happens if I need to see the doctor for my illness during the same visit for my first Health Plan discussion? Do I still need to pay?</label>
     <div>
       <p>The first Health Plan discussion is fully subsidised, and you do not need to pay for the discussion. If you are seeing the doctor for your first Health Plan discussion and for other illnesses, please check with the clinic whether there are charges for consultation/treatment unrelated to Healthier SG.</p>
     </div>
   </li>
 <li>
-    <input id="accordion23" type="checkbox">
-    <label for="accordion23">23. Can I use my next appointment at the GP/Polyclinic for my first Health Plan discussion?</label>
+    <input id="accordion27" type="checkbox">
+    <label for="accordion27">27. Can I use my next appointment at the GP/Polyclinic for my first Health Plan discussion?</label>
     <div>
       <p>If you have enrolled with your existing GP/Polyclinic, you can use your next scheduled appointment as an opportunity to also have your first Health Plan discussion with the doctor. However, please note that there may still be fees charged for consultation and treatment that are unrelated to Healthier SG.</p>
     </div>
   </li>
 <li>
-    <input id="accordion24" type="checkbox">
-    <label for="accordion24">24. If I have a company doctor and/or any other healthcare insurance plans, can I still enrol with a Healthier SG clinic?</label>
+    <input id="accordion28" type="checkbox">
+    <label for="accordion28">28. If I have a company doctor and/or any other healthcare insurance plans, can I still enrol with a Healthier SG clinic?</label>
     <div>
      <p>Your existing health benefits and insurance coverage (e.g., provided by your employer) can co-exist with Healthier SG. MOH encourages employers and insurers to support their panel of clinics to join Healthier SG, so that their employees/clients can tap on medical benefits from employers/insurers and also be supported by the Healthier SG clinic they enrol with for more personalised and comprehensive care offerings.</p>
     </div>
   </li>
 <li>
-    <input id="accordion25" type="checkbox">
-    <label for="accordion25">25. Do I have the flexibility to choose a preferred clinic near my residence or workplace?</label>
+    <input id="accordion29" type="checkbox">
+    <label for="accordion29">29. Do I have the flexibility to choose a preferred clinic near my residence or workplace?</label>
     <div>
       <p>Residents can choose any clinic that is participating in Healthier SG. This can be a clinic located near your home or workplace or a clinic that you have visited for many years. </p>
 
@@ -310,8 +400,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 ### Planning my first Health Plan discussion
 <ul class="jekyllcodex_accordion">
 <li>
-    <input id="accordion26" type="checkbox">
-    <label for="accordion26">26. How do I book my first appointment for my Health Plan discussion?</label>
+    <input id="accordion30" type="checkbox">
+    <label for="accordion30">30. How do I book my first appointment for my Health Plan discussion?</label>
     <div>
       <p>Follow the steps below to book your first consultation with your enrolled Healthier SG clinic for your health plan discussion: </p>
 
@@ -333,8 +423,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
   </li>
 	<li>
-    <input id="accordion27" type="checkbox">
-    <label for="accordion27">27. If I do not have a smartphone, how can I make an appointment?</label>
+    <input id="accordion31" type="checkbox">
+    <label for="accordion31">31. If I do not have a smartphone, how can I make an appointment?</label>
     <div>
       <p>If your caregiver has enrolled you via the HealthHub app, he/she will be able to book an appointment for you through the same app.</p>
 <p>Alternatively, you may approach the nearest Community Club (CC) or Joint Testing &amp; Vaccination Centre (JTVC) for assistance with the appointment booking. Healthier SG ambassadors at the CC or JTVC will provide you with an appointment card to bring along for your appointment. Subsequently, you will receive a Health Plan Booklet at your Healthier SG clinic to keep track of your appointments and guide you towards achieving your health goals.</p>
@@ -343,8 +433,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
   </li>
 	<li>
-    <input id="accordion28" type="checkbox">
-    <label for="accordion28">28. What do I need to bring along for my first visit?</label>
+    <input id="accordion32" type="checkbox">
+    <label for="accordion32">32. What do I need to bring along for my first visit?</label>
     <div>
 			<p>Do bring along:</p><ul>
 <li>your NRIC to your Healthier SG clinic for verification purposes; and</li>
@@ -362,8 +452,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 
 <ul class="jekyllcodex_accordion">
 	<li>
-    <input id="accordion29" type="checkbox">
-    <label for="accordion29">29. How do I view and access my Health Plan?</label>
+    <input id="accordion33" type="checkbox">
+    <label for="accordion33">33. How do I view and access my Health Plan?</label>
     <div>
       <p>A digital summary of your Health Plan can be viewed and accessed on the HealthHub app after your first consultation.</p>
 
@@ -375,8 +465,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
   </li>
 <li>
-    <input id="accordion30" type="checkbox">
-    <label for="accordion30">30. How often will my Health Plan be reviewed?</label>
+    <input id="accordion34" type="checkbox">
+    <label for="accordion34">34. How often will my Health Plan be reviewed?</label>
     <div>
 			<p>Your family clinic will have an annual check-in with you based on your Health Plan and to discuss any changes or next steps you wish to take. </p>
 
@@ -384,8 +474,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
 	</li> 
 <li>
-    <input id="accordion31" type="checkbox">
-    <label for="accordion31">31. If I have changed my enrolled clinic, can my current family clinic view my previous Health Plan?</label>
+    <input id="accordion35" type="checkbox">
+    <label for="accordion35">35. If I have changed my enrolled clinic, can my current family clinic view my previous Health Plan?</label>
     <div>
 			<p>Yes, your current family clinic will be able to view your past Health Plans co-developed with your previous family clinic.</p>
     </div>
@@ -395,20 +485,18 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion32" type="checkbox">
-    <label for="accordion32">32. Can my family clinic refer me for specialist care? <br>
-Will referrals made under Healthier SG be subsidised at Specialist Outpatient Centre (SOC) rates, similar to those referred by polyclinics?</label>
+    <input id="accordion36" type="checkbox">
+    <label for="accordion36">36. Can my family clinic refer me for specialist care? <br>
+Will subsidised referrals made under Healthier SG be subsidised at public Specialist Outpatient Clinics (SOC)?</label>
     <div>
-			<p>Yes, your family clinic can refer you for specialist care if it is clinically appropriate. Your doctor (or the care team) will discuss with you prior to making any referral for specialist care.</p> 
- 
-<p>Singapore Citizens may be referred during their subsidised visits to GP clinics (e.g., under Community Health Assist Scheme, Screen For Life, Vaccination &amp; Childhood Development Screening Scheme) to public SOC for subsidised care. You will be considered as a subsidised patient and will receive care from a team of doctors/dentists. Patients who wish to choose a specific doctor at the SOC will have to pay private rates. </p> 
-
-<p>For more information on SOC subsidies, please visit the MOH website or check directly with your CHAS GP or the public SOC.</p>
+			<p>Yes, your family clinic can refer you for subsidised specialist care if it is clinically appropriate. Your doctor (or the care team) will discuss with you prior to making any referral for specialist care.</p>
+<p>CHAS/MG/PG cardholders can receive subsidised referrals to public SOCs through CHAS clinics, which include their Healthier SG GPs. You will be considered a subsidised patient and will receive care from a team of doctors/dentists. Patients who wish to choose a specific doctor at the SOC will have to pay private rates.</p>
+<p>For more information on SOC subsidies, please visit the MOH website or check directly with your Healthier SG GP or the public SOC.</p>
     </div>
 	</li>
 	<li>
-    <input id="accordion33" type="checkbox">
-    <label for="accordion33">33. Who will manage my clinical referrals after seeing my family clinic?</label>
+    <input id="accordion37" type="checkbox">
+    <label for="accordion37">37. Who will manage my clinical referrals after seeing my family clinic?</label>
     <div>
       <p>Your Healthier SG GP clinic’s care team will facilitate your referrals to specialist outpatient clinics (SOC) and/or Hospital as part of your care (if required). Do inform your clinic’s team if you have a preferred SOC and/or Hospital.</p>
 
@@ -417,16 +505,16 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
   </li>
 
 <li>
-    <input id="accordion34" type="checkbox">
-    <label for="accordion34">34. Who do I contact should I need to amend my appointments for referrals?</label>
+    <input id="accordion38" type="checkbox">
+    <label for="accordion38">38. Who do I contact should I need to amend my appointments for referrals?</label>
     <div>
       <p>Please inform the clinic you were referred to that you would like to change your appointment. If you are unsure of the clinic you were referred to, please contact your enrolled Healthier SG GP clinic for clarification.</p>
     </div>
   </li>
 
 <li>
-    <input id="accordion35" type="checkbox">
-    <label for="accordion35">35. Will my referral results be automatically sent to my family clinic for review?</label>
+    <input id="accordion39" type="checkbox">
+    <label for="accordion39">39. Will my referral results be automatically sent to my family clinic for review?</label>
     <div>
       <p>Not all your clinical results by other care providers will be automatically sent to your family clinic. As such, it is good practice to always bring your clinical results physically during your appointments.</p>
     </div>
@@ -437,8 +525,8 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
 
 <ul class="jekyllcodex_accordion">
 <li>
-    <input id="accordion36" type="checkbox">
-    <label for="accordion36">36. How often do I need to visit my Healthier SG clinic?</label>
+    <input id="accordion40" type="checkbox">
+    <label for="accordion40">40. How often do I need to visit my Healthier SG clinic?</label>
     <div>
 			<p>Your clinic will advise you on your next check-in dates.</p>
 
@@ -447,14 +535,24 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
 <p>For those without chronic conditions, you may check-in with your enrolled clinic annually.</p>
     </div>
   </li>
+	
+	<li>
+    <input id="accordion41" type="checkbox">
+    <label for="accordion41">41. Do I need to pay for the subsequent annual Health Plan check-ins with my Healthier SG clinic? </label>
+    <div>
+			<p>Your subsequent annual Health Plan check-ins are fully-subsidised and you will not be charged. Typically, these are brief discussions and updates on the Health Plan that will be initiated and conducted by your enrolled clinic, and may be done opportunistically during your in-person visits, over a phone call or through a teleconsultation.</p>
+
+<p>At the same visit, if you would like to consult the GP on other matters or agree to receive other services offered by the GP, the clinic’s prevailing charges will apply.</p>
+    </div>
+  </li>
 	</ul>
 	
 ### HealthHub
 
 <ul class="jekyllcodex_accordion">
 <li>
-    <input id="accordion37" type="checkbox">
-    <label for="accordion37">37. Will all my health records and screening/tests results be viewable on HealthHub app?</label>
+    <input id="accordion42" type="checkbox">
+    <label for="accordion42">42. Will all my health records and screening/tests results be viewable on HealthHub app?</label>
     <div>
       <p>HealthHub retrieves your health records such as screening and lab test results from the medical records system of various public healthcare institutions, such as polyclinics and public structured hospitals.</p>
 
@@ -462,8 +560,8 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
     </div>
   </li>
 	<li>
-    <input id="accordion38" type="checkbox">
-    <label for="accordion38">38. Where can I seek technical assistance on the HealthHub app?</label>
+    <input id="accordion43" type="checkbox">
+    <label for="accordion43">43. Where can I seek technical assistance on the HealthHub app?</label>
     <div>
       <p>You may:
 				</p><ul>
@@ -480,8 +578,8 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
 
 <ul class="jekyllcodex_accordion">
 <li>
-    <input id="accordion39" type="checkbox">
-    <label for="accordion39">39. If I do not have a smartphone, mobile number nor any caregiver, how do I redeem my Healthpoints?</label>
+    <input id="accordion44" type="checkbox">
+    <label for="accordion44">44. If I do not have a smartphone, mobile number nor any caregiver, how do I redeem my Healthpoints?</label>
     <div>
       <p>You may approach our Healthier SG ambassadors at Community Clubs (CC) or the Joint Testing &amp; Vaccination Centres (JTVC) for assistance.</p>
 
@@ -489,15 +587,15 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
     </div>
   </li>
 		<li>
-    <input id="accordion40" type="checkbox">
-    <label for="accordion40">40. How can I earn Healthpoints?</label>
+    <input id="accordion45" type="checkbox">
+    <label for="accordion45">45. How can I earn Healthpoints?</label>
     <div>
       <p>You can earn Healthpoints by participating in healthy lifestyle programmes and challenges on the Healthy 365 app.</p>
     </div>
   </li>
 	<li>
-    <input id="accordion41" type="checkbox">
-    <label for="accordion41">41. What can I redeem my Healthpoints for?</label>
+    <input id="accordion46" type="checkbox">
+    <label for="accordion46">46. What can I redeem my Healthpoints for?</label>
     <div>
       <p>You can redeem your Healthpoints for the following reward types:
 				</p><ul>
@@ -511,8 +609,8 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
     </div>
   </li>
 	<li>
-    <input id="accordion42" type="checkbox">
-    <label for="accordion42">42. Will my Healthpoints expire?</label>
+    <input id="accordion47" type="checkbox">
+    <label for="accordion47">47. Will my Healthpoints expire?</label>
     <div>
       <p>Each Healthpoint is valid for 6 months. Your Healthpoints summary details (including its expiry date) can be found under the “My Wallet” tab in the Rewards section of Healthy 365 app.</p>
 
@@ -526,8 +624,8 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
 
 <ul class="jekyllcodex_accordion">
 <li>
-    <input id="accordion43" type="checkbox">
-    <label for="accordion43">43. Where can I locate Healthier SG programmes to sign up/participate in?</label>
+    <input id="accordion48" type="checkbox">
+    <label for="accordion48">48. Where can I locate Healthier SG programmes to sign up/participate in?</label>
     <div>
       <p>You will be able to find healthy lifestyle programmes by using the Healthy 365 app:
 </p><ul>
@@ -541,24 +639,24 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
   </li>
 
 <li>
-    <input id="accordion44" type="checkbox">
-    <label for="accordion44">44. How will my attendance at Healthier SG programmes be tracked?</label>
+    <input id="accordion49" type="checkbox">
+    <label for="accordion49">49. How will my attendance at Healthier SG programmes be tracked?</label>
     <div>
       <p>Your attendance will be taken through the Healthy 365 app and/or during the programmes by the programme facilitators.</p>
     </div>
   </li>
 
 <li>
-    <input id="accordion45" type="checkbox">
-    <label for="accordion45">45. Do I need to make bookings for Healthier SG programmes, or can I just walk in?</label>
+    <input id="accordion50" type="checkbox">
+    <label for="accordion50">50. Do I need to make bookings for Healthier SG programmes, or can I just walk in?</label>
     <div>
       <p>Selected programmes and activities are open for walk in, but slots are subject to availability. To ensure you get a slot, you are encouraged to make a booking beforehand through Healthy 365 app.</p>
     </div>
   </li>
 
 <li>
-    <input id="accordion46" type="checkbox">
-    <label for="accordion46">46. If I do not have a smartphone, how can I sign up for the programmes and keep track of it?</label>
+    <input id="accordion51" type="checkbox">
+    <label for="accordion51">51. If I do not have a smartphone, how can I sign up for the programmes and keep track of it?</label>
     <div>
       <p>If you or your loved ones do not have access to a smartphone or the Healthy 365 app, you may approach the nearest Community Club (CC), Active Ageing Centre (AAC) or ActiveSG Sport Centres for assistance with the booking of programmes. </p>
     </div>
