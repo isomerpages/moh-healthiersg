@@ -433,8 +433,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
   </li>
 	<li>
-    <input id="accordion28" type="checkbox">
-    <label for="accordion28">28. What do I need to bring along for my first visit?</label>
+    <input id="accordion32" type="checkbox">
+    <label for="accordion32">32. What do I need to bring along for my first visit?</label>
     <div>
 			<p>Do bring along:</p><ul>
 <li>your NRIC to your Healthier SG clinic for verification purposes; and</li>
@@ -452,8 +452,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 
 <ul class="jekyllcodex_accordion">
 	<li>
-    <input id="accordion29" type="checkbox">
-    <label for="accordion29">29. How do I view and access my Health Plan?</label>
+    <input id="accordion33" type="checkbox">
+    <label for="accordion33">33. How do I view and access my Health Plan?</label>
     <div>
       <p>A digital summary of your Health Plan can be viewed and accessed on the HealthHub app after your first consultation.</p>
 
@@ -465,8 +465,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
   </li>
 <li>
-    <input id="accordion30" type="checkbox">
-    <label for="accordion30">30. How often will my Health Plan be reviewed?</label>
+    <input id="accordion34" type="checkbox">
+    <label for="accordion34">34. How often will my Health Plan be reviewed?</label>
     <div>
 			<p>Your family clinic will have an annual check-in with you based on your Health Plan and to discuss any changes or next steps you wish to take. </p>
 
@@ -474,8 +474,8 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
     </div>
 	</li> 
 <li>
-    <input id="accordion31" type="checkbox">
-    <label for="accordion31">31. If I have changed my enrolled clinic, can my current family clinic view my previous Health Plan?</label>
+    <input id="accordion35" type="checkbox">
+    <label for="accordion35">35. If I have changed my enrolled clinic, can my current family clinic view my previous Health Plan?</label>
     <div>
 			<p>Yes, your current family clinic will be able to view your past Health Plans co-developed with your previous family clinic.</p>
     </div>
@@ -485,20 +485,18 @@ What do I do if my existing General Practitioner (GP) is not a Healthier SG clin
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion32" type="checkbox">
-    <label for="accordion32">32. Can my family clinic refer me for specialist care? <br>
-Will referrals made under Healthier SG be subsidised at Specialist Outpatient Centre (SOC) rates, similar to those referred by polyclinics?</label>
+    <input id="accordion36" type="checkbox">
+    <label for="accordion36">36. Can my family clinic refer me for specialist care? <br>
+Will subsidised referrals made under Healthier SG be subsidised at public Specialist Outpatient Clinics (SOC)?</label>
     <div>
-			<p>Yes, your family clinic can refer you for specialist care if it is clinically appropriate. Your doctor (or the care team) will discuss with you prior to making any referral for specialist care.</p> 
- 
-<p>Singapore Citizens may be referred during their subsidised visits to GP clinics (e.g., under Community Health Assist Scheme, Screen For Life, Vaccination &amp; Childhood Development Screening Scheme) to public SOC for subsidised care. You will be considered as a subsidised patient and will receive care from a team of doctors/dentists. Patients who wish to choose a specific doctor at the SOC will have to pay private rates. </p> 
-
-<p>For more information on SOC subsidies, please visit the MOH website or check directly with your CHAS GP or the public SOC.</p>
+			<p>Yes, your family clinic can refer you for subsidised specialist care if it is clinically appropriate. Your doctor (or the care team) will discuss with you prior to making any referral for specialist care.</p>
+<p>CHAS/MG/PG cardholders can receive subsidised referrals to public SOCs through CHAS clinics, which include their Healthier SG GPs. You will be considered a subsidised patient and will receive care from a team of doctors/dentists. Patients who wish to choose a specific doctor at the SOC will have to pay private rates.</p>
+<p>For more information on SOC subsidies, please visit the MOH website or check directly with your Healthier SG GP or the public SOC.</p>
     </div>
 	</li>
 	<li>
-    <input id="accordion33" type="checkbox">
-    <label for="accordion33">33. Who will manage my clinical referrals after seeing my family clinic?</label>
+    <input id="accordion37" type="checkbox">
+    <label for="accordion37">37. Who will manage my clinical referrals after seeing my family clinic?</label>
     <div>
       <p>Your Healthier SG GP clinic’s care team will facilitate your referrals to specialist outpatient clinics (SOC) and/or Hospital as part of your care (if required). Do inform your clinic’s team if you have a preferred SOC and/or Hospital.</p>
 
@@ -507,16 +505,16 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
   </li>
 
 <li>
-    <input id="accordion34" type="checkbox">
-    <label for="accordion34">34. Who do I contact should I need to amend my appointments for referrals?</label>
+    <input id="accordion38" type="checkbox">
+    <label for="accordion38">38. Who do I contact should I need to amend my appointments for referrals?</label>
     <div>
       <p>Please inform the clinic you were referred to that you would like to change your appointment. If you are unsure of the clinic you were referred to, please contact your enrolled Healthier SG GP clinic for clarification.</p>
     </div>
   </li>
 
 <li>
-    <input id="accordion35" type="checkbox">
-    <label for="accordion35">35. Will my referral results be automatically sent to my family clinic for review?</label>
+    <input id="accordion39" type="checkbox">
+    <label for="accordion39">39. Will my referral results be automatically sent to my family clinic for review?</label>
     <div>
       <p>Not all your clinical results by other care providers will be automatically sent to your family clinic. As such, it is good practice to always bring your clinical results physically during your appointments.</p>
     </div>
@@ -527,8 +525,8 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
 
 <ul class="jekyllcodex_accordion">
 <li>
-    <input id="accordion36" type="checkbox">
-    <label for="accordion36">36. How often do I need to visit my Healthier SG clinic?</label>
+    <input id="accordion40" type="checkbox">
+    <label for="accordion40">40. How often do I need to visit my Healthier SG clinic?</label>
     <div>
 			<p>Your clinic will advise you on your next check-in dates.</p>
 
@@ -537,14 +535,24 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
 <p>For those without chronic conditions, you may check-in with your enrolled clinic annually.</p>
     </div>
   </li>
+	
+	<li>
+    <input id="accordion41" type="checkbox">
+    <label for="accordion41">41. Do I need to pay for the subsequent annual Health Plan check-ins with my Healthier SG clinic? </label>
+    <div>
+			<p>Your subsequent annual Health Plan check-ins are fully-subsidised and you will not be charged. Typically, these are brief discussions and updates on the Health Plan that will be initiated and conducted by your enrolled clinic, and may be done opportunistically during your in-person visits, over a phone call or through a teleconsultation.</p>
+
+<p>At the same visit, if you would like to consult the GP on other matters or agree to receive other services offered by the GP, the clinic’s prevailing charges will apply.</p>
+    </div>
+  </li>
 	</ul>
 	
 ### HealthHub
 
 <ul class="jekyllcodex_accordion">
 <li>
-    <input id="accordion37" type="checkbox">
-    <label for="accordion37">37. Will all my health records and screening/tests results be viewable on HealthHub app?</label>
+    <input id="accordion42" type="checkbox">
+    <label for="accordion42">42. Will all my health records and screening/tests results be viewable on HealthHub app?</label>
     <div>
       <p>HealthHub retrieves your health records such as screening and lab test results from the medical records system of various public healthcare institutions, such as polyclinics and public structured hospitals.</p>
 
@@ -552,8 +560,8 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
     </div>
   </li>
 	<li>
-    <input id="accordion38" type="checkbox">
-    <label for="accordion38">38. Where can I seek technical assistance on the HealthHub app?</label>
+    <input id="accordion43" type="checkbox">
+    <label for="accordion43">43. Where can I seek technical assistance on the HealthHub app?</label>
     <div>
       <p>You may:
 				</p><ul>
@@ -570,8 +578,8 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
 
 <ul class="jekyllcodex_accordion">
 <li>
-    <input id="accordion39" type="checkbox">
-    <label for="accordion39">39. If I do not have a smartphone, mobile number nor any caregiver, how do I redeem my Healthpoints?</label>
+    <input id="accordion44" type="checkbox">
+    <label for="accordion44">44. If I do not have a smartphone, mobile number nor any caregiver, how do I redeem my Healthpoints?</label>
     <div>
       <p>You may approach our Healthier SG ambassadors at Community Clubs (CC) or the Joint Testing &amp; Vaccination Centres (JTVC) for assistance.</p>
 
@@ -579,15 +587,15 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
     </div>
   </li>
 		<li>
-    <input id="accordion40" type="checkbox">
-    <label for="accordion40">40. How can I earn Healthpoints?</label>
+    <input id="accordion45" type="checkbox">
+    <label for="accordion45">45. How can I earn Healthpoints?</label>
     <div>
       <p>You can earn Healthpoints by participating in healthy lifestyle programmes and challenges on the Healthy 365 app.</p>
     </div>
   </li>
 	<li>
-    <input id="accordion41" type="checkbox">
-    <label for="accordion41">41. What can I redeem my Healthpoints for?</label>
+    <input id="accordion46" type="checkbox">
+    <label for="accordion46">46. What can I redeem my Healthpoints for?</label>
     <div>
       <p>You can redeem your Healthpoints for the following reward types:
 				</p><ul>
@@ -601,8 +609,8 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
     </div>
   </li>
 	<li>
-    <input id="accordion42" type="checkbox">
-    <label for="accordion42">42. Will my Healthpoints expire?</label>
+    <input id="accordion47" type="checkbox">
+    <label for="accordion47">47. Will my Healthpoints expire?</label>
     <div>
       <p>Each Healthpoint is valid for 6 months. Your Healthpoints summary details (including its expiry date) can be found under the “My Wallet” tab in the Rewards section of Healthy 365 app.</p>
 
@@ -616,8 +624,8 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
 
 <ul class="jekyllcodex_accordion">
 <li>
-    <input id="accordion43" type="checkbox">
-    <label for="accordion43">43. Where can I locate Healthier SG programmes to sign up/participate in?</label>
+    <input id="accordion48" type="checkbox">
+    <label for="accordion48">48. Where can I locate Healthier SG programmes to sign up/participate in?</label>
     <div>
       <p>You will be able to find healthy lifestyle programmes by using the Healthy 365 app:
 </p><ul>
@@ -631,24 +639,24 @@ Will referrals made under Healthier SG be subsidised at Specialist Outpatient Ce
   </li>
 
 <li>
-    <input id="accordion44" type="checkbox">
-    <label for="accordion44">44. How will my attendance at Healthier SG programmes be tracked?</label>
+    <input id="accordion49" type="checkbox">
+    <label for="accordion49">49. How will my attendance at Healthier SG programmes be tracked?</label>
     <div>
       <p>Your attendance will be taken through the Healthy 365 app and/or during the programmes by the programme facilitators.</p>
     </div>
   </li>
 
 <li>
-    <input id="accordion45" type="checkbox">
-    <label for="accordion45">45. Do I need to make bookings for Healthier SG programmes, or can I just walk in?</label>
+    <input id="accordion50" type="checkbox">
+    <label for="accordion50">50. Do I need to make bookings for Healthier SG programmes, or can I just walk in?</label>
     <div>
       <p>Selected programmes and activities are open for walk in, but slots are subject to availability. To ensure you get a slot, you are encouraged to make a booking beforehand through Healthy 365 app.</p>
     </div>
   </li>
 
 <li>
-    <input id="accordion46" type="checkbox">
-    <label for="accordion46">46. If I do not have a smartphone, how can I sign up for the programmes and keep track of it?</label>
+    <input id="accordion51" type="checkbox">
+    <label for="accordion51">51. If I do not have a smartphone, how can I sign up for the programmes and keep track of it?</label>
     <div>
       <p>If you or your loved ones do not have access to a smartphone or the Healthy 365 app, you may approach the nearest Community Club (CC), Active Ageing Centre (AAC) or ActiveSG Sport Centres for assistance with the booking of programmes. </p>
     </div>
