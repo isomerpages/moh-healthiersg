@@ -22,4 +22,4 @@ Once your caregiver has successfully added you as a care recipient, your user pr
 
 Alternatively, you may enrol in Healthier SG by accessing the [HealthHub web portal](https://www.healthhub.sg) on a computer or mobile device and logging in with your Singpass. 
 
-HealthHub FAQs can be found [here](www.healthhub.sg/faqs).
+HealthHub FAQs can be found [here](https://www.healthhub.sg/faqs).
