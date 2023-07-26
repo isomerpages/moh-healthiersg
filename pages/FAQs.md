@@ -126,8 +126,7 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
 			<img src="/images/FAQs/naisfaq7.png" alt="faq">
 			<ul>
 				<li><a href="https://www.moh.gov.sg/resources-statistics/nationally-recommended-vaccines">Nationally recommended vaccines</a></li>
-		
-				</ul>
+		</ul>
 		</div>
 </li>
 				<li>
@@ -235,6 +234,7 @@ Can my caregiver enrol me on his/her HealthHub app?
     <div>
       <p>You can grant access to your family members or loved ones to assist you with the enrolment by adding them as your caregiver in HealthHub and enabling permission to manage Healthier SG on your behalf. Your caregiver can then add you as a care recipient to view your health records and manage your e-Services on HealthHub.</p>
 
+			<p>You will need your Singpass account to authorise your caregiver via HealthHub. If you do not have a Singpass account, you may register for Singpass through <a href="https://www.singpass.gov.sg/home/ui/register/instructions">this website</a> or head down to the nearest Singpass counter for assistance, with your caregiver and bring along both your NRICs. For Singpass counter locations, click <a href="https://www.singpass.gov.sg/home/ui/counter-locations">here</a>.</p>
 			<p>Follow the steps below to first add a caregiver.</p>
  <img src="/images/Guide/slide1.PNG" alt="faq">
  <img src="/images/Guide/slide2.PNG" alt="faq">
