@@ -75,7 +75,7 @@ Benefits after enrolment include:
 <ul>
 <li>Diabetes Mellitus/ Pre-diabetes</li>
 <li>Hypertension</li>
-<li>Hyperlipidemia (Lipid Disorders)</li>
+<li>Hyperlipidaemia (Lipid Disorders)</li>
 <li>Stroke</li>
 <li>Asthma</li>
 <li>Chronic Obstructive Pulmonary Disease (COPD)</li>
@@ -108,22 +108,25 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
 		</div></li>
 	<li>
     <input id="accordion7" type="checkbox">
-    <label for="accordion7">7. What are the fully-subsidised nationally recommended screenings and vaccinations? How am I eligible?</label>
+    <label for="accordion7">7. What are the fully subsidised nationally recommended screenings and vaccinations? How am I eligible?</label>
     <div>
-		<p>Nationally recommended screenings listed on the Screen-For-Life (SFL) programme and vaccinations on the National Adult Immunisation Schedule (NAIS) are fully-subsidised for Healthier SG enrolees who are Singapore Citizens that meet the eligibility criteria and as advised by their family doctor at their enrolled Healthier SG clinic only.</p>
+		<p>Nationally recommended screenings listed on the Screen-For-Life (SFL) programme and vaccinations on the National Adult Immunisation Schedule (NAIS) are fully-subsidised for Healthier SG enrolees who are Singapore Citizens. These must meet the eligibility criteria and are as advised by their family doctor at their enrolled Healthier SG clinic only.</p>
 
 <p>For more information and eligibility criteria:</p>
 
-<strong>Screen For Life (SFL)</strong>	
+<u>Screen For Life (SFL)</u>	
+			
+ <img src="/images/FAQs/sflhsg.PNG" alt="faq">
 			<ul>
-				<li>Enhanced Screen for Life</li>
-				<li>Screen for Life</li>
+				<li><a href="https://www.moh.gov.sg/healthcare-schemes-subsidies/enhanced-screen-for-life">Enhanced Screen for Life</a></li>
+				<li><a href="https://www.healthhub.sg/programmes/61/Screen_for_Life/sfl-faqs#home">Screen for Life</a></li>
 			</ul>
 			
-<strong>National Adult Immunisation Schedule (NAIS)</strong>
+<u>National Adult Immunisation Schedule (NAIS)</u>
+			<img src="/images/FAQs/naisfaq7.png" alt="faq">
 			<ul>
-				<li>Nationally recommended vaccines</li>
-				<img src="/images/FAQs/NAISFAQ7.PNG" alt="bishan">
+				<li><a href="https://www.moh.gov.sg/resources-statistics/nationally-recommended-vaccines">Nationally recommended vaccines</a></li>
+		
 				</ul>
 		</div>
 </li>
@@ -146,7 +149,7 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
     <input id="accordion9" type="checkbox">
     <label for="accordion9">9. What are the whitelisted drugs under Healthier SG Chronic Tier?</label>
     <div>
-			<p>Commonly used drugs for managing chronic conditions such as diabetes, high blood pressure and high blood cholesterol will be whitelisted under Healthier SG Chronic Tier. This will be available in early 2024. Prices for these drugs at the GPs will be comparable with that of polyclinic drug prices.</p>
+			<p>Commonly used drugs for managing chronic conditions such as diabetes, high blood pressure and high blood cholesterol, will be whitelisted under Healthier SG Chronic Tier. This will be available in early 2024. Prices for these drugs at the GPs will be comparable with that of polyclinic drug prices.</p>
 
 <p>Do keep a look out for future announcements.</p>
 		</div>
@@ -206,7 +209,27 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
     </div>
 	</li>  
 	<li>
-    <input id="accordion14" type="checkbox"><label for="accordion15">15. How do I enrol if I do not have a valid mobile phone?<br>
+    <input id="accordion14" type="checkbox"><label for="accordion14">14. I do not have a mobile phone/smartphone and can’t receive SMS. How do I enrol in Healthier SG?</label>
+		<div>
+			<p>There are a few ways that you can enrol in Healthier SG.</p>
+
+<u>1. Assisted enrolment</u>
+
+<p>Approach the Healthier SG Ambassadors at Community Centres/Clubs (CC) or Joint Testing &amp; Vaccination Centres (JTVC) for assistance. To check for an enrolment station (and operating hours) near you, click <a href="www.gowhere.gov.sg/healthiersg">here</a>.</p>
+
+<u>2. Enrol with caregiver's assistance</u>
+<p>You can grant access to your caregiver/family member/loved one by adding him/her in HealthHub, so he/she can enrol you on your behalf using his/her smartphone. You will need your Singpass account to authorise your caregiver via HealthHub. If you do not have a Singpass account, you may register for Singpass through <a href="https://www.singpass.gov.sg/home/ui/register/instructions">this website</a> or head down to the nearest Singpass counter for assistance, with your caregiver and bring along both your NRICs. For Singpass counter locations, click <a href="https://www.singpass.gov.sg/home/ui/counter-locations">here</a>.</p>
+
+<p>For caregiver enrolment, your caregiver can refer to the step-by-step guide <a href="https://www.healthiersg.gov.sg/enrolment/caregivers/">here</a>.</p>
+
+<u>3. Via a computer</u>
+<p>You can self-enrol via <a href="https://www.healthhub.sg/">HealthHub</a>. A Singpass account is required to do so.</p>
+
+			<p>For any clarification, please call 6325 9220.</p>
+		</div></li>
+			
+	<li>
+    <input id="accordion15" type="checkbox"><label for="accordion15">15. How do I enrol if I do not have a valid mobile phone?<br>
 Can my caregiver enrol me on his/her HealthHub app?  
 </label>
     <div>
