@@ -214,7 +214,7 @@ For more information, please visit <a href="https://www.moh.gov.sg/policies-and-
 
 <u>1. Assisted enrolment</u>
 
-<p>Approach the Healthier SG Ambassadors at Community Centres/Clubs (CC) or Joint Testing &amp; Vaccination Centres (JTVC) for assistance. To check for an enrolment station (and operating hours) near you, click <a href="www.gowhere.gov.sg/healthiersg">here</a>.</p>
+<p>Approach the Healthier SG Ambassadors at Community Centres/Clubs (CC) or Joint Testing &amp; Vaccination Centres (JTVC) for assistance. To check for an enrolment station (and operating hours) near you, click <a href="https://www.gowhere.gov.sg/healthiersg/">here</a>.</p>
 
 <u>2. Enrol with caregiver's assistance</u>
 <p>You can grant access to your caregiver/family member/loved one by adding him/her in HealthHub, so he/she can enrol you on your behalf using his/her smartphone. You will need your Singpass account to authorise your caregiver via HealthHub. If you do not have a Singpass account, you may register for Singpass through <a href="https://www.singpass.gov.sg/home/ui/register/instructions">this website</a> or head down to the nearest Singpass counter for assistance, with your caregiver and bring along both your NRICs. For Singpass counter locations, click <a href="https://www.singpass.gov.sg/home/ui/counter-locations">here</a>.</p>
