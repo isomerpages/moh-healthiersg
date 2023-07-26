@@ -20,4 +20,6 @@ After this has been done, inform your caregiver to add your Health Profile under
 
 Once your caregiver has successfully added you as a care recipient, your user profile will be shown on HealthHub for them to assist with your enrolment if you are eligible to enrol in Healthier SG.
 
-Alternatively, you may enrol in Healthier SG through the HealthHub web portal at https://www.healthhub.sg by logging in with your Singpass if you do not wish to download the app or do not have access to a smartphone.
+Alternatively, you may enrol in Healthier SG by accessing the [HealthHub web portal](https://www.healthhub.sg) on a computer or mobile device and logging in with your Singpass. 
+
+HealthHub FAQs can be found [here](www.healthhub.sg/faqs).
