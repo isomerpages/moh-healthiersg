@@ -38,10 +38,7 @@ description: ""
 <ul>
 <li>   15-16 July: 10am to 6pm</li>
 			</ul>
-							<strong>Programme schedule:</strong>
-			<ul>
-				<li>Click <a href="https://go.gov.sg/healthiersg-boonkeng">here</a> to view the main stage and zone programme!</li>
-			</ul>
+							
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Boon Keng MRT Station</li>
