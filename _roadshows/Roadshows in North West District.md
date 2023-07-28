@@ -18,7 +18,7 @@ description: ""
 			</ul>
 			<strong>Programme schedule:</strong>
 			<ul>
-				<li>Click <a href="https://go.gov.sg/healthiersg-boonkeng">here</a> to view the main stage and zone programme!</li>
+				<li>Click <a href="https://go.gov.sg/healthiersg-yewtee">here</a> to view the main stage and zone programme!</li>
 			</ul>
 <strong>How to get there:</strong>
 <ul>
