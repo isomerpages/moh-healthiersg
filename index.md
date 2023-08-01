@@ -56,7 +56,7 @@ sections:
         ID “MOH”. Read our FAQs to learn how to verify the authenticity of the
         SMS(es).
       button: Read the FAQs
-      url: /faqs
+      url: https://ask.gov.sg/healthiersg/questions/clkrnuwrj000ul40g7b7yu4je?from=search
       image: /images/textmessage.jpg
       alt: Image alt text
 ---
