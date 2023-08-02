@@ -30,4 +30,4 @@ For a list of Healthier SG clinics, click [here](https://gowhere.gov.sg/healthie
 * Check in with your family doctor at least once a year.
 
 **Still have questions?**
-Refer to our FAQs [page](/faqs).
+Refer to our [FAQs](https://ask.gov.sg/healthiersg/).
