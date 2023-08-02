@@ -16,10 +16,6 @@ description: ""
 <ul>
 <li>   29-30 July: 9am to 5pm</li>
 			</ul>
-			<strong>Programme schedule:</strong>
-			<ul>
-				<li>Click <a href="https://go.gov.sg/healthiersg-yewtee">here</a> to view the main stage and zone programme!</li>
-			</ul>
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Yew Tee MRT Station</li>
