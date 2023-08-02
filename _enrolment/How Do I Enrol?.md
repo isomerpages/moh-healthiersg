@@ -39,4 +39,4 @@ If you are a caregiver, you can add your care recipient to your HealthHub and he
 Approach the Healthier SG Ambassadors at Community Centres/Clubs (CC) or Joint Testing and Vaccination Centres (JTVC) for assistance. To check for an enrolment station near you, visit [this page](https://www.gowhere.gov.sg/healthiersg).
 
 **Still have questions?**
-Refer to the Enrolment section under this [FAQs page](/faqs).
+Refer to the [Enrolment FAQs](https://ask.gov.sg/healthiersg/?topic=Enrolment).
