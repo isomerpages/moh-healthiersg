@@ -47,6 +47,6 @@ For list of vaccinations and eligibility, please click [here](https://www.health
 * Use **MediSave without requirement for cash co-payment** for the treatment of chronic conditions.
 
 **Still have questions?**
-Refer to the 'Benefits' section in our [FAQs](/faqs) page.
+Refer to the ['Benefits' FAQs](https://ask.gov.sg/healthiersg/?topic=Benefits).
 
 You can learn more about the benefits of Healthier SG by listening to this CNA [podcast](https://www.channelnewsasia.com/listen/daily-cuts/how-will-healthier-sg-benefit-you-3608016).
