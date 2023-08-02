@@ -90,7 +90,7 @@ description: ""
   </li>
 	<li>
     <input id="accordion5" type="checkbox">
-    <label for="accordion5">Roadshow in Braddell Heights</label>
+    <label for="accordion5">Roadshow in Serangoon</label>
     <div>
 		<strong>Location:</strong>
 <ul>
