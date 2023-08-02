@@ -46,7 +46,7 @@ Read more on Healthier SG from the [White Paper on Healthier SG](/resources/whit
 
 **Still have questions?**
 
-Refer to the General Information section under our FAQs [page](/faqs).
+Refer to our [FAQs](https://ask.gov.sg/healthiersg).
 
 You can learn more about Healthier SG by listening to this CNA [podcast](https://www.channelnewsasia.com/listen/daily-cuts/formal-launch-healthier-sg-3606731?field_season_value=608156&amp;page=10).
 
