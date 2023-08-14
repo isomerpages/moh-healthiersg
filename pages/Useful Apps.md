@@ -23,7 +23,7 @@ For more information on HealthHub, visit this [page](https://www.healthhub.sg/).
  
 ### Healthy 365: Discover programmes and offerings for a Healthier You. 
 
-![img](/images/Health%20Apps/h365.PNG)
+![img](/images/Health%20Apps/healthy365.PNG)
 
 * View your health-related lifestyle data at a glance – track your daily physical activity and sleep duration with a compatible wearable and use the meal log tool to monitor your daily calorie intake.
 * Take healthier actions by:
