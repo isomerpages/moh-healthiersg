@@ -16,7 +16,7 @@ permalink: /privacy/
 
 6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-7. Please contact our Quality Service Manager at Tel: 1800-225 4122 or fill up the form at [www.moh.gov.sg/feedback](http://www.moh.gov.sg/feedback "http://www.moh.gov.sg/feedback"): 
+7. Please contact our Quality Service Manager at Tel: 1800-225 4122 or fill up the form at [www.moh.gov.sg/feedback](https://www.moh.gov.sg/feedback): 
 
 	(a) For any enquires or feedback on our data protection policies and procedures; or 
 	
