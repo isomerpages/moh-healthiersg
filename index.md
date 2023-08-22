@@ -51,12 +51,10 @@ sections:
       image: /images/Enrolment_Benefits/Seniors Health Check.png
       alt: Healthier SG Enrolment
   - infopic:
-      title: How can I tell if my Healthier SG SMS is not a scam?
-      description: The SMS(es) from MOH’s Healthier SG will show a registered sender
-        ID “MOH”. Read our FAQs to learn how to verify the authenticity of the
-        SMS(es).
+      title: Got a question on Healthier SG?
+      description: You can learn more about Healthier SG by reading our FAQs.
       button: Read the FAQs
-      url: https://ask.gov.sg/healthiersg/questions/clkrnuwrj000ul40g7b7yu4je?from=search
-      image: /images/textmessage.jpg
+      url: https://ask.gov.sg/healthiersg
+      image: /images/hsg-askgov.png
       alt: Image alt text
 ---
