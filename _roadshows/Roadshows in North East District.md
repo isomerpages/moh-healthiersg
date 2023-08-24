@@ -50,7 +50,7 @@ description: ""
     <div>
 	<strong>Location:</strong>
 <ul>
-	<li>Pasir Ris East Community Club</li></ul>
+	<li>Marquee@Pasir Ris Elias Community Club</li></ul>
         
 <strong>Date &amp; Time:</strong>
 <ul>
@@ -59,9 +59,9 @@ description: ""
 <strong>How to get there:</strong>
 <ul>
 <li>Take MRT: Pasir Ris MRT Station</li>
-<li>Take Bus: 12, 12e, 21, 39, 53, 53A, 81, 109, 358, 518, 518A (BLK 442)</li>
-<li>   Use <a href="https://www.onemap.gov.sg/main/v2/?lat=1.36848552750134&amp;lng=103.959428439422&amp;postal=519457">OneMap</a> to access the map</li></ul>
-				<img src="/images/roadshows/roadshow8.jpg" alt="pasirris">
+<li>Take Bus: 58, 58B, 68, 88, 358, 359, 518, 518A (Pasir Ris Elias CC)</li>
+<li>   Use <a href="https://www.onemap.gov.sg/main/v2/?lat=1.378029&amp;lng=103.9430505&amp;postal=519498">OneMap</a> to access the map</li></ul>
+				<img src="/images/roadshows/pasir-ris.jpg" alt="pasirris">
 </div>
   </li>
 	<li>
