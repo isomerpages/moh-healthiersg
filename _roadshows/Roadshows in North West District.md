@@ -37,10 +37,7 @@ description: ""
 <li>   12-13 August: 10am to 6pm</li>
 			</ul>
 			
-<strong>Programme Schedule:</strong>
-			<ul><li>Click <a href="https://go.gov.sg/healthiersg-kampungadmiralty">here</a> to view the main stage and zone programme!</li></ul>
-
-			
+		
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Admiralty MRT Station</li>
