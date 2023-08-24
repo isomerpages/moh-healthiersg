@@ -61,7 +61,7 @@ description: ""
 <li>Take MRT: Pasir Ris MRT Station</li>
 <li>Take Bus: 58, 58B, 68, 88, 358, 359, 518, 518A (Pasir Ris Elias CC)</li>
 <li>   Use <a href="https://www.onemap.gov.sg/main/v2/?lat=1.378029&amp;lng=103.9430505&amp;postal=519498">OneMap</a> to access the map</li></ul>
-				<img src="/images/roadshows/pasir-ris.jpg" alt="pasirris">
+				<img src="/images/roadshows/pasirris.jpg" alt="pasirris">
 </div>
   </li>
 	<li>
