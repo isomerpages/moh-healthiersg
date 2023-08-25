@@ -9,11 +9,12 @@ Under Healthier SG, you can enrol with a Healthier SG clinic and your family cli
 
 ###   Am I eligible and when can I enrol?
 
-From 5 July 2023, the Healthier SG enrolment programme will begin with Singapore Citizens and Permanent Residents aged 60 years and above. They will be progressively invited via SMS to enrol with either a Healthier SG clinic or polyclinic. 
+MOH is progressively sending SMS invitations to Singapore Citizens and Permanent Residents aged 60 years and above to enrol with a Healthier SG clinic or polyclinic.
 
 Those aged 40 to 59 years will be invited on a later date.
 
 Eligible residents will progressively receive SMS invites to enrol via HealthHub.
+
 
 ###   How do I enrol when I am eligible? Where can I enrol?
 ![steps](/images/Enrolment_Benefits/enrolment%20mobile.png)
@@ -36,7 +37,7 @@ If you are a caregiver, you can add your care recipient to your HealthHub and he
 
 **3. Assisted enrolment**
 
-Approach the Healthier SG Ambassadors at Community Centres/Clubs (CC) or Joint Testing and Vaccination Centres (JTVC) for assistance. To check for an enrolment station near you, visit [this page](https://www.gowhere.gov.sg/healthiersg).
+Approach the Healthier SG Ambassadors at Enrolment Stations for assistance. To check for an enrolment station near you, visit [this page](https://www.gowhere.gov.sg/healthiersg).
 
 **Still have questions?**
 Refer to the [FAQs on Enrolment](https://ask.gov.sg/healthiersg/?topic=Enrolment).
