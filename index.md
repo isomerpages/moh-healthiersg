@@ -5,8 +5,9 @@ description: Towards a Healthier Singapore
 image: /images/Homepage/healthier sg & moh logo.png
 permalink: /
 notification: We are aware of scam SMSes sent by mobile phone numbers to members
-  of public under the pretext of Healthier SG. Please note that official
-  Healthier SG SMSes will always show sender ID "MOH".
+  of public under the pretext of Healthier SG. If you have received such SMSes,
+  please do not click on the link within and offer your personal information.
+  Official Healthier SG SMSes will always show sender ID "MOH".
 sections:
   - hero:
       key_highlights:
