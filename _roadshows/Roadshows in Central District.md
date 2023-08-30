@@ -92,24 +92,4 @@ description: ""
 				<img src="/images/roadshows/roadshow10.jpg" alt="bishan">
 </div>
   </li>
-	<li>
-    <input id="accordion5" type="checkbox">
-    <label for="accordion5">Roadshow in Serangoon</label>
-    <div>
-		<strong>Location:</strong>
-<ul>
-	<li>Braddell Heights Community Hub (Blk 264 Serangoon Central)</li></ul>
-        
-<strong>Date &amp; Time:</strong>
-<ul>
-<li>   4 - 5 November: 9am to 5pm</li>
-			</ul>
-<strong>How to get there:</strong>
-<ul>
-<li>   Take MRT: Serangoon MRT Station</li>
-<li>   Take Bus: 22, 43, 43M, 53, 70, 70M, 81, 82, 147, 315, 853, 853M</li>
-<li>   Use <a href="https://www.onemap.gov.sg/main/v2/?lat=1.3522174&amp;lng=103.87209&amp;postal=550264">OneMap</a> to access the map</li></ul>
-				<img src="/images/roadshows/roadshow17.jpg" alt="braddell">
-</div>
-  </li>
 </ul>
