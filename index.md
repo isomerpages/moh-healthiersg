@@ -4,7 +4,11 @@ title: Healthier SG
 description: Towards a Healthier Singapore
 image: /images/Homepage/healthier sg & moh logo.png
 permalink: /
-notification: ""
+notification: We are aware of scam messages falsely informing recipients to
+  schedule their Health Plan consultation. Please do not click on the link and
+  always verify the authenticity of instructions before offering any personal
+  information. The SMS(es) from MOH's Healthier SG will show the registered
+  sender ID "MOH", in upper case.
 sections:
   - hero:
       key_highlights:
