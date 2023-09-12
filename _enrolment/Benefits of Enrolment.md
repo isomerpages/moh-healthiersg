@@ -5,7 +5,7 @@ description: ""
 ---
 ### Why should I enrol in Healthier SG?
 
-![Seniors mobile](/images/Enrolment_Benefits/Seniors%20Mobile.png)
+![Seniors mobile](/images/enrolment_benefits/seniors%20mobile.png)
 
 * As people get older, they are more likely to fall sick and suffer disabilities. 
 * The prevalence of chronic diseases increases as you age, and that causes significant health, emotional, financial burden on individuals &amp; families.
@@ -23,7 +23,7 @@ description: ""
 
 * **Connection to a wide range of healthy lifestyle activities** to stay healthy and active.
 
-![Seniors Health Check](/images/Enrolment_Benefits/Seniors%20Health%20Check.png)
+![Seniors Health Check](/images/enrolment_benefits/seniors%20health%20check.png)
 
 ### What benefits can I enjoy from Healthier SG?
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/gAuP1xaQ0Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>

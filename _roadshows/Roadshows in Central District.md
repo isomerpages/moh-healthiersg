@@ -44,7 +44,7 @@ description: ""
 <li>   Take MRT: Boon Keng MRT Station</li>
 <li>   Take Bus: 21, 130, 139 (Boon Keng Stn/Blk 22)</li>
 <li>   Use <a href="https://www.onemap.gov.sg/main/v2/?lat=1.3183879&amp;lng=103.8618332">OneMap</a> to access the map</li></ul>
-				<img src="/images/roadshows/Kallang.jpg" alt="bishan">
+				<img src="/images/roadshows/kallang.jpg" alt="bishan">
 </div>
   </li>
 	<li>

@@ -50,4 +50,4 @@ Refer to our [FAQs](https://ask.gov.sg/healthiersg).
 
 You can learn more about Healthier SG by listening to this CNA [podcast](https://www.channelnewsasia.com/listen/daily-cuts/formal-launch-healthier-sg-3606731?field_season_value=608156&amp;page=10).
 
-![](/images/HSG%20and%20Forward%20SG%20Lockup.png)
+![](/images/hsg%20and%20forward%20sg%20lockup.png)

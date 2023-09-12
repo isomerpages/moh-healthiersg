@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 # Active ageing in your golden years # 
-  ![activeageing](/images/Active%20Ageing/Seniors%20Banner.png)
+  ![activeageing](/images/active%20ageing/seniors%20banner.png)
  
 Getting older does not mean you are past your prime. Embracing active ageing is one way to ensure a healthy and fulfilling life in your senior years. 
 
