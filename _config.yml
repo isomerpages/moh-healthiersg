@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moh-healthiersg-staging.netlify.app
-prod: https://moh-healthiersg-prod.netlify.app
+staging: https://staging.d28dybg4cx4pb9.amplifyapp.com/
+prod: https://master.d28dybg4cx4pb9.amplifyapp.com/
 is_government: true
 shareicon: /images/homepage/healthier sg & moh logo.png
 google_analytics: UA-56164365-7
