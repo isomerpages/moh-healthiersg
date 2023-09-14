@@ -17,7 +17,7 @@ Eligible residents will progressively receive SMS invites to enrol via HealthHub
 
 
 ###   How do I enrol when I am eligible? Where can I enrol?
-![steps](/images/Enrolment_Benefits/enrolment%20mobile.png)
+![steps](/images/enrolment_benefits/enrolment%20mobile.png)
 
 **1. Self-enrol**
 

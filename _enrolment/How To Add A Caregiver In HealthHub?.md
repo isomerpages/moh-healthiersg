@@ -8,15 +8,15 @@ You can grant access to your family members or loved ones to assist you with you
 You will need your Singpass account to authorise your caregiver via HealthHub. If you do not have a Singpass account, you may register for Singpass through [this website](https://www.singpass.gov.sg/home/ui/register/instructions) or head down to the nearest Singpass counter with your caregiver for assistance. Do bring along both your NRICs. For Singpass counter locations, click [here]( https://www.singpass.gov.sg/home/ui/counter-locations).
 
 Follow the steps below to first add a caregiver.
-![guide](/images/Guide/slide1.PNG) 
-![guide](/images/Guide/slide2.PNG) 
+![guide](/images/guide/slide1.png) 
+![guide](/images/guide/slide2.png) 
 
 **Please ensure that you have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5). **
 
 After this has been done, inform your caregiver to add your Health Profile under **Add loved ones** using his/her own HealthHub account.
 
-![guide](/images/Guide/slide3.PNG) 
-![guide](/images/Guide/slide4.PNG) 
+![guide](/images/guide/slide3.png) 
+![guide](/images/guide/slide4.png) 
 
 Once your caregiver has successfully added you as a care recipient, your user profile will be shown on HealthHub for them to assist with your enrolment if you are eligible to enrol in Healthier SG.
 

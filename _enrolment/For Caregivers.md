@@ -9,18 +9,18 @@ With the consent of your family members, you can be given access to help them en
 
 Please follow the steps in the below graphics to set up access as a caregiver on your care recipient’s HealthHub app.  
 
-![guide](/images/Guide/slide1.PNG) 
-![guide](/images/Guide/slide2.PNG) 
+![guide](/images/guide/slide1.png) 
+![guide](/images/guide/slide2.png) 
 
 **Please ensure that your care recipient have enabled “Healthier SG” access in the Caregiver’s Details page (as shown in Step 5).**
 
 Next, you can then add your care recipient (or loved ones) under ‘People under my care’.
 
-![guide](/images/Guide/slide3.PNG) 
-![guide](/images/Guide/slide4.PNG) 
+![guide](/images/guide/slide3.png) 
+![guide](/images/guide/slide4.png) 
 
 After it has been added successfully, you can view your care recipient’s user profile in the Health Profiles page. You may continue to assist your loved ones to enrol in Healthier SG and access Healthier SG related functions on their behalf by following the below steps.
 
- ![guide](/images/Guide/slide5.PNG) 
+ ![guide](/images/guide/slide5.png) 
  
 For more information on how to add a caregiver and control your caregiver’s access to your health records, please refer to the HealthHub FAQs [here](https://www.healthhub.sg/faqs).

@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ## A Healthier You Starts with a Healthy Diet ##
-![banner](/images/Healthy%20Eating/Healthy%20Eating%20Banner.png)
+![banner](/images/healthy%20eating/healthy%20eating%20banner.png)
 
 A balanced and nutritious diet is important for your overall health and well-being. Here are some tips to kickstart your healthy eating journey.  
 ### Shop for healthier food and drink options ###

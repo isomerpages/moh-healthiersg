@@ -4,7 +4,7 @@ permalink: /enrolment/healthiersgjourney/
 description: ""
 ---
 ### Step 1: Register
-![enrol](/images/Enrolment_Benefits/image1.jpg)
+![enrol](/images/enrolment_benefits/image1.jpg)
 
 * Enrol when you receive MOH’s SMS invitation.
 
@@ -15,13 +15,13 @@ description: ""
 For a list of Healthier SG clinics, click [here](https://gowhere.gov.sg/healthiersg).
 
 ### Step 2: See your doctor
-![enrol](/images/Enrolment_Benefits/image2.jpg)
+![enrol](/images/enrolment_benefits/image2.jpg)
 * Schedule your first Health Plan consultation, which will be fully subsidised.
 
 * Create your Health Plan with your family doctor.
 
 ### Step 3: Participate
-![enrol](/images/Enrolment_Benefits/image3.jpg)
+![enrol](/images/enrolment_benefits/image3.jpg)
 
 * Follow your personalised Health Plan.
 

@@ -11,4 +11,4 @@ description: ""
 
 - [PDF version](https://go.gov.sg/healthiersg-whitepaper-pdf)
 
-![MOH COS2022 Booklet Cover](/images/Cover.jpg)
+![MOH COS2022 Booklet Cover](/images/cover.jpg)

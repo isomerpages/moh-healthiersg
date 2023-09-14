@@ -17,10 +17,7 @@ description: ""
 <li>9 - 10 September: 10am to 6pm</li>
 			</ul>
 			
-<strong>Programme Schedule:</strong>
-<ul>
-	<li>Click&nbsp;<a href="https://go.gov.sg/healthiersg-kovan">here</a>&nbsp;to view the main stage and zone programme!</li>
-			</ul>
+
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Kovan MRT Station</li>
@@ -40,6 +37,11 @@ description: ""
 <strong>Date &amp; Time:</strong>
 <ul>
 <li>   16 – 17 September: 9am to 5pm</li>
+			</ul>
+			
+<strong>Programme Schedule:</strong>
+<ul>
+	<li>Click&nbsp;<a href="https://go.gov.sg/healthiersg-oth">here</a>&nbsp;to view the main stage and zone programme!</li>
 			</ul>
 <strong>How to get there:</strong>
 <ul>

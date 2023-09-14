@@ -2,7 +2,7 @@
 layout: homepage
 title: Healthier SG
 description: Towards a Healthier Singapore
-image: /images/Homepage/healthier sg & moh logo.png
+image: /images/homepage/healthier sg & moh logo.png
 permalink: /
 notification: We are aware of scam SMSes sent by mobile phone numbers to members
   of public under the pretext of Healthier SG. If you have received such SMSes,
@@ -27,14 +27,14 @@ sections:
       url: /enrolment/howtoenrol
       title: Healthier SG
       subtitle: Healthier SG Enrolment has begun!
-      background: /images/Homepage/healthier sg microsite banner-min.png
+      background: /images/homepage/healthier sg microsite banner-min.png
   - infopic:
       title: Why should you enrol in Healthier SG?
       description: What are the benefits of enrolling in Healthier SG? How can
         Healthier SG help you become healthier?
       button: Find out more
       url: /enrolment//benefits/
-      image: /images/Enrolment_Benefits/Seniors Mobile.png
+      image: /images/enrolment_benefits/seniors mobile.png
       alt: Healthier SG Benefits
   - infopic:
       title: Join us at the Healthier SG roadshows!
@@ -51,7 +51,7 @@ sections:
         fully in Healthier SG.
       button: Find out more
       url: /enrolment/healthiersgjourney/
-      image: /images/Enrolment_Benefits/Seniors Health Check.png
+      image: /images/enrolment_benefits/seniors health check.png
       alt: Healthier SG Enrolment
   - infopic:
       title: Got a question on Healthier SG?

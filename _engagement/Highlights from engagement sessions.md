@@ -18,14 +18,14 @@ These views and suggestions are valuable, to help us get a sense of what matters
 
 ### Hear from our participants!
 
-![](/images/Engagement%20Sessions/HSG%20Engagement%20session%201.jpg)
+![](/images/engagement%20sessions/hsg%20engagement%20session%201.jpg)
 “I believe everyone should have a family doctor whom you can lean on, who can look out for you.  
   
 My extended family has been going to the same family doctor for years, starting with my parents, and now my own family as well. Over the years, our doctor has become more like a family friend – someone we can trust, who is always there for us", says Y. Mahalakshmi, when asked on her thoughts about having a regular family doctor.  
   
 Mahalakshmi was one of the many Singaporeans who attended the first [#HealthierSG](https://www.instagram.com/explore/tags/healthiersg/) engagement session at Singapore Polytechnic on 26 May 2022.
 
-![](/images/Engagement%20Sessions/HSG%20Engagement%20Session%202.jpg)
+![](/images/engagement%20sessions/hsg%20engagement%20session%202.jpg)
 “I'm at the age when it's not so easy for me to run anymore. So instead, I try to walk as much as I can. My target is to clock 10,000 steps a day.  
   
 I also keep fit by doing some cycling, stretching, and joining yoga classes organised by the Health Promotion Board. Hope to see more of such activities in the community!", says Yee Kin Sing, when asked about the kind of healthy activities he enjoys.  
@@ -39,7 +39,7 @@ Kin Sing was one of the many Singaporeans who attended the second [#HealthierSG
   
 Sufi was one of the many Singaporeans who attended the fourth [#HealthierSG](https://www.instagram.com/explore/tags/healthiersg/) engagement session on 11 June 2022.
 
-![](/images/Engagement%20Sessions/HSG%20Engagement%20Session%205.jpg)
+![](/images/engagement%20sessions/hsg%20engagement%20session%205.jpg)
 “I feel very hopeful about Healthier SG. I feel that Singaporeans will be able to receive better care, to be anchored in the community, and to be able to live well and age well”, says Sarah Xing, when asked how she feels about the Healthier SG Strategy.
 
 Sarah was one of the many Singaporeans who attended the fifth #HealthierSG engagement session on 15 June 2022.
