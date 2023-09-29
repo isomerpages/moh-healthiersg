@@ -39,10 +39,6 @@ description: ""
 <li>   16 – 17 September: 9am to 5pm</li>
 			</ul>
 			
-<strong>Programme Schedule:</strong>
-<ul>
-	<li>Click&nbsp;<a href="https://go.gov.sg/healthiersg-oth">here</a>&nbsp;to view the main stage and zone programme!</li>
-			</ul>
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Tampines MRT Station</li>
@@ -62,6 +58,11 @@ description: ""
 <strong>Date &amp; Time:</strong>
 <ul>
 <li>30 September – 1 October: 10am to 6pm</li>
+			</ul>
+			
+			<strong>Programme Schedule:</strong>
+<ul>
+	<li>Click&nbsp;<a href="https://go.gov.sg/healthiersg-pasirris">here</a>&nbsp;to view the main stage and zone programme!</li>
 			</ul>
 <strong>How to get there:</strong>
 <ul>
