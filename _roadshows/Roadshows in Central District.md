@@ -59,9 +59,7 @@ description: ""
 <ul>
 <li>   26 - 27 August: 10am to 6pm</li>
 			</ul>
-			<strong>Programme Schedule:</strong>
-			<ul><li>Click <a href="https://go.gov.sg/healthiersg-hdbhub">here</a> to view the main stage and zone programme!</li></ul>
-<strong>How to get there:</strong>
+		<strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Toa Payoh MRT Station</li>
 <li>   Take Bus: 8, 26, 28, 31, 73, 73T, 88, 90, 90A, 139, 139A, 141, 142, 142A, 143, 145, 155, 157, 159, 163, 231, 232, 235, 238 (Toa Payoh Interchange)
@@ -82,6 +80,8 @@ description: ""
 <ul>
 <li>   7 – 8 October: 10am to 6pm</li>
 			</ul>
+				<strong>Programme Schedule:</strong>
+			<ul><li>Click <a href="https://go.gov.sg/healthiersg-redhill">here</a> to view the main stage and zone programme!</li></ul>
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Redhill MRT Station</li>
