@@ -16,8 +16,6 @@ description: ""
 <ul>
 <li>7 – 8 October: 10am to 6pm</li>
 			</ul>
-						<strong>Programme Schedule:</strong>
-			<ul><li>Click <a href="https://go.gov.sg/healthiersg-keathong">here</a> to view the main stage and zone programme!</li></ul>
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Choa Chu Kang MRT Station</li>
@@ -38,6 +36,9 @@ description: ""
 <ul>
 <li>   14 - 15 October: 9am to 5pm</li>
 			</ul>
+			
+									<strong>Programme Schedule:</strong>
+			<ul><li>Click <a href="https://go.gov.sg/healthiersg-westcoast">here</a> to view the main stage and zone programme!</li></ul>
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Clementi MRT Station</li>
