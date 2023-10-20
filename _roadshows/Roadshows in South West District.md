@@ -37,8 +37,6 @@ description: ""
 <li>   14 - 15 October: 9am to 5pm</li>
 			</ul>
 			
-									<strong>Programme Schedule:</strong>
-			<ul><li>Click <a href="https://go.gov.sg/healthiersg-westcoast">here</a> to view the main stage and zone programme!</li></ul>
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Clementi MRT Station</li>
