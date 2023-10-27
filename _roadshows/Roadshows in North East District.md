@@ -59,11 +59,6 @@ description: ""
 <ul>
 <li>30 September – 1 October: 10am to 6pm</li>
 			</ul>
-			
-			<strong>Programme Schedule:</strong>
-<ul>
-	<li>Click&nbsp;<a href="https://go.gov.sg/healthiersg-pasirris">here</a>&nbsp;to view the main stage and zone programme!</li>
-			</ul>
 <strong>How to get there:</strong>
 <ul>
 <li>Take MRT: Pasir Ris MRT Station</li>
@@ -84,6 +79,8 @@ description: ""
 <ul>
 <li>   28 - 29 October: 10am to 6pm</li>
 			</ul>
+			<strong>Programme Schedule:</strong>
+			<ul><li>Click <a href="https://go.gov.sg/healthiersg-sengkang">here</a> to view the main stage and zone programme!</li></ul>
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Sengkang MRT Station</li>
