@@ -16,6 +16,9 @@ description: ""
 <ul>
 <li> 28 – 29 October: 10am to 6pm</li>
 			</ul>
+			
+<strong>Programme Schedule:</strong>
+			<ul><li>Click <a href="https://go.gov.sg/healthiersg-bedok">here</a> to view the main stage and zone programme!</li></ul>
 <strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Bedok MRT Station</li>
