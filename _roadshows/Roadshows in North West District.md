@@ -2,6 +2,7 @@
 title: Roadshows in North West District
 permalink: /roadshows/northwest/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
   <li>
@@ -74,7 +75,9 @@ description: ""
 		<strong>Location:</strong>
 <ul>
 	<li>Open Space in front of Hillion Mall (Next to Bukit Panjang MRT Station)</li></ul>
-        
+
+<strong>Programme Schedule:</strong>
+			<ul><li>Click <a href="https://go.gov.sg/healthiersg-hillionmall">here</a> to view the main stage and zone programme!</li></ul>
 <strong>Date &amp; Time:</strong>
 <ul>
 <li>   4 - 5 November: 10am to 6pm</li>
