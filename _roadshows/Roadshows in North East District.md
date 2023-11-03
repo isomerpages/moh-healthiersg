@@ -2,6 +2,7 @@
 title: Roadshows in North East District
 permalink: /roadshows/northeast/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
   <li>
@@ -79,9 +80,7 @@ description: ""
 <ul>
 <li>   28 - 29 October: 10am to 6pm</li>
 			</ul>
-			<strong>Programme Schedule:</strong>
-			<ul><li>Click <a href="https://go.gov.sg/healthiersg-sengkang">here</a> to view the main stage and zone programme!</li></ul>
-<strong>How to get there:</strong>
+		<strong>How to get there:</strong>
 <ul>
 <li>   Take MRT: Sengkang MRT Station</li>
 <li>   Take Bus: 43, 43e, 43M, 83, 83T, 85, 109, 156, 159, 159A, 161, 372, 374 (Sengkang CMTY Hub)</li>
