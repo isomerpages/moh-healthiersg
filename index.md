@@ -34,10 +34,9 @@ sections:
       image: /images/enrolment_benefits/seniors mobile.png
       alt: Healthier SG Benefits
   - infopic:
-      title: Join us at the Healthier SG roadshows!
-      description: Enrol in Healthier SG, take part in healthy lifestyle activities
-        and receive giveaways at the Healthier SG roadshows.
-      button: Find out more
+      title: Thank you for attending the roadshows!
+      description: Catch the highlights from the roadshows here.
+      button: View highlights
       url: /roadshows/about
       image: /images/roadshow.jpg
       alt: Image alt text
