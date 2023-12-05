@@ -17,9 +17,6 @@ sections:
         - title: Benefits of Enrolment
           description: Why should you enrol?
           url: /enrolment/benefits
-        - title: Roadshows
-          description: What you can look forward to.
-          url: /roadshows/about/
         - title: Healthier SG Clinic Finder
           description: Find a Healthier SG clinic.
           url: https://gowhere.gov.sg/healthiersg
