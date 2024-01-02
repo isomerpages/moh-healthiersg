@@ -2,52 +2,6 @@
 title: What is Healthier SG?
 permalink: /about/what-is-healthier-sg/
 description: ""
+variant: tiptap
 ---
-**Healthier SG** is a national initiative by the Ministry of Health (MOH) focusing on preventive health. Singaporeans can take proactive steps to manage their health, prevent the onset of chronic diseases and have strong support to lead healthier lifestyles. 
-
-<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/wqA7pO9C80I?start=1348" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-**Healthier SG offers you**:
-* Trusted care from your family doctor for your health needs.
-* All rounded support to lead healthier lifestyles and see better health outcomes.
-* Empowerment to take charge of your own health.
-
-
-#### One Family Clinic and One Health Plan for Everyone
-
-We want all Singaporeans to have a trusted and lifelong relationship with your family doctor.   
-
-* Your family doctor will work with you to develop a personalised health plan. 
-
-* You are encouraged to visit your chosen family clinic for all your care needs and discuss your health goals, including the nationally recommended health screenings and vaccinations you should go for.
- 
-
-#### An Ecosystem of Support for Better Health 
-
-The three regional health clusters – [National Healthcare Group (NHG)](https://corp.nhg.com.sg/), [National University Health System (NUHS)](https://www.nuhs.edu.sg/) and [SingHealth](https://www.singhealth.com.sg/),will work towards developing an integrated health and social ecosystem within their region. 
-
-They will partner agencies such as the [Agency for Integrated Care (AIC)](https://www.aic.sg/), [Health Promotion Board (HPB)](https://hpb.gov.sg/), [People’s Association (PA)](https://www.pa.gov.sg/), [Sport Singapore](https://www.myactivesg.com/) and social and community partners to support your health goals. 
-
-For a start, you will be able to access more physical and health-promoting activities, and you will be able to choose the activities that suit you best.
-
-If you are older, the regional health clusters and your family doctor will advise you on how you can attend healthy activities and programmes, such as at the local Active Ageing centres.
-
-Read more on Healthier SG from the [White Paper on Healthier SG](/resources/white-paper).
-
-<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/lg_LF-VcGn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-#### Key Features of Healthier SG
-
-1. **The choice to live healthier**. You will be empowered to take charge of your own health, with support at every step of your health journey.
-2. **Strong patient-doctor relationships**. You will receive long-term, dedicated care from a trusted family doctor.
-3. **A shift towards preventive care**. Your Health Plan will include nationally-recommended health screenings and vaccinations relevant you, to detect health issues early and manage them well.
-4. **Support from the community**. Through lifestyle adjustments and community programmes recommended by your doctor, you will be able to sustain healthier habits.
-5. **Better care delivery**. Healthcare IT and data infrastructure will be improved to serve you better, including convenient digital tools like HealthHub and Healthy 365.
-
-**Still have questions?**
-
-Refer to our [FAQs](https://ask.gov.sg/healthiersg).
-
-You can learn more about Healthier SG by listening to this CNA [podcast](https://www.channelnewsasia.com/listen/daily-cuts/formal-launch-healthier-sg-3606731?field_season_value=608156&amp;page=10).
-
-![](/images/hsg%20and%20forward%20sg%20lockup.png)
+<p><strong>Healthier SG</strong> is a national initiative by the Ministry of Health (MOH) focusing on preventive health. Singaporeans can take proactive steps to manage their health, prevent the onset of chronic diseases and have strong support to lead healthier lifestyles.</p><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wqA7pO9C80I?si=6_63wSRlplTE0Gw7&amp;start=1348"></iframe></div><p><strong>Healthier SG offers you</strong>:</p><ul data-tight="true" class="tight"><li><p>Trusted care from your family doctor for your health needs.</p></li><li><p>All rounded support to lead healthier lifestyles and see better health outcomes.</p></li><li><p>Empowerment to take charge of your own health.</p></li></ul><h4>One Family Clinic, Personalised Health Plan for All</h4><p>We want you to have a trusted and lifelong relationship with your family doctor.</p><ul><li><p>Your family doctor will work with you to develop a personalised Health Plan.</p></li><li><p>You are encouraged to visit your chosen family clinic for all your care needs and discuss your health goals, including the nationally-recommended health screenings and vaccinations to go for.</p></li></ul><h4>An Ecosystem of Support for Better Health</h4><p>The three regional health clusters – <a href="https://corp.nhg.com.sg/" rel="noopener noreferrer nofollow" target="_blank">National Healthcare Group (NHG)</a>, <a href="https://www.nuhs.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">National University Health System (NUHS)</a> and <a href="https://www.singhealth.com.sg/" rel="noopener noreferrer nofollow" target="_blank">SingHealth</a>, are working towards developing an integrated health and social ecosystem within their region.</p><p>Partner agencies such as the <a href="https://www.aic.sg/" rel="noopener noreferrer nofollow" target="_blank">Agency for Integrated Care (AIC)</a>, <a href="https://hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Health Promotion Board (HPB)</a>, <a href="https://www.pa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">People’s Association (PA)</a>, <a href="https://www.myactivesg.com/" rel="noopener noreferrer nofollow" target="_blank">Sport Singapore</a> and other social and community partners will support you with your health goals.</p><p>For a start, have access to more physical and health-promoting activities best suited for your needs.   , and you will be able to choose the activities that suit you best. Seniors can also approach the Active Ageing Centres for suitable health activities and programmes recommended by the regional health clusters and their family doctor.</p><div class="iframe-wrapper"><iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lg_LF-VcGn4"></iframe></div><h4>Key Features of Healthier SG</h4><ol data-tight="true" class="tight"><li><p><strong>The choice to live healthier</strong>. You will be empowered to take charge of your own health, with support at every step of your health journey.</p></li><li><p><strong>Strong patient-doctor relationships</strong>. You will receive long-term, dedicated care from a trusted family doctor.</p></li><li><p><strong>A shift towards preventive care</strong>. Your Health Plan will include nationally-recommended health screenings and vaccinations relevant you, to detect health issues early and manage them well.</p></li><li><p><strong>Support from the community</strong>. Through lifestyle adjustments and community programmes recommended by your doctor, you will be able to sustain healthier habits.</p></li><li><p><strong>Better care delivery</strong>. Healthcare IT and data infrastructure will be improved to serve you better, including convenient digital tools like HealthHub and Healthy 365.</p></li></ol><p><strong>Still have questions?</strong></p><p>Refer to our <a href="https://ask.gov.sg/healthiersg" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>.</p><p>You can learn more about Healthier SG by listening to this CNA <a href="https://www.channelnewsasia.com/listen/daily-cuts/formal-launch-healthier-sg-3606731?field_season_value=608156&amp;page=10" rel="noopener noreferrer nofollow" target="_blank">podcast</a>.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/hsg%20and%20forward%20sg%20lockup.png"></div><p></p>
