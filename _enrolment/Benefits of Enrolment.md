@@ -2,53 +2,6 @@
 title: Benefits of Enrolment
 permalink: /enrolment/benefits/
 description: ""
+variant: tiptap
 ---
-### Why should I enrol in Healthier SG?
-
-![Seniors mobile](/images/enrolment_benefits/seniors%20mobile.png)
-
-* As people get older, they are more likely to fall sick and suffer disabilities. 
-* The prevalence of chronic diseases increases as you age, and that causes significant health, emotional, financial burden on individuals &amp; families.
-* But healthy habits and preventive care can help older people to stay active and maintain a good quality of life. For those with diabetes, high blood pressure and high blood cholesterol levels, managing these well will reduce the risks of developing serious health problems like kidney failure and stroke.
-
-<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/6tHRIJW7R-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-**Enrolling in Healthier SG offers you:**
-
-* **Support to keep healthy and prevent diseases**, from **a family doctor** who has a trusted relationship with you.
- 
-* **Enhanced subsidies** for preventive health.
-
-* **Personalised Health Plan** with goals, advice and treatment. 
-
-* **Connection to a wide range of healthy lifestyle activities** to stay healthy and active.
-
-![Seniors Health Check](/images/enrolment_benefits/seniors%20health%20check.png)
-
-### What benefits can I enjoy from Healthier SG?
-<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/gAuP1xaQ0Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-* Create a **free personalised Health Plan^** with your family doctor for a healthy lifestyle, regular health screenings and vaccinations.
-
-* **Earn $20 worth of Healthpoints** after your first Health Plan consultation.
-
-* **Get fully-subsidised*** nationally-recommended screenings and vaccinations (for Singapore Citizens).
-
-For list of screenings and eligibility, please click [here](https://www.healthhub.sg/programmes/61/Screen_for_Life).
-
-For list of vaccinations and eligibility, please click [here](https://www.healthhub.sg/vaccinate).
-
-*^ Your first Health Plan discussion with your first enrolled clinic is fully subsidised. For services outside of Healthier SG scope, prevailing fees will apply.*
-
-**Subject to existing eligibility criteria and guidelines of Screen-For-Life and National Adult Immunisation Schedule.*
-
-### From early 2024:
-   
-* **Healthier SG Chronic Tier:** CHAS, Merdeka Generation and Pioneer Generation patients with high medication needs can opt for this alternative subsidy tier, allowing them to enjoy common chronic drugs from their enrolled Healthier SG GP clinics at prices comparable to polyclinics.
-
-* Use **MediSave without requirement for cash co-payment** for the treatment of chronic conditions.
-
-**Still have questions?**
-Refer to the [FAQs on Benefits](https://ask.gov.sg/healthiersg/?topic=Benefits).
-
-You can learn more about the benefits of Healthier SG by listening to this CNA [podcast](https://www.channelnewsasia.com/listen/daily-cuts/how-will-healthier-sg-benefit-you-3608016).
+<h3>Why you should enrol in Healthier SG?</h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Seniors mobile" src="/images/enrolment_benefits/seniors%20mobile.png"></div><ul data-tight="true" class="tight"><li><p>As people get older, they are more likely to fall sick and suffer disabilities.</p></li><li><p>The prevalence of chronic diseases increases as you age, and that causes significant health, emotional, financial burden on individuals &amp; families.</p></li><li><p>But healthy habits and preventive care can help older people to stay active and maintain a good quality of life. For those with diabetes, high blood pressure and high blood cholesterol levels, managing these well will reduce the risks of developing serious health problems like kidney failure and stroke.</p></li></ul><div class="iframe-wrapper"><iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6tHRIJW7R-A"></iframe></div><p><strong>Enrolling in Healthier SG offers you:</strong></p><ul><li><p><strong>Support to keep healthy and prevent diseases</strong>, from <strong>a family doctor</strong> who has a trusted relationship with you.</p></li><li><p><strong>Enhanced subsidies</strong> for preventive health.</p></li><li><p><strong>Personalised Health Plan</strong> with goals, advice and treatment.</p></li><li><p><strong>Connection to a wide range of healthy lifestyle activities</strong> to stay healthy and active.</p></li></ul><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Seniors Health Check" src="/images/enrolment_benefits/seniors%20health%20check.png"></div><h3>What benefits can I enjoy from Healthier SG?</h3><div class="iframe-wrapper"><iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gAuP1xaQ0Kw"></iframe></div><ul><li><p>Create a <strong>free personalised Health Plan^</strong> with your family doctor for a healthy lifestyle, regular health screenings and vaccinations.</p></li><li><p><strong>Earn $20 worth of Healthpoints</strong> after your first Health Plan consultation.</p></li><li><p><strong>Get fully-subsidised</strong>* nationally-recommended screenings and vaccinations (for Singapore Citizens).</p></li></ul><p>For list of screenings and eligibility, please click <a href="https://www.healthhub.sg/programmes/61/Screen_for_Life" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p><p>For list of vaccinations and eligibility, please click <a href="https://www.healthhub.sg/vaccinate" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p><p><em>^ Your first Health Plan discussion with your first enrolled clinic is fully subsidised. For services outside of Healthier SG scope, prevailing fees will apply.</em></p><p>*<em>Subject to existing eligibility criteria and guidelines of Screen-For-Life and National Adult Immunisation Schedule.</em></p><h3>From early 2024:</h3><ul><li><p><strong>Healthier SG Chronic Tier:</strong> CHAS, Merdeka Generation and Pioneer Generation patients with high medication needs can opt for this alternative subsidy tier, allowing them to enjoy common chronic drugs from their enrolled Healthier SG GP clinics at prices comparable to polyclinics.</p></li><li><p>Use <strong>MediSave without requirement for cash co-payment</strong> for the treatment of chronic conditions.</p></li></ul><p><strong>Still have questions?</strong> Refer to the <a href="https://ask.gov.sg/healthiersg/?topic=Benefits" rel="noopener noreferrer nofollow" target="_blank">FAQs on Benefits</a>.</p><p>You can learn more about the benefits of Healthier SG by listening to this CNA <a href="https://www.channelnewsasia.com/listen/daily-cuts/how-will-healthier-sg-benefit-you-3608016" rel="noopener noreferrer nofollow" target="_blank">podcast</a>.</p>
