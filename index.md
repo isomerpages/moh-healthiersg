@@ -35,12 +35,12 @@ sections:
       alt: Healthier SG Benefits
   - infopic:
       title: Healthier SG Chronic Tier
-      description: "To ensure affordability of common chronic medications across GP
+      description: To ensure affordability of common chronic medications across GP
         clinics and polyclinics, the Healthier SG Chronic Tier takes effect from
-        1 February 2024. "
+        1 February 2024.
       button: Read more
       url: /enrolment/healthier-sg-chronic-tier/about/
-      image: /images/roadshow.jpg
+      image: /images/miscellaneous/Untitled_design.png
       alt: Image alt text
   - infopic:
       title: Your Healthier SG journey!
