@@ -34,10 +34,12 @@ sections:
       image: /images/enrolment_benefits/seniors mobile.png
       alt: Healthier SG Benefits
   - infopic:
-      title: Thank you for attending the roadshows!
-      description: Catch the highlights from the roadshows here.
-      button: View highlights
-      url: /roadshows/about
+      title: Healthier SG Chronic Tier
+      description: "To ensure affordability of common chronic medications across GP
+        clinics and polyclinics, the Healthier SG Chronic Tier takes effect from
+        1 February 2024. "
+      button: Read more
+      url: /enrolment/healthier-sg-chronic-tier/about/
       image: /images/roadshow.jpg
       alt: Image alt text
   - infopic:
