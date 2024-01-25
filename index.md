@@ -32,9 +32,9 @@ sections:
       alt: Healthier SG Benefits
   - infopic:
       title: Healthier SG Chronic Tier
-      description: To ensure affordability of common chronic medications across GP
-        clinics and polyclinics, the Healthier SG Chronic Tier takes effect from
-        1 February 2024.
+      description: From 1 February 2024, eligible Singaporeans can receive more
+        subsidies under the Healthier SG Chronic Tier at their enrolled
+        Healthier SG GP clinics.
       button: Read more
       url: /enrolment/healthier-sg-chronic-tier/about/
       image: /images/miscellaneous/Untitled_design.png
