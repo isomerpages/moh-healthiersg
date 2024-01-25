@@ -4,10 +4,7 @@ title: Healthier SG
 description: Towards a Healthier Singapore
 image: /images/homepage/healthier sg & moh logo.png
 permalink: /
-notification: We are aware of scam SMSes sent by mobile phone numbers to members
-  of public under the pretext of Healthier SG. If you have received such SMSes,
-  please do not click on the link within and offer your personal information.
-  Official Healthier SG SMSes will always show sender ID "MOH".
+notification: ""
 sections:
   - hero:
       key_highlights:
@@ -34,11 +31,13 @@ sections:
       image: /images/enrolment_benefits/seniors mobile.png
       alt: Healthier SG Benefits
   - infopic:
-      title: Thank you for attending the roadshows!
-      description: Catch the highlights from the roadshows here.
-      button: View highlights
-      url: /roadshows/about
-      image: /images/roadshow.jpg
+      title: Healthier SG Chronic Tier
+      description: To ensure affordability of common chronic medications across GP
+        clinics and polyclinics, the Healthier SG Chronic Tier takes effect from
+        1 February 2024.
+      button: Read more
+      url: /enrolment/healthier-sg-chronic-tier/about/
+      image: /images/miscellaneous/Untitled_design.png
       alt: Image alt text
   - infopic:
       title: Your Healthier SG journey!

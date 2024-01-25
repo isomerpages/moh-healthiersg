@@ -2,42 +2,6 @@
 title: How Do I Enrol?
 permalink: /enrolment/howtoenrol/
 description: ""
+variant: tiptap
 ---
-Under Healthier SG, you can enrol with a Healthier SG clinic and your family clinic will develop a personalised Health Plan with you.
-
-<div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Y3J41kFgTk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-###   Am I eligible and when can I enrol?
-
-MOH is progressively sending SMS invitations to Singapore Citizens and Permanent Residents aged 60 years and above to enrol with a Healthier SG clinic or polyclinic.
-
-Those aged 40 to 59 years will be invited on a later date.
-
-Eligible residents will progressively receive SMS invites to enrol via HealthHub.
-
-
-###   How do I enrol when I am eligible? Where can I enrol?
-![steps](/images/enrolment_benefits/enrolment%20mobile.png)
-
-**1. Self-enrol**
-
-Once you receive an SMS from MOH, you can enrol in Healthier SG in three simple steps:
-
-* Enrol via the HealthHub app, which can be downloaded from Google Play or Apple App Store.
-* Choose your preferred Healthier SG clinic from the [list of Healthier SG clinics](https://gowhere.gov.sg/healthiersg).
-*  Book an appointment for your free first Health Plan consultation.
-
-For a more detailed step-by-step guide on how to self enrol, click [here](/enrolment/guide/).
-
-**2. Enrol with caregiver's assistance**
-
-You can grant access to your caregiver/family member/loved one by adding him/her in HealthHub, so he/she can enrol you in Healthier SG on your behalf using his/her smartphone. You can add your caregiver by following the step-by-step guide on [this page](/enrolment/addcaregiver/). 
-
-If you are a caregiver, you can add your care recipient to your HealthHub and help them enrol in Healthier SG by following the steps on [this page](/enrolment/caregivers/).
-
-**3. Assisted enrolment**
-
-Approach the Healthier SG Ambassadors at Enrolment Stations for assistance. To check for an enrolment station near you, visit [this page](https://www.gowhere.gov.sg/healthiersg).
-
-**Still have questions?**
-Refer to the [FAQs on Enrolment](https://ask.gov.sg/healthiersg/?topic=Enrolment).
+<p>Under Healthier SG, you can enrol with a Healthier SG clinic and your family doctor will develop a personalised Health Plan with you.</p><div class="iframe-wrapper"><iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y3J41kFgTk0"></iframe></div><h3>Eligibility</h3><p>Singapore Citizens and Permanent Residents aged ≥ 40 years old can enrol in Healthier SG using the HealthHub app.</p><p>Those who have not received the SMS invite can request for the SMS invitation to be sent by submitting their details at <a href="https://go.gov.sg/healthiersg-sms-invite" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/healthiersg-sms-invite</a>, or call MOH hotline at 6325 9220.</p><h3>Enrolment</h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="steps" src="/images/enrolment_benefits/enrolment%20mobile.png"></div><p><strong>1. Self-enrol</strong></p><p>When you receive an SMS from MOH, you can enrol in Healthier SG in three simple steps:</p><ul data-tight="true" class="tight"><li><p>Enrol via the HealthHub app, which can be downloaded from Google Play or Apple App Store.</p></li><li><p>Choose your preferred Healthier SG clinic from the <a href="https://gowhere.gov.sg/healthiersg" rel="noopener noreferrer nofollow" target="_blank">list of Healthier SG clinics</a>.</p></li><li><p>Book an appointment for your fully subsidised first Health Plan consultation.</p></li></ul><p>For a detailed step-by-step guide on how to enrol, click <a href="/enrolment/guide/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p><p><strong>2. Enrol with caregiver's assistance</strong></p><p>You can grant access to your caregiver/family member/loved one by adding their details in HealthHub. This allows him/her to enrol you in Healthier SG on your behalf using their smartphone.</p><p>You can follow the step-by-step guide at these links:</p><ul data-tight="true" class="tight"><li><p><a href="https://www.healthiersg.gov.sg/enrolment/addcaregiver/" rel="noopener noreferrer nofollow" target="_blank">Grant your caregiver/family member access</a></p></li><li><p><a href="https://www.healthiersg.gov.sg/enrolment/caregivers/" rel="noopener noreferrer nofollow" target="_blank">Assist your family member’s enrolment</a></p></li></ul><p><strong>3. Assisted enrolment</strong></p><p>Approach the Healthier SG Ambassadors at Enrolment Stations for assistance. To check for an enrolment station near you, visit <a href="https://www.gowhere.gov.sg/healthiersg" rel="noopener noreferrer nofollow" target="_blank">this page</a>.</p><p><strong>Still have questions?</strong> Refer to the <a href="https://ask.gov.sg/healthiersg/?topic=Enrolment" rel="noopener noreferrer nofollow" target="_blank">FAQs on Enrolment</a>.</p>
