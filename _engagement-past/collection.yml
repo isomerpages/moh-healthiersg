@@ -1,6 +1,0 @@
-collections:
-  engagement-past:
-    output: true
-    order:
-      - Questionnaire for Healthier SG.md
-      - Healthier SG Conversations.md
