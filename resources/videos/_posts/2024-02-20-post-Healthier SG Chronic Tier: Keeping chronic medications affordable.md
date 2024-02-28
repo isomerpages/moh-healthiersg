@@ -15,4 +15,12 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H-3zQvos3Lg?si=V05kJhfGKkIc8grG"></iframe>
 </div>
+<h3>Malay</h3>
+<div class="iframe-wrapper">
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VojaFcLL6Zk?si=Xj7IvjVUesiLZbns"></iframe>
+</div>
+<h3>Tamil</h3>
+<div class="iframe-wrapper">
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H-3zQvos3Lg?si=V05kJhfGKkIc8grG"></iframe>
+</div>
 <p></p>
