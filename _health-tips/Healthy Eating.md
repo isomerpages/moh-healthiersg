@@ -2,6 +2,7 @@
 title: Healthy Eating
 permalink: /health-tips/healthy-eating/
 description: ""
+variant: markdown
 ---
 ## A Healthier You Starts with a Healthy Diet ##
 ![banner](/images/healthy%20eating/healthy%20eating%20banner.png)
@@ -42,6 +43,6 @@ If you are struggling to do so, try using HPB’s visual guide, My Healthy Plate
 
 “Quarter, Quarter, Half” is an easy way to remember the proportions of each food group for a well-balanced meal. Simply fill a quarter plate with wholegrains, a quarter plate with good sources of protein, and half plate with fruits and vegetables.
 
-***For more useful health tips, visit [HealthHub](https://www.healthhub.sg/).***
+***For more useful health tips, visit [HealthHub](https://www.healthhub.sg/). If you’re eating out or ordering in, make sure to keep an eye out for the Healthier Dining Partners (HDP) identifiers and order from these [participating healthier food outlets](https://www.hpb.gov.sg/healthy-living/food-beverage/healthier-dining-programme/list-of-healthier-dining-partners).***
 
 ***Download the [Healthy 365 app](https://hpb.gov.sg/healthy-living/healthy-365) to earn Healthpoints towards your Healthier SG journey today!***
