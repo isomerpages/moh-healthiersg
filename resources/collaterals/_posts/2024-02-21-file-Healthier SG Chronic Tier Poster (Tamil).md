@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/MOH23_A3poster_Tamil_r3.pdf
+file_url: /files/MOH23_A3poster_Tamil_r3_FA_HR.pdf
 ---
