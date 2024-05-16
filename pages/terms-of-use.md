@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 ### **Terms of Use**
 
@@ -95,7 +96,7 @@ permalink: /terms-of-use/
 
 ### **Permission for Use**
 
-32.    Where permission is required by these Terms of Use for the use of this Website or the Contents, you may apply for permission by writing to the Ministry of Health at moh_qsm@moh.gov.sg.
+32.    Where permission is required by these Terms of Use for the use of this Website or the Contents, you may apply for permission by writing to the Ministry of Health at **www.moh.gov.sg/feedback**.
 33.    The Ministry of Health may, at its sole and absolute discretion, grant or refuse permission to use this Web Site or the Contents, and impose such conditions for the use of this Web Site or the Contents as it deems fit.
 
 ### **Governing Law and Jurisdiction**
