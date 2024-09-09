@@ -41,6 +41,8 @@
             app-recommendations-background-color="#C2DAE6"
             app-recommendations-foreground-color="#2E2E2E"
             app-recommendations-hover-color="#90B5C7"
+  
+            app-environment-override="draft" 
 
             app-font-family="Lato"
 />
@@ -51,3 +53,15 @@
     referrerpolicy="origin"
   ></script>
 </html>
+
+<style type="text/css">
+    #webchat ul {
+      list-style: disc;
+    }
+    #webchat-container hr
+    { margin-top: 0; }
+    #webchat-container a[href$=".pdf"]
+    { margin-left: 0 }
+    #webchat-container a[href$=".pdf"]::before
+    { content: "" }
+</style>
