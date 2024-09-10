@@ -52,7 +52,7 @@ variant: tiptap
 <p>Your enrolled Healthier SG clinic will create your customised Health Plan
 during your first Health Plan consultation at the clinic. It will include
 your basic health details e.g., weight, height, Body Mass Index, blood
-pressure, cholesterol and blood glucose readings. You doctor will discuss
+pressure, cholesterol and blood glucose readings. Your doctor will discuss
 your health screening and vaccination needs, and 1 to 2 health goals or
 actions that are important for you to note. This could include weight management,
 smoking cessation and other specific interventions required to manage chronic
