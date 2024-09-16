@@ -12,11 +12,15 @@ Under this subsidy framework, <a href="/enrolment/healthier-sg-chronic-tier/medi
 offered to residents enrolled at Healthier SG GP clinics at subsidised
 rates comparable to polyclinics. The subsidies apply for treatment of chronic
 conditions only at the enrolled clinic.</p>
+<p><strong><em>Update on 16 Sep 2024</em></strong><em><br>(*) The inclusion of these medications into the Healthier SG Medication List will take effect from 16 September 2024<br>(**) These medications are temporarily out of stock from the medication supplier. No percentage-based subsidies under Healthier SG Chronic Tier until the resumption of supply</em>
+</p>
 <h4>Who is eligible for the Healthier SG Chronic Tier?</h4>
 <p>Under the Healthier SG subsidy framework, all Community Health Assist
 Scheme (CHAS), Pioneer Generation (PG) and Merdeka Generation (MG) cardholders
 can get Healthier SG Chronic Tier subsidies for medications on the <a href="/enrolment/healthier-sg-chronic-tier/medication-list/" rel="noopener noreferrer nofollow" target="_blank">Healthier SG Medication List</a> at
 their enrolled clinic.</p>
+<p><strong><em>Update on 16 Sep 2024</em></strong><em><br>(*) The inclusion of these medications into the Healthier SG Medication List will take effect from 16 September 2024<br>(**) These medications are temporarily out of stock from the medication supplier. No percentage-based subsidies under Healthier SG Chronic Tier until the resumption of supply</em>
+</p>
 <p>Under the Healthier SG Chronic Tier, CHAS/PG/MG cardholders can get selected
 medications for common chronic conditions at their enrolled Healthier SG
 GP clinic, at prices that are comparable to those at polyclinics.</p>
