@@ -2,6 +2,7 @@
 title: Useful Apps
 permalink: /apps/
 description: ""
+variant: markdown
 ---
 ### HealthHub
 
@@ -27,7 +28,7 @@ For more information on HealthHub, visit this [page](https://www.healthhub.sg/).
 
 * View your health-related lifestyle data at a glance – track your daily physical activity and sleep duration with a compatible wearable and use the meal log tool to monitor your daily calorie intake.
 * Take healthier actions by:
-	- Getting started with challenges such as the National Steps Challenge™ and Eat, Drink, Shop Healthy Challenge.
+	- Getting started with challenges such as the Eat, Drink, Shop Healthy Challenge.
 	- Participating in programmes (e.g. Live Well, Age Well programme) that are recommended to you.
 	-	Booking activities including a wide variety of free exercise classes and hands-on health workshops.
 * Enjoy access to informative resources and partner programmes.
