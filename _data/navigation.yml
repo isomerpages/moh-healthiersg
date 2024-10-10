@@ -1,0 +1,14 @@
+logo: /images/homepage/healthier sg & moh logo.png
+links:
+  - title: About Healthier SG
+    collection: about
+  - title: Enrolment
+    collection: enrolment
+  - title: FAQs
+    url: https://ask.gov.sg/healthiersg
+  - title: Resources
+    resource_room: true
+  - title: HealthHub
+    url: https://www.healthhub.sg/
+  - title: Healthy 365
+    url: https://www.healthhub.sg/programmes/197/healthyliving?utm_source=content-partners&utm_medium=referral&utm_campaign=ip-h365&utm_content=hsg-website

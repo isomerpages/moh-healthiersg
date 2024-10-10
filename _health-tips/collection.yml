@@ -1,0 +1,7 @@
+collections:
+  health-tips:
+    output: true
+    order:
+      - Active Ageing.md
+      - Active Living.md
+      - Healthy Eating.md
