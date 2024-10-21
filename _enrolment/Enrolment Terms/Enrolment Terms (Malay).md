@@ -3,8 +3,11 @@ title: Enrolment Terms (Malay)
 permalink: /enrolment/enrolment-terms/ml/
 description: ""
 third_nav_title: Enrolment Terms
+variant: markdown
 ---
 **Terakhir dikemas kini : 4 July 2023**
+
+SILA AMBIL PERHATIAN BAHAWA PENDAFTARAN ANDA DI BAWAH SG YANG LEBIH SIHAT ADALAH TERTAKLUK KEPADA SYARAT-SYARAT PENDAFTARAN YANG BOLEH DIDAPATI DI [www.healthiersg.gov.sg/enrolment-terms] ("ENROLMENT TERMS"). TERJEMAHAN YANG DISEDIAKAN DALAM DOKUMEN INI ADALAH UNTUK MAKLUMAT ANDA SAHAJA. SEKIRANYA TERDAPAT SEBARANG PERCANGGAHAN ANTARA SYARAT-SYARAT PENDAFTARAN DAN TERJEMAHAN YANG DISEDIAKAN DALAM DOKUMEN INI, SYARAT-SYARAT PENDAFTARAN AKAN DIUTAMAKAN DAN DIANGGAP SEBAGAI PENENTU SYARAT-SYARAT PENDAFTARAN ANDA DI BAWAH SG YANG LEBIH SIHAT.
 
 1.                SG Yang Lebih Sihat ialah (“**Program**”) strategi transformasi berbilang tahun oleh Kementerian Kesihatan (“**MOH**”) untuk mengalihkan tumpuan sistem penjagaan kesihatan Singapura melebihi penjagaan individu yang sakit, kepada pendekatan proaktif untuk mencegah individu daripada jatuh sakit.
 
