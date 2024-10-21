@@ -7,7 +7,7 @@ variant: markdown
 ---
 **最近更新****: 4 July 2023**
 
-请注意，您注册加入健康SG，须遵守  中的注册条款（"ENROLMENT TERMS"）。本文件中的翻译仅供参考。如果注册条款与本文件中的翻译有任何不一致或歧义，应以注册条款为准。注册条款应视为您加入健康SG的正式依据。
+请注意，您注册加入健康SG，须遵守 [www.healthiersg.gov.sg/enrolment-terms] 中的注册条款（"ENROLMENT TERMS"）。本文件中的翻译仅供参考。如果注册条款与本文件中的翻译有任何不一致或歧义，应以注册条款为准。注册条款应视为您加入健康SG的正式依据。
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 健康SG（“**计划**”）是卫生部（“**卫生部**”）所制定的一项为期多年的转型策略，旨在将新加坡医疗系统的重点从照顾生病的国人，转向积极帮助国人预防生病。
 
