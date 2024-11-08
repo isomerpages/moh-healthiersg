@@ -168,8 +168,10 @@ check-ins has to be an in-person consultation as advised by your doctor&nbsp;&nb
 <li>
 <p>Suggest further health test(s)<sup>#</sup> as required&nbsp;</p>
 </li>
+<li>
+<p>Schedule your next check-in appointment&nbsp;&nbsp;</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Schedule your next check-in appointment&nbsp;&nbsp;</p>
 <p>&nbsp;<em>* Based on conditions listed in <a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">Chronic Disease Management Programme (CDMP)</a></em>
 <a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
@@ -203,4 +205,9 @@ are also chargeable e.g., blood test to monitor chronic condition.</p>
 <p></p>
 <p><strong>Still have questions? </strong>Refer to our <a href="https://ask.gov.sg/healthiersg/" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>.</p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
 <p></p>
