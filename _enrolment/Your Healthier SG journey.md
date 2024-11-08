@@ -147,9 +147,10 @@ Prevailing fees for services other than the Health Plan will apply</p>
 <li>
 <p>Use the app or call your enrolled clinic to book your appointment</p>
 </li>
+<li>
+<p>Visit your enrolled doctor for your check-in</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit your enrolled doctor for your
-check-in</p>
 <p>&nbsp;<em><u>Note:</u></em>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>If you do not have any chronic conditions,</u> your
