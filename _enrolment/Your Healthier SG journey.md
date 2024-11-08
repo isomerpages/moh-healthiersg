@@ -165,9 +165,10 @@ check-ins has to be an in-person consultation as advised by your doctor&nbsp;&nb
 <li>
 <p>Check with you on any test(s) conducted recently&nbsp;</p>
 </li>
+<li>
+<p>Suggest further health test(s)<sup>#</sup> as required&nbsp;</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suggest further health test(s)<sup>#</sup> as
-required&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Schedule your next check-in appointment&nbsp;&nbsp;</p>
 <p>&nbsp;<em>* Based on conditions listed in <a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">Chronic Disease Management Programme (CDMP)</a></em>
 <a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
