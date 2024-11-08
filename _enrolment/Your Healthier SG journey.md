@@ -71,7 +71,7 @@ year to better review and manage your condition.</p>
 <p></p>
 <p><strong>What to expect at your first Health Plan consultation and subsequent annual Health Plan check-in</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -88,7 +88,7 @@ year to better review and manage your condition.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enrol in <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank">Healthier SG</a>&nbsp;&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the HealthHub app on your
 mobile device&nbsp;and enter the Healthier SG module in the app to:</p>
-<p>o&nbsp;&nbsp; Select your preferred Healthier SG Clinic&nbsp;</p>
+<p>o&nbsp;&nbsp; Select your preferred Healhier SG Clinic&nbsp;</p>
 <p>o&nbsp;&nbsp; Book appointment for your 1<sup>st</sup> Health Plan consultation&nbsp;&nbsp;</p>
 <p>o&nbsp;&nbsp; Complete the short onboarding questionnaire&nbsp;</p>
 <p>&nbsp;</p>
@@ -116,8 +116,7 @@ follow-up plan.</p>
 Health Plan check-in</p>
 <p>&nbsp;</p>
 <p>The consultation for your Health Plan and subsequent check-in is free.
-Prevailing fees for services other than the Health Plan will apply.</p>
-<p>&nbsp;</p>
+Prevailing fees for services other than the Health Plan will appl</p>
 </td>
 </tr>
 <tr>
@@ -150,12 +149,10 @@ recently&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suggest further health test(s)<sup>#</sup> as
 required&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Schedule your next check-in appointment&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p><em>* Based on conditions listed in <a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">Chronic Disease Management Programme (CDMP)</a></em>
+<p>&nbsp;<em>* Based on conditions listed in <a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">Chronic Disease Management Programme (CDMP)</a></em>
 <a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
-<p>&nbsp;</p>
-<p><em># Investigations not part of the nationally recommended screenings and vaccinations are chargeable e.g., blood test to monitor chronic condition.&nbsp;</em>&nbsp;</p>
+<p>&nbsp;<em># Investigations not part of the nationally recommended screenings and vaccinations are chargeable e.g., blood test to monitor chronic condition.&nbsp;</em>&nbsp;</p>
 <p>&nbsp;&nbsp;</p>
 </td>
 </tr>
@@ -174,7 +171,6 @@ participate in health programmes/activities as recommended by your doctor.&nbsp;
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
