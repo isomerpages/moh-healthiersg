@@ -66,59 +66,9 @@ health. The check-in with your clinic may be done in-person or over the
 phone, e.g., if you have no chronic conditions. For those with one or more
 chronic conditions, your doctor will recommend two or more visits in the
 year to better review and manage your condition.</p>
-<p>Your enrolled clinic will contact you to schedule your annual check-in.</p>
-<p></p>
-<p><strong>What to expect at your first Health Plan consultation and subsequent annual Health Plan check-in</strong>
+<p>Your enrolled clinic will contact you to schedule your annual check-in<strong>.</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Charges and Subsidies</strong></h4>
 <p>Your first Health Plan consult and subsequent annual check-ins to update
 your Health Plan are fully subsidised. The nationally recommended screenings
