@@ -116,7 +116,7 @@ follow-up plan.</p>
 Health Plan check-in</p>
 <p>&nbsp;</p>
 <p>The consultation for your Health Plan and subsequent check-in is free.
-Prevailing fees for services other than the Health Plan will appl</p>
+Prevailing fees for services other than the Health Plan will apply</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,6 @@ participate in health programmes/activities as recommended by your doctor.&nbsp;
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
