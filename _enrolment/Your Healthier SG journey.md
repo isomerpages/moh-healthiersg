@@ -161,8 +161,11 @@ you need to check-in with your enrolled doctor at least twice annually,
 with these two check-ins minimally three months apart.&nbsp; One of the
 check-ins has to be an in-person consultation as advised by your doctor&nbsp;&nbsp;</p>
 <p>During your check-in, your doctor will:&nbsp;&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check with you on any test(s) conducted
-recently&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Check with you on any test(s) conducted recently&nbsp;</p>
+</li>
+</ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suggest further health test(s)<sup>#</sup> as
 required&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Schedule your next check-in appointment&nbsp;&nbsp;</p>
