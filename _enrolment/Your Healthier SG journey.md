@@ -110,10 +110,11 @@ SG module in the app to:</p>
 <li>
 <p>Inform you that your Health Plan will be created from this consultation&nbsp;&nbsp;</p>
 </li>
+<li>
+<p>Measure your vitals (e.g., height, weight, blood pressure) and enquire
+about your lifestyle habits (eg. smoking status)&nbsp;</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Measure your vitals (e.g., height,
-weight, blood pressure) and enquire about your lifestyle habits (eg. smoking
-status)&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discuss goals to improve your health
 such as:&nbsp;&nbsp;</p>
 <p>o&nbsp;&nbsp; Lifestyle adjustments which may include diet, exercise&nbsp;and/or
