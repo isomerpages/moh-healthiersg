@@ -85,9 +85,15 @@ year to better review and manage your condition.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>You need to:&nbsp;&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enrol in <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank">Healthier SG</a>&nbsp;&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the HealthHub app on your
-mobile device&nbsp;and enter the Healthier SG module in the app to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enrol in <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank">Healthier SG</a>&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Download the HealthHub app on your mobile device&nbsp;and enter the Healthier
+SG module in the app to:</p>
+</li>
+</ul>
 <p>o&nbsp;&nbsp; Select your preferred Healhier SG Clinic&nbsp;</p>
 <p>o&nbsp;&nbsp; Book appointment for your 1<sup>st</sup> Health Plan consultation&nbsp;&nbsp;</p>
 <p>o&nbsp;&nbsp; Complete the short onboarding questionnaire&nbsp;</p>
