@@ -106,8 +106,11 @@ SG module in the app to:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Your doctor will:&nbsp;&nbsp;&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inform you that your Health Plan
-will be created from this consultation&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Inform you that your Health Plan will be created from this consultation&nbsp;&nbsp;</p>
+</li>
+</ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Measure your vitals (e.g., height,
 weight, blood pressure) and enquire about your lifestyle habits (eg. smoking
 status)&nbsp;</p>
