@@ -123,8 +123,11 @@ social activities&nbsp;</p>
 <p>o&nbsp;&nbsp; Regular health screenings, recommended vaccinations, and,
 for those with chronic conditions, adherence to personalised targets and
 follow-up plan.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inform you when to attend the subsequent
-Health Plan check-in</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;Inform you when to attend the subsequent Health Plan check-in</p>
+</li>
+</ul>
 <p>The consultation for your Health Plan and subsequent check-in is free.
 Prevailing fees for services other than the Health Plan will apply</p>
 </td>
