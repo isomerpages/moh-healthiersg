@@ -140,8 +140,11 @@ Prevailing fees for services other than the Health Plan will apply</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>You can: &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check when you are due for your
-next check-in using the <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank">HealthHub</a>&nbsp;&nbsp;app</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Check when you are due for your next check-in using the <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank">HealthHub</a>&nbsp;&nbsp;app</p>
+</li>
+</ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use the app or call your enrolled
 clinic to book your appointment</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit your enrolled doctor for your
