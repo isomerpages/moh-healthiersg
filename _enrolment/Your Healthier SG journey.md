@@ -141,7 +141,6 @@ A physical consult must be done at least once every 3 years&nbsp;</p>
 you need to check-in with your enrolled doctor at least twice annually,
 with these two check-ins minimally three months apart.&nbsp; One of the
 check-ins has to be an in-person consultation as advised by your doctor&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
 <p>During your check-in, your doctor will:&nbsp;&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check with you on any test(s) conducted
 recently&nbsp;</p>
@@ -171,8 +170,6 @@ participate in health programmes/activities as recommended by your doctor.&nbsp;
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p></p>
-<p></p>
 <h4><strong>Charges and Subsidies</strong></h4>
 <p>Your first Health Plan consult and subsequent annual check-ins to update
 your Health Plan are fully subsidised. The nationally recommended screenings
