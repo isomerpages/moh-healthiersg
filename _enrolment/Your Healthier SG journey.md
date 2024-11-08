@@ -94,7 +94,7 @@ year to better review and manage your condition.</p>
 SG module in the app to:</p>
 </li>
 </ul>
-<p>o&nbsp;&nbsp; Select your preferred Healhier SG Clinic&nbsp;</p>
+<p>o&nbsp;&nbsp; Select your preferred Healthier SG Clinic&nbsp;</p>
 <p>o&nbsp;&nbsp; Book appointment for your 1<sup>st</sup> Health Plan consultation&nbsp;&nbsp;</p>
 <p>o&nbsp;&nbsp; Complete the short onboarding questionnaire&nbsp;</p>
 <p>&nbsp;</p>
