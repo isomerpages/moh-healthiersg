@@ -175,8 +175,7 @@ participate in health programmes/activities as recommended by your doctor.&nbsp;
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<h4><strong>Charges and Subsidies</strong></h4>
+<h4>&nbsp;<strong>Charges and Subsidies</strong></h4>
 <p>Your first Health Plan consult and subsequent annual check-ins to update
 your Health Plan are fully subsidised. The nationally recommended screenings
 and vaccinations are also fully subsidised. However, if you consult your
