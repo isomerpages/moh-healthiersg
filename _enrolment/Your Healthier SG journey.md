@@ -185,8 +185,12 @@ check-ins has to be an in-person consultation as advised by your doctor&nbsp;&nb
 </td>
 <td rowspan="1" colspan="1">
 <p>You can:&nbsp;&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check the <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank">HealthHub</a> app to view updated Health
-Plan records&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Check the <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank">HealthHub</a> app
+to view updated Health Plan records&nbsp;&nbsp;</p>
+</li>
+</ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the <a href="https://go.gov.sg/healthy365" rel="noopener noreferrer nofollow" target="_blank">Healthy 365</a> app to search for and
 participate in health programmes/activities as recommended by your doctor.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
