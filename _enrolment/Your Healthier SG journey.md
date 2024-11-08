@@ -175,8 +175,7 @@ check-ins has to be an in-person consultation as advised by your doctor&nbsp;&nb
 <p>&nbsp;<em>* Based on conditions listed in <a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">Chronic Disease Management Programme (CDMP)</a></em>
 <a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
-<p>&nbsp;<em># Investigations not part of the nationally recommended screenings and vaccinations are chargeable e.g., blood test to monitor chronic condition.&nbsp;</em>&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
+<p>&nbsp;<em># Investigations not part of the nationally recommended screenings and vaccinations are chargeable e.g., blood test to monitor chronic condition.&nbsp;</em>&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
