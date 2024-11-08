@@ -69,6 +69,116 @@ year to better review and manage your condition.</p>
 <p>Your enrolled clinic will contact you to schedule your annual check-in<strong>.</strong>
 </p>
 <p></p>
+<p><strong>What to expect at your first Health Plan consultation and subsequent annual Health Plan check-in</strong>
+</p>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Before your 1<sup>st</sup> Health Plan consultation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You need to:&nbsp;&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enrol in <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank">Healthier SG</a>&nbsp;&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the HealthHub app on your
+mobile device&nbsp;and enter the Healthier SG module in the app to:</p>
+<p>o&nbsp;&nbsp; Select your preferred Healthier SG Clinic&nbsp;</p>
+<p>o&nbsp;&nbsp; Book appointment for your 1<sup>st</sup> Health Plan consultation&nbsp;&nbsp;</p>
+<p>o&nbsp;&nbsp; Complete the short onboarding questionnaire&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>During your 1<sup>st</sup> Health Plan consultation</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Your doctor will:&nbsp;&nbsp;&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inform you that your Health Plan
+will be created from this consultation&nbsp;&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Measure your vitals (e.g., height,
+weight, blood pressure) and enquire about your lifestyle habits (eg. smoking
+status)&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discuss goals to improve your health
+such as:&nbsp;&nbsp;</p>
+<p>o&nbsp;&nbsp; Lifestyle adjustments which may include diet, exercise&nbsp;and/or
+social activities&nbsp;</p>
+<p>o&nbsp;&nbsp; Regular health screenings, recommended vaccinations, and,
+for those with chronic conditions, adherence to personalised targets and
+follow-up plan.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inform you when to attend the subsequent
+Health Plan check-in</p>
+<p>&nbsp;</p>
+<p>The consultation for your Health Plan and subsequent check-in is free.
+Prevailing fees for services other than the Health Plan will apply.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Annual Health Plan Check-in</strong>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You can: &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check when you are due for your
+next check-in using the <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank">HealthHub</a>&nbsp;&nbsp;app</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use the app or call your enrolled
+clinic to book your appointment</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit your enrolled doctor for your
+check-in</p>
+<p>&nbsp;<em><u>Note:</u></em>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>If you do not have any chronic conditions,</u> your
+check-in may be done by in-person or tele-consult with your enrolled doctor.
+A physical consult must be done at least once every 3 years&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>If you have at least 1 chronic condition</u>*,
+you need to check-in with your enrolled doctor at least twice annually,
+with these two check-ins minimally three months apart.&nbsp; One of the
+check-ins has to be an in-person consultation as advised by your doctor&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>During your check-in, your doctor will:&nbsp;&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check with you on any test(s) conducted
+recently&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suggest further health test(s)<sup>#</sup> as
+required&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Schedule your next check-in appointment&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>* Based on conditions listed in <a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">Chronic Disease Management Programme (CDMP)</a></em>
+<a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
+<p>&nbsp;</p>
+<p><em># Investigations not part of the nationally recommended screenings and vaccinations are chargeable e.g., blood test to monitor chronic condition.&nbsp;</em>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>After your Health Plan consultation/check-in</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You can:&nbsp;&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check the <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank">HealthHub</a> app to view updated Health
+Plan records&nbsp;&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the <a href="https://go.gov.sg/healthy365" rel="noopener noreferrer nofollow" target="_blank">Healthy 365</a> app to search for and
+participate in health programmes/activities as recommended by your doctor.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
 <h4><strong>Charges and Subsidies</strong></h4>
 <p>Your first Health Plan consult and subsequent annual check-ins to update
 your Health Plan are fully subsidised. The nationally recommended screenings
