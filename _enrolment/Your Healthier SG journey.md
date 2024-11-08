@@ -144,9 +144,10 @@ Prevailing fees for services other than the Health Plan will apply</p>
 <li>
 <p>Check when you are due for your next check-in using the <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank">HealthHub</a>&nbsp;&nbsp;app</p>
 </li>
+<li>
+<p>Use the app or call your enrolled clinic to book your appointment</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use the app or call your enrolled
-clinic to book your appointment</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit your enrolled doctor for your
 check-in</p>
 <p>&nbsp;<em><u>Note:</u></em>
