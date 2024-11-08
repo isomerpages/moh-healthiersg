@@ -114,9 +114,10 @@ SG module in the app to:</p>
 <p>Measure your vitals (e.g., height, weight, blood pressure) and enquire
 about your lifestyle habits (eg. smoking status)&nbsp;</p>
 </li>
+<li>
+<p>Discuss goals to improve your health such as:&nbsp;&nbsp;</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discuss goals to improve your health
-such as:&nbsp;&nbsp;</p>
 <p>o&nbsp;&nbsp; Lifestyle adjustments which may include diet, exercise&nbsp;and/or
 social activities&nbsp;</p>
 <p>o&nbsp;&nbsp; Regular health screenings, recommended vaccinations, and,
