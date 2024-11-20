@@ -2,7 +2,6 @@ collections:
   enrolment:
     output: true
     order:
-      - Benefits of Enrolment.md
       - How Do I Enrol?.md
       - Healthier SG Chronic Tier/.keep
       - Healthier SG Chronic Tier/Healthier SG Chronic Tier.md
