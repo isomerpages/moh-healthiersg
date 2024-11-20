@@ -2,7 +2,7 @@ collections:
   enrolment:
     output: true
     order:
-      - How to Enrol?.md
+      - How to enrol?.md
       - Your Healthier SG journey.md
       - Step by Step Guide on Enrolment.md
       - For Caregivers.md
