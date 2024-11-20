@@ -2,9 +2,9 @@ collections:
   about:
     output: true
     order:
+      - What is Healthier SG?.md
+      - Benefits of Healthier SG.md
       - Your Health Plan.md
+      - Healthier SG Chronic Tier/.keep
       - Healthier SG Chronic Tier/Healthier SG Medication List.md
       - Healthier SG Chronic Tier/Healthier SG Chronic Tier.md
-      - Healthier SG Chronic Tier/.keep
-      - Benefits of Healthier SG.md
-      - What is Healthier SG?.md
