@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Healthier SG Medication List.md
       - Healthier SG Chronic Tier.md
       - Benefits of Enrolment.md
       - What is Healthier SG?.md
