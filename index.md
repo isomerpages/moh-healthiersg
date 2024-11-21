@@ -19,9 +19,7 @@ sections:
           url: https://gowhere.gov.sg/healthiersg
       button: Read more
       url: /enrolment/howtoenrol
-      title: Healthier SG
-      subtitle: Healthier SG Enrolment has begun!
-      background: /images/homepage/healthier sg microsite banner-min.png
+      background: /images/Healthier_SG_8533_x_3200_banner_2.jpg
   - infopic:
       title: Why should you enrol in Healthier SG?
       description: What are the benefits of enrolling in Healthier SG? How can
