@@ -29,6 +29,16 @@ earn rewards for completing challenges.&nbsp;</p>
 <p>You can access your Health Plan through your <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank"><u>HealthHub</u></a> app here and use
 the <a href="https://go.gov.sg/healthy365" rel="noopener noreferrer nofollow" target="_blank"><u>Healthy 365</u></a> app
 to act on your lifestyle recommendations.&nbsp;</p>
+<h3>Annual check-in</h3>
+<p>Your Health Plan is a long-term record of your state of health and steps
+you could consider taking to maintain or improve your health. It is recommended
+that you have at least one annual check-in so that you and your doctor
+are updated on the next steps you should take to maintain or improve your
+health. The check-in with your clinic may be done in-person or over the
+phone, e.g., if you have no chronic conditions. For those with one or more
+chronic conditions, your doctor will recommend two or more visits in the
+year to better review and manage your condition.</p>
+<p>Your enrolled clinic will contact you to schedule your annual check-in.</p>
 <p><strong>What to expect at your first Health Plan consultation and subsequent annual Health Plan check-in</strong>
 </p>
 <p></p>
@@ -160,6 +170,13 @@ by your doctor.&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>
+<h3>Charges and Subsidies</h3>
+<p>Your first Health Plan consult and subsequent annual check-ins to update
+your Health Plan are fully subsidised. The nationally recommended screenings
+and vaccinations are also fully subsidised. However, if you consult your
+doctor for treatment e.g., flu, abdominal pain, and agree to receive these
+services, the clinic’s prevailing charges will apply. Investigations performed
+(i.e., not part of the nationally recommended screenings and vaccinations)
+are also chargeable e.g., blood test to monitor chronic condition.
 <br>
 </p>
