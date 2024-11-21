@@ -29,6 +29,10 @@ earn rewards for completing challenges.&nbsp;</p>
 <p>You can access your Health Plan through your <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank"><u>HealthHub</u></a> app here and use
 the <a href="https://go.gov.sg/healthy365" rel="noopener noreferrer nofollow" target="_blank"><u>Healthy 365</u></a> app
 to act on your lifestyle recommendations.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Health_Plan.png">
+</div>
 <h3>Annual check-in</h3>
 <p>Your Health Plan is a long-term record of your state of health and steps
 you could consider taking to maintain or improve your health. It is recommended
