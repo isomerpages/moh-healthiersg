@@ -17,7 +17,7 @@ sections:
         - title: Healthier SG Clinic Finder
           description: Find a Healthier SG clinic.
           url: https://gowhere.gov.sg/healthiersg
-      button: Find out more about your health plan
+      button: Read more
       url: https://staging.d28dybg4cx4pb9.amplifyapp.com/your-health-plan/
       background: /images/Healthier_SG_8533_x_3200_banner_2.jpg
   - infopic:
