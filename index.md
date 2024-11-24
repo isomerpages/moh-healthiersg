@@ -18,7 +18,7 @@ sections:
           description: Find a Healthier SG clinic.
           url: https://gowhere.gov.sg/healthiersg
       button: Read more
-      url: https://staging.d28dybg4cx4pb9.amplifyapp.com/your-health-plan/
+      url: https://www.healthiersg.gov.sg/your-health-plan/
       background: /images/Healthier_SG_8533_x_3200_banner_2.jpg
   - infopic:
       title: Why should you enrol in Healthier SG?
