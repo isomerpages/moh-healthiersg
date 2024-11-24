@@ -58,7 +58,7 @@ GP clinic, at prices that are comparable to those at polyclinics.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">No need for MediSave co-payment</div><div class="isomer-card-description">From Feb 2024, you can use MediSave to pay your bill in full (up to Medisave500/700 withdrawal limit) for treatment of chronic conditions under the Chronic Disease Management Programme (CDMP) at your enrolled clinic.</div><div class="isomer-card-link"></div></div></a>
 </div>
-<p>^ Your first <a href="https://staging.d28dybg4cx4pb9.amplifyapp.com/your-health-plan/" rel="noopener nofollow" target="_blank">Health Plan</a> discussion
+<p>^ Your first <a href="https://www.healthiersg.gov.sg/your-health-plan/" rel="noopener nofollow" target="_blank">Health Plan</a> discussion
 and annual check-in are fully subsidised. For services outside the scope
 of Healthier SG, prevailing fees will apply.</p>
 <p>*Prevailing eligibility criteria and guidelines of Screen For Life and
