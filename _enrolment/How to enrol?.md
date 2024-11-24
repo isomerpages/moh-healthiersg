@@ -1,5 +1,5 @@
 ---
-title: How Do I Enrol?
+title: How to enrol?
 permalink: /enrolment/howtoenrol/
 description: ""
 variant: tiptap
