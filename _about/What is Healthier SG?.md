@@ -53,23 +53,42 @@ clusters and their family doctor.</p>
 <iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lg_LF-VcGn4"></iframe>
 </div>
 <h4>Key Features of Healthier SG</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Choice to live healthier</div><div class="isomer-card-description">Take charge of your health with support at every step of your health journey.</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Choice to live healthier</div>
+<div class="isomer-card-description">Take charge of your health with support at every step of your health journey.</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Strong patient-doctor relationships</div>
 <div class="isomer-card-description">Receive dedicated care from your chosen family doctor who understand your
 care needs.</div>
-<div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Shift towards preventive care</div><div class="isomer-card-description">Follow your personalised Health Plan which includes nationally-recommended health screenings and vaccinations to detect health issues early and manage them well.</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Shift towards preventive care</div>
+<div class="isomer-card-description">Follow your personalised Health Plan which includes Healthier SG screening
+tests and vaccinations to detect health issues early and manage them well.</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Community support</div>
 <div class="isomer-card-description">Get good support to sustain healthier habits with lifestyle adjustments
 and recommended community programmes by your doctor.</div>
-<div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Better care delivery</div><div class="isomer-card-description">Enjoy the convenience of HealthHub and Healthy 365 to provide a seamless patient journey (i.e., manage your appointments, view Health Plan and screening results, access to community activities).</div><div class="isomer-card-link"></div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Better care delivery</div>
+<div class="isomer-card-description">Enjoy the convenience of HealthHub and Healthy 365 to provide a seamless
+patient journey (i.e., manage your appointments, view Health Plan and screening
+results, access to community activities).</div>
+</div>
+</div>
 </div>
 <p></p>
 <p><strong>Still have questions?</strong>
