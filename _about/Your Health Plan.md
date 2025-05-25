@@ -29,9 +29,8 @@ earn rewards for completing challenges.&nbsp;</p>
 <p>You can access your Health Plan through your <a href="https://for.sg/healthhubhsg" rel="noopener noreferrer nofollow" target="_blank"><u>HealthHub</u></a> app here and use
 the <a href="https://go.gov.sg/healthy365" rel="noopener noreferrer nofollow" target="_blank"><u>Healthy 365</u></a> app
 to act on your lifestyle recommendations.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Health_Plan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSG_new.png">
 </div>
 <h3>Annual check-in</h3>
 <p>Your Health Plan is a long-term record of your state of health and steps
@@ -149,7 +148,7 @@ check-ins has to be an in-person consultation as advised by your doctor&nbsp;&nb
 <p>&nbsp;<em>* Based on conditions listed in <a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">Chronic Disease Management Programme (CDMP)</a></em>
 <a href="https://ask.gov.sg/healthiersg/questions/clkrnuwri000il40g8rslchw3?from=search" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
-<p>&nbsp;<em># Investigations not part of the nationally recommended screenings and vaccinations are chargeable e.g., blood test to monitor chronic condition.&nbsp;</em>&nbsp;&nbsp;</p>
+<p><em># Investigations not part of the Healthier SG screening tests and vaccinations will be charged at the clinic's prevailing rates. E.g., blood test to monitor chronic condition.&nbsp;</em>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -176,11 +175,12 @@ by your doctor.&nbsp;&nbsp;</p>
 </table>
 <h3>Charges and Subsidies</h3>
 <p>Your first Health Plan consult and subsequent annual check-ins to update
-your Health Plan are fully subsidised. The nationally recommended screenings
-and vaccinations are also fully subsidised. However, if you consult your
-doctor for treatment e.g., flu, abdominal pain, and agree to receive these
-services, the clinic’s prevailing charges will apply. Investigations performed
-(i.e., not part of the nationally recommended screenings and vaccinations)
-are also chargeable e.g., blood test to monitor chronic condition.
+Your Health Plan are fully subsidised. You will also receive special subsidies
+for Healthier SG screening tests and vaccinations. However, if you consult
+your doctor for treatment e.g., flu, abdominal pain, and agree to receive
+these services, the clinic’s prevailing charges will apply. Investigations
+performed (i.e., not part of the Healthier SG screening tests and vaccinations)
+will be charged at the clinic's prevailing rates. E.g., blood test to monitor
+chronic condition.
 <br>
 </p>
