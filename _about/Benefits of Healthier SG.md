@@ -86,9 +86,10 @@ Disease Management Programme (CDMP) at your enrolled clinic.</div>
 <p>^ Your first <a href="https://www.healthiersg.gov.sg/your-health-plan/" rel="noopener nofollow" target="_blank">Health Plan</a> discussion
 and annual check-in are fully subsidised. For services outside the scope
 of Healthier SG, prevailing fees will apply.</p>
-<p>*Prevailing eligibility criteria and guidelines of Screen For Life and
-National Adult Immunisation Schedule apply.</p>
-<p>To check eligibility for screening, please click <a href="https://www.healthhub.sg/programmes/61/Screen_for_Life" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>*Prevailing eligibility criteria and guidelines of Healthier SG Screening
+and National Adult Immunisation Schedule apply.</p>
+<p>To check eligibility for screening, please click&nbsp;<a href="http://www.healthiersg-screening.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 <p>To check eligibility for vaccinations, please click <a href="https://www.healthhub.sg/vaccinate" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p><strong>Still have questions?</strong> Refer to the <a href="https://ask.gov.sg/healthiersg/?topic=Benefits" rel="noopener noreferrer nofollow" target="_blank">FAQs on Benefits</a>.</p>
