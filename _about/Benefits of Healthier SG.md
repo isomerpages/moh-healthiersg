@@ -31,39 +31,65 @@ can take for yourself.</p>
 </div>
 <h3>Benefits of enrolling in Healthier SG:</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Support from a trusted family doctor</div><div class="isomer-card-description">Support to keep healthy and prevent diseases, from a trusted family doctor clinic.</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Support from a trusted family doctor</div>
+<div class="isomer-card-description">Support to keep healthy and prevent diseases, from a trusted family doctor
+clinic.</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Wide range of healthy lifestyle activities</div>
 <div class="isomer-card-description">Be connected to a wide range of healthy lifestyle activities on Healthy
 365 app</div>
-<div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Personalised Health Plan</div><div class="isomer-card-description">Receive fully-subsidised, personalised Health Plan^ from your family doctor.</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Personalised Health Plan</div>
+<div class="isomer-card-description">Receive fully-subsidised, personalised Health Plan^ from your family doctor.</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">$20 worth of Healthpoints</div>
 <div class="isomer-card-description">Earn $20 worth of Healthpoints after your first Health Plan consultation.</div>
-<div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Fully-subsidised screenings and vaccinations</div><div class="isomer-card-description">Get fully-subsidised*, nationally-recommended screenings and vaccinations (for Singapore Citizens).</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Subsidised screening tests and vaccinations</div>
+<div class="isomer-card-description">Get special subsidies* for Healthier SG screening tests and vaccinations
+(for Singapore Citizens)</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Access to more affordable medications</div>
 <div class="isomer-card-description">From Feb 2024, CHAS, MG or PG cardholders with high chronic medication
 needs and bills that exceed the annual CHAS subsidy limits, can access
 selected medications for chronic diseases at their enrolled Healthier SG
 GP clinic, at prices that are comparable to those at polyclinics.</div>
-<div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">No need for MediSave co-payment</div><div class="isomer-card-description">From Feb 2024, you can use MediSave to pay your bill in full (up to Medisave500/700 withdrawal limit) for treatment of chronic conditions under the Chronic Disease Management Programme (CDMP) at your enrolled clinic.</div><div class="isomer-card-link"></div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">No need for MediSave co-payment</div>
+<div class="isomer-card-description">From Feb 2024, you can use MediSave to pay your bill in full (up to Medisave500/700
+withdrawal limit) for treatment of chronic conditions under the Chronic
+Disease Management Programme (CDMP) at your enrolled clinic.</div>
+</div>
+</div>
 </div>
 <p>^ Your first <a href="https://www.healthiersg.gov.sg/your-health-plan/" rel="noopener nofollow" target="_blank">Health Plan</a> discussion
 and annual check-in are fully subsidised. For services outside the scope
 of Healthier SG, prevailing fees will apply.</p>
-<p>*Prevailing eligibility criteria and guidelines of Screen For Life and
-National Adult Immunisation Schedule apply.</p>
-<p>To check eligibility for screening, please click <a href="https://www.healthhub.sg/programmes/61/Screen_for_Life" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>*Prevailing eligibility criteria and guidelines of Healthier SG Screening
+and National Adult Immunisation Schedule apply.</p>
+<p>To check eligibility for screening, please click&nbsp;<a href="http://www.healthiersg-screening.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 <p>To check eligibility for vaccinations, please click <a href="https://www.healthhub.sg/vaccinate" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p><strong>Still have questions?</strong> Refer to the <a href="https://ask.gov.sg/healthiersg/?topic=Benefits" rel="noopener noreferrer nofollow" target="_blank">FAQs on Benefits</a>.</p>

@@ -3,10 +3,11 @@ title: Enrolment Terms (English)
 permalink: /enrolment-terms/
 description: ""
 third_nav_title: Enrolment Terms
+variant: markdown
 ---
 Click here for [Chinese](/enrolment/enrolment-terms/cn/), [Malay](/enrolment/enrolment-terms/ml/), [Tamil](/enrolment/enrolment-terms/tl/)
 
-[Last updated: 2 July 2023]
+[Last updated: 27 May 2025]
  
 
 1.              Healthier SG (the “**Programme**”) is a multi-year transformation strategy by the Ministry of Health (“**MOH**”) to shift the focus of Singapore’s healthcare system beyond caring for individuals who are sick, to proactively preventing individuals from falling ill.
@@ -71,7 +72,7 @@ Click here for [Chinese](/enrolment/enrolment-terms/cn/), [Malay](/enrolment/enr
 
 (2)           a fully-subsidised in-person consultation with a GP at the premises of his Clinic to discuss his medical history, and to develop a plan to improve his health, which may include plans for lifestyle adjustments, regular health screenings and appropriate recommended vaccinations; and
 
-(3)           additional subsidies for screenings for Singapore Citizens provided under MOH’s Screen for Life programme and vaccinations provided under MOH’s Vaccination and Childhood Developmental Screening Subsidies Scheme,
+(3)           special subsidies for screenings for Singapore Citizens provided under MOH’s Healthier SG Screening, and vaccinations provided under MOH’s Vaccination and Childhood Developmental Screening Subsidies Scheme.
 
 (collectively, **“Enrolee Benefits**”)**.** An Enrolee may receive an Enrolee Benefit only if he fulfils the requirements of that Enrolee Benefit.
 
