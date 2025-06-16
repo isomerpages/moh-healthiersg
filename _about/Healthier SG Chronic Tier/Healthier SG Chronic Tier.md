@@ -8,15 +8,17 @@ third_nav_title: Healthier SG Chronic Tier
 <h3>Healthier SG Chronic Tier</h3>
 <p>To ensure affordability of common chronic medications at GP clinics and
 polyclinics, the Healthier SG Chronic Tier takes effect from February 2024.
-Under this subsidy framework, <a href="/enrolment/healthier-sg-chronic-tier/medication-list/" rel="noopener noreferrer nofollow" target="_blank">selected common chronic medications</a> are
+Under this subsidy framework,&nbsp;<a href="https://www.healthiersg.gov.sg/enrolment/healthier-sg-chronic-tier/medication-list/" rel="noopener nofollow" target="_blank">selected common chronic medications</a>*&nbsp;are
 offered to residents enrolled at Healthier SG GP clinics at subsidised
 rates comparable to polyclinics. The subsidies apply for treatment of chronic
 conditions only at the enrolled clinic.</p>
+<p><em>*Additional subsides for Medication Assistance Fund (MAF) medications on the Healthier SG Medication List are available only for CHAS Blue and CHAS Orange cardholders (including PG/MG cardholders who also hold a CHAS Blue/Orange card).</em>
+</p>
 <h4>Who is eligible for the Healthier SG Chronic Tier?</h4>
 <p>Under the Healthier SG subsidy framework, all Community Health Assist
 Scheme (CHAS), Pioneer Generation (PG) and Merdeka Generation (MG) cardholders
-can get Healthier SG Chronic Tier subsidies for medications on the <a href="/enrolment/healthier-sg-chronic-tier/medication-list/" rel="noopener noreferrer nofollow" target="_blank">Healthier SG Medication List</a> at
-their enrolled clinic.</p>
+can get Healthier SG Chronic Tier subsidies for medications on the <a href="/enrolment/healthier-sg-chronic-tier/medication-list/" rel="noopener noreferrer nofollow" target="_blank">Healthier SG Medication List</a>*
+at their enrolled clinic.</p>
 <p>Under the Healthier SG Chronic Tier, CHAS/PG/MG cardholders can get selected
 medications for common chronic conditions at their enrolled Healthier SG
 GP clinic, at prices that are comparable to those at polyclinics.</p>
@@ -24,6 +26,8 @@ GP clinic, at prices that are comparable to those at polyclinics.</p>
 used in polyclinics to manage conditions under the Chronic Disease Management
 Programme (CDMP). Enrollees can discuss suitable medications with their
 GPs but they cannot specify the brand of medication that their GP prescribes.</p>
+<p><em>*Additional subsides for Medication Assistance Fund (MAF) medications on the Healthier SG Medication List are available only for CHAS Blue and CHAS Orange cardholders (including PG/MG cardholders who also hold a CHAS Blue/Orange card).</em>
+</p>
 <h4>How can I tell if I am better off using the Healthier SG Chronic Tier?</h4>
 <p>For most Singaporean patients, the cost of medications for chronic diseases
 at their enrolled GP clinic is already covered under CHAS. The Healthier
@@ -73,9 +77,9 @@ Diabetes Mellitus</p>
 bill and will likely exceed the annual limits under the existing CHAS Chronic
 Tier.</p>
 <p>Mrs Tan is prescribed chronic medications – Empagliflozin, Losartan, Metformin
-and Atorvastatin for her chronic conditions, which are in the Healthier
-SG Medication List and eligible for percentage-based subsidies under the
-Healthier SG Chronic Tier.</p>
+and Atorvastatin for her chronic conditions, which are Standard Drug List
+(SDL) medications in the Healthier SG Medication List and eligible for
+percentage-based subsidies under the Healthier SG Chronic Tier.</p>
 <p></p>
 <p><strong>Choice of Subsidy Framework</strong>
 </p>
