@@ -46,10 +46,18 @@ to go for.</p>
 to develop an integrated health and social ecosystem within their region.</p>
 <p>From July 2025, you can expect to hear more from the healthcare clusters,
 such as:</p>
-<p>•Guiding you through your health milestones</p>
-<p>•Reminding you to visit your Healthier SG clinic and complete your Health
+<ul data-tight="true" class="tight">
+<li>
+<p>Guiding you through your health milestones</p>
+</li>
+<li>
+<p>Reminding you to visit your Healthier SG clinic and complete your Health
 Plan</p>
-<p>•Helping you keep track of your annual Health Plan check-ins</p>
+</li>
+<li>
+<p>Helping you keep track of your annual Health Plan check-ins</p>
+</li>
+</ul>
 <p></p>
 <p>Your healthcare cluster is also partnering with <a href="https://www.aic.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Agency for Integrated Care (AIC)</u></a>,&nbsp;
 <a href="https://hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Health Promotion Board (HPB)</u>
