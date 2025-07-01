@@ -39,16 +39,40 @@ to go for.</p>
 </li>
 </ul>
 <h4>An Ecosystem of Support for Better Health</h4>
-<p>The three regional health clusters – <a href="https://corp.nhg.com.sg/" rel="noopener noreferrer nofollow" target="_blank">National Healthcare Group (NHG)</a>,
-<a href="https://www.nuhs.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">National University Health System (NUHS)</a>and <a href="https://www.singhealth.com.sg/" rel="noopener noreferrer nofollow" target="_blank">SingHealth</a>, are working towards
-developing an integrated health and social ecosystem within their region.</p>
-<p>Partner agencies such as the <a href="https://www.aic.sg/" rel="noopener noreferrer nofollow" target="_blank">Agency for Integrated Care (AIC)</a>, <a href="https://hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Health Promotion Board (HPB)</a>,
-<a href="https://www.pa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">People’s Association (PA)</a>, <a href="https://www.myactivesg.com/" rel="noopener noreferrer nofollow" target="_blank">Sport Singapore</a> and other social
-and community partners will support you with your health goals.</p>
-<p>You have access to more physical and health-promoting activities best
-suited for your needs. Seniors can also approach the Active Ageing Centres
-for health activities and programmes recommended by their regional health
-clusters and their family doctor.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_Health_clusters.jpg">
+</div>
+<p>Under Healthier SG, the three regional healthcare clusters are continuing
+to develop an integrated health and social ecosystem within their region.</p>
+<p>From July 2025, you can expect to hear more from the healthcare clusters,
+such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guiding you through your health milestones</p>
+</li>
+<li>
+<p>Reminding you to visit your Healthier SG clinic and complete your Health
+Plan</p>
+</li>
+<li>
+<p>Helping you keep track of your annual Health Plan check-ins</p>
+</li>
+</ul>
+<p></p>
+<p>Your healthcare cluster is also partnering with <a href="https://www.aic.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Agency for Integrated Care (AIC)</u></a>,&nbsp;
+<a href="https://hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Health Promotion Board (HPB)</u>
+</a>,&nbsp;<a href="https://www.onepa.gov.sg/healthier-sg" rel="noopener noreferrer nofollow" target="_blank"><u>People’s Association (PA)</u></a>,&nbsp;
+<a href="https://www.activesgcircle.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Sport Singapore</u>
+</a>, and the <a href="https://www.aic.sg/care-services/active-ageing-centres/" rel="noopener noreferrer nofollow" target="_blank">Active Ageing Centres (AACs) </a>and
+other social and community organisations near you. This is so that you
+have access to more physical and health-promoting activities suited to
+your needs and interests.</p>
+<p></p>
+<p>What’s new for you:</p>
+<p>•Direct communications from your healthcare cluster</p>
+<p>•Localised health programmes in your neighbourhood</p>
+<p>•Dedicated support to help you stay on track with your health journey</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lg_LF-VcGn4"></iframe>
 </div>
