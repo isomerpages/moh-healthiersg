@@ -40,7 +40,7 @@ to go for.</p>
 </ul>
 <h4>An Ecosystem of Support for Better Health</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_Health_clusters.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_Health_clusters_new.png">
 </div>
 <p>Under Healthier SG, the three regional healthcare clusters are continuing
 to develop an integrated health and social ecosystem within their region.</p>
