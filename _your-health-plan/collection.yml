@@ -1,0 +1,4 @@
+collections:
+  your-health-plan:
+    output: true
+    order: []
