@@ -59,7 +59,7 @@ can do to stay healthy or manage your chronic condition(s).</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>You need to</p>
-<p>○ Enrol in <u>Healthier SG</u>
+<p>○ Enrol in <a href="https://for.sg/healthhubhsg" rel="noopener nofollow" target="_blank">Healthier SG</a>
 </p>
 <p>○ Download the Healthhub app on your mobile device and enter the Healthier
 SG module in the app to:</p>
