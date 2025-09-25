@@ -4,11 +4,13 @@ links:
     collection: about
   - title: Enrolment
     collection: enrolment
+  - title: Your Health Plan
+    collection: your-health-plan
   - title: FAQs
     url: https://ask.gov.sg/healthiersg
+  - title: Healthy 365
+    url: https://www.healthhub.sg/programmes/197/healthyliving?utm_source=content-partners&utm_medium=referral&utm_campaign=ip-h365&utm_content=hsg-website
   - title: Resources
     resource_room: true
   - title: HealthHub
     url: https://www.healthhub.sg/
-  - title: Healthy 365
-    url: https://www.healthhub.sg/programmes/197/healthyliving?utm_source=content-partners&utm_medium=referral&utm_campaign=ip-h365&utm_content=hsg-website
