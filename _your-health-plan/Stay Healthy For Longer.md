@@ -10,8 +10,7 @@ your doctor. It includes steps you can take to stay healthy or manage your
 chronic condition(s), and Healthier SG screening tests and vaccinations
 that are recommended for you. After your first Health Plan consultation,
 your doctor will review your Health Plan at annual check-ins.</p>
-<p>You can easily view your Health Plan on HealthHub. You will be able to
-see:</p>
+<p>You can easily view your Health Plan on <a href="https://for.sg/healthhubhsg" rel="noopener nofollow" target="_blank">HealthHub</a>. You will be able to see:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Details of your discussion with your Healthier SG doctor</p>
@@ -156,5 +155,9 @@ goals, such as exercising or trying healthier recipes together</p>
 </ul>
 <p>Remember to share what you have accomplished with your Healthier SG doctor
 at your next Health Plan check-in!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Resident Service Journey Infographic" src="/images/Resident_Service_Journey_Infographic.png">
+</div>
 <p></p>
 <p></p>
