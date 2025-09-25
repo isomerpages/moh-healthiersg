@@ -2,5 +2,6 @@ collections:
   your-health-plan:
     output: true
     order:
+      - Community Programmes For You.md
       - Stay Healthy For Longer.md
       - Detect Health Issues Early.md
