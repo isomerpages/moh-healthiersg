@@ -2,4 +2,5 @@ collections:
   your-health-plan:
     output: true
     order:
+      - Detect Health Issues Early.md
       - Stay Healthy For Longer.md
