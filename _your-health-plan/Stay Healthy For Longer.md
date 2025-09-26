@@ -61,7 +61,7 @@ can do to stay healthy or manage your chronic condition(s).</p>
 <p>You need to</p>
 <p>○ Enrol in <a href="https://for.sg/healthhubhsg" rel="noopener nofollow" target="_blank">Healthier SG</a>
 </p>
-<p>○ Download the Healthhub app on your mobile device and enter the Healthier
+<p>○ Download the HealthHub app on your mobile device and enter the Healthier
 SG module in the app to:</p>
 <ul data-tight="true" class="tight">
 <li>
