@@ -57,11 +57,12 @@ your screening results and provide appropriate follow-up care</p>
 and National Adult Immunisation Schedule apply.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NAIS_table_Sept_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NEW_NAIS_table_Sept_2025.png">
 </div>
 <p>To check eligibility for vaccinations, please click&nbsp;<a href="https://www.healthhub.sg/vaccinate" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screening_table_Sept_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NEW_Screening_table_Sept_2025.png">
 </div>
 <p>To check eligibility for screening, please click&nbsp;<a href="http://www.healthiersg-screening.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
 </p>
