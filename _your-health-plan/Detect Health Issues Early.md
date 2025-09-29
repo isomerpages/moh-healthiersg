@@ -38,7 +38,7 @@ of life</p>
 </li>
 </ul>
 <hr>
-<h2><strong>Your Personalised Health Plan</strong></h2>
+<h2><strong>Your personalised Health Plan</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Receive recommended Healthier SG screening tests and vaccinations based
