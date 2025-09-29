@@ -23,14 +23,14 @@ you</p>
 <p>Diet and exercise recommendations with supporting resources</p>
 </li>
 </ul>
-<p>Your Health Plan updates as you progress throughout your Healthier SG
-journey, even if you enrol to a different Healthier SG clinic.</p>
+<p>Your Health Plan gets updated as you progress in your Healthier SG journey,
+even if you enrol in a different Healthier SG clinic.</p>
 <hr>
 <h2><strong>Your Health Plan consultations and annual check-ins are fully subsidised</strong></h2>
 <p>Your first Health Plan consultation and subsequent annual check-ins with
 your Healthier SG doctor are fully subsidised. You will also receive special
 subsidies for Healthier SG screening tests and vaccinations at your Healthier
-SG clinic (Singapore Citizens only).</p>
+SG clinic (for Singapore Citizens only).</p>
 <p>However, if you consult your doctor for treatment (e.g., for flu, abdominal
 pain), and agree to receive these services, the clinic’s prevailing charges
 will apply. Investigations performed that are not part of Healthier SG
