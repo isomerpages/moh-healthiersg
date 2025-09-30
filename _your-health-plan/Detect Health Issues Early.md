@@ -4,7 +4,7 @@ permalink: /detect-health-issues-early/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Why early detection matters</strong></h1>
+<h2><strong>Why early detection matters</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chronic conditions like diabetes, high cholesterol and high blood pressure
