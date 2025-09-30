@@ -20,7 +20,7 @@ better outcomes and good management of health conditions</p>
 </li>
 </ul>
 <hr>
-<h2><strong>Support throughout &nbsp;your health journey</strong></h2>
+<h2><strong>Support throughout&nbsp;your health journey</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Build a lasting relationship with your Healthier SG doctor who understands
@@ -55,12 +55,10 @@ your screening results and provide appropriate follow-up care</p>
 (for Singapore Citizens)</p>
 <p>*Prevailing eligibility criteria and guidelines of Healthier SG Screening
 and National Adult Immunisation Schedule apply.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NEW_NAIS_table_Sept_2025.png">
 </div>
 <p>To check eligibility for vaccinations, please click&nbsp;<a href="https://www.healthhub.sg/vaccinate" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NEW_Screening_table_Sept_2025.png">
 </div>
