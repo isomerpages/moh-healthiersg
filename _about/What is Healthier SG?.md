@@ -77,7 +77,7 @@ your needs and interests.</p>
 <iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lg_LF-VcGn4"></iframe>
 </div>
 <h4>Key Features of Healthier SG</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.healthiersg.gov.sg/detect-health-issues-early/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Choice to live healthier</div><div class="isomer-card-description">Take charge of your health with support at every step of your health journey.</div><div class="isomer-card-link">For more information</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.healthiersg.gov.sg/detect-health-issues-early/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">A healthier lifestyle</div><div class="isomer-card-description">Take charge of your health with support at every step of your health journey.</div><div class="isomer-card-link">For more information</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Strong patient-doctor relationships</div>
