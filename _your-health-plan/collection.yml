@@ -1,0 +1,7 @@
+collections:
+  your-health-plan:
+    output: true
+    order:
+      - Stay Healthy For Longer.md
+      - Detect Health Issues Early.md
+      - Community Programmes For You.md
