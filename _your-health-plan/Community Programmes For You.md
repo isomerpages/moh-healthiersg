@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Building healthier habits together</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Comm_prog_2.png">
+</div>
+<p></p>
 <p>Building healthier habits is easier with the right support and resources.
 Your Healthier SG doctor will recommend suitable activities, community
 programmes and lifestyle adjustments to help you sustain good health habits.</p>
