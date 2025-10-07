@@ -4,6 +4,10 @@ permalink: /detect-health-issues-early/
 variant: tiptap
 description: ""
 ---
+<h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/1_Detect_early_why_early_detection_matters_.png">
+</div>
 <h2><strong>Why early detection matters</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
@@ -19,7 +23,9 @@ better outcomes and good management of health conditions</p>
 <p>Stay protected against preventable diseases through recommended vaccinations</p>
 </li>
 </ul>
-<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2_Detect_early_Support_throughout_.png">
+</div>
 <h2><strong>Support throughout&nbsp;your health journey</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
@@ -37,7 +43,9 @@ you better understand and manage your health conditions through every stage
 of life</p>
 </li>
 </ul>
-<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/3_Detect_early_Personaised_healthplan_.png">
+</div>
 <h2><strong>Your personalised Health Plan</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,7 +57,6 @@ on your health needs and age group</p>
 your screening results and provide appropriate follow-up care</p>
 </li>
 </ul>
-<hr>
 <h2><strong>Subsidised Healthier SG screening tests and vaccinations</strong></h2>
 <p>Get special subsidies* for Healthier SG screening tests and vaccinations
 (for Singapore Citizens)</p>
