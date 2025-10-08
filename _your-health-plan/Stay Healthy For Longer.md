@@ -159,5 +159,8 @@ at your next Health Plan check-in!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Resident Service Journey Infographic" src="/images/Resident_Service_Journey_Infographic.png">
 </div>
-<p></p>
+<p>PDF version available in: <a href="https://www.healthiersg.gov.sg/files/MOH_HSG_Infographic_1_AUG_HIRES.pdf" rel="noopener nofollow" target="_blank">English</a>,
+<a href="https://www.healthiersg.gov.sg/files/MOH_HSG_Infographic_25_AUG_CN.pdf" rel="noopener nofollow" target="_blank">Chinese</a>, <a href="https://www.healthiersg.gov.sg/files/MOH_HSG_Infographic_25_AUG_ML.pdf" rel="noopener nofollow" target="_blank">Malay</a> and
+<a href="https://www.healthiersg.gov.sg/files/MOH_HSG_Infographic_25_AUG_HIRES_copy_TA.pdf" rel="noopener nofollow" target="_blank">Tamil</a>
+</p>
 <p></p>
