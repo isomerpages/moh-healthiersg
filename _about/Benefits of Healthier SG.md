@@ -83,7 +83,7 @@ Disease Management Programme (CDMP) at your enrolled clinic.</div>
 </div>
 </div>
 </div>
-<p>^ Your first <a href="https://www.healthiersg.gov.sg/your-health-plan/" rel="noopener nofollow" target="_blank">Health Plan</a> discussion
+<p>^ Your first <a href="https://www.healthiersg.gov.sg/stay-healthy-for-longer/" rel="noopener nofollow" target="_blank">Health Plan</a> discussion
 and annual check-in are fully subsidised. For services outside the scope
 of Healthier SG, prevailing fees will apply.</p>
 <p>*Prevailing eligibility criteria and guidelines of Healthier SG Screening
