@@ -5,28 +5,24 @@ description: ""
 variant: markdown
 ---
 ## A Healthier You Starts with a Healthy Diet ##
-![banner](/images/healthy%20eating/healthy%20eating%20banner.png)
 
 A balanced and nutritious diet is important for your overall health and well-being. Here are some tips to kickstart your healthy eating journey.  
-### Shop for healthier food and drink options ###
 
-![shop](/images/Healthy%20Eating/shopping.jpeg)
+### Shop for healthier food and drink options ###
 
 Use the Healthier Choice Symbol (HCS) and Nutri-Grade mark as a guide to purchase healthier food and drink options during your next grocery run. 
 
 Products with the HCS symbol are usually higher in dietary fibre, calcium, and wholegrains, and lower in saturated fat, sodium, and sugar compared to similar products within the same food category. 
 
 The Nutri-Grade mark helps you identify healthier packaged drinks, from Grade A being the lowest in sugar and saturated fat content, to Grade D being the highest. These labels make it easier to find healthier choice products when we’re out shopping!
-### Reduce your salt intake 
 
-![salt](/images/Healthy%20Eating/salt.jpeg)
+### Reduce your salt intake 
 
 Did you know that 90% of Singaporeans are consuming too much salt, with an average intake of 9 grams a day? That’s almost double the World Health Organisation’s (WHO) recommended intake of 5 grams a day! 
 
 As a rule of thumb, stick to about 1 teaspoon of salt a day for better health. Choose fresh meat instead of processed foods such as sausages or luncheon meat, and opt for lower-sodium salt, and seasonings when cooking. Use ​​natural herbs, spices and aromatics like onion, chilli, parsley, and cinnamon to enhance the taste and aroma of your food so you can enjoy a delicious, and healthier version of your dish with less salt.
-### If you have to snack, snack smartly
 
-![snack](/images/Healthy%20Eating/snacks.jpeg)
+### If you have to snack, snack smartly
 
 We get it. Who doesn’t love a snack in between meals? 
   
@@ -35,7 +31,6 @@ If you have to do so, try swapping out high-calorie snacks for something more nu
 Practice mindful eating to avoid unnecessary snacking due to boredom, stress or habit. 
  
 ### Eat balanced meals 
-![quarter](/images/Healthy%20Eating/quarter.jpeg)
 
 We need to eat a wide variety of foods in the right amounts to meet our daily nutritional needs. 
 
