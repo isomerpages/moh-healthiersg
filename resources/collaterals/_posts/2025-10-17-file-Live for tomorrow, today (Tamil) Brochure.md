@@ -1,5 +1,5 @@
 ---
-title: Live for tomorrow, today (Tamli) Brochure
+title: Live for tomorrow, today (Tamil) Brochure
 date: 2025-10-17
 layout: file
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: Live for tomorrow, today (Mandarin) A3 Poster
+title: Live for tomorrow, today (Chinese) A3 Poster
 date: 2025-10-17
 layout: file
 description: ""
