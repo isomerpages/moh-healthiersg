@@ -2,9 +2,10 @@
 title: Active Ageing
 permalink: /health-tips/active-ageing/
 description: ""
+variant: markdown
 ---
 # Active ageing in your golden years # 
-  ![activeageing](/images/active%20ageing/seniors%20banner.png)
+
  
 Getting older does not mean you are past your prime. Embracing active ageing is one way to ensure a healthy and fulfilling life in your senior years. 
 
@@ -12,19 +13,13 @@ Here are some tips to keep active in your golden years.
 
 ## Get moving ## 
   
-  ![activeageing](/images/Active%20Ageing/getmoving.jpeg)
-
 It is no secret that keeping active is the key to good health and prevention of chronic diseases such as diabetes, high blood pressure and obesity. And the best part is you don’t actually have to pick up a strenuous sport to achieve these health benefits. If you are just starting out, try incorporating light activities into your daily routine such as walking more, taking the stairs or cycling instead of taking the public transport. 
   
 ## Join a workout class ##
-
-  ![activeageing](/images/Active%20Ageing/workout.jpeg)
  
 Finding the time and motivation to exercise might be a struggle for some, especially if you’re just starting out. Joining a workout class might help! The support of trainers and camaraderie from fellow participants may just give you the extra boost you need. On top of that, having a regular class schedule can help you stay consistent with your routine. Beyond keeping fit, joining a class also allows you to make new friends and stay socially engaged.
 
 ## Keeping mentally engaged ##
-
-  ![activeageing](/images/Active%20Ageing/mental.jpeg)
 
 Active ageing does not just refer to keeping physically active. Keeping the mind active is just as important. 
  
