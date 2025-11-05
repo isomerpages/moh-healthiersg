@@ -1,6 +1,6 @@
 ---
 title: Live for tomorrow, today (Chinese) Brochure
-date: 2025-10-17
+date: 2025-11-05
 layout: file
 description: ""
 image: ""
