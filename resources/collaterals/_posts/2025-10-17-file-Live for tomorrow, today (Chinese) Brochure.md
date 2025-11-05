@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/P0934191_MOH_HSG_Brochure_CN_FA_Aug_2025_revision.pdf
+file_url: /files/1P0934191_MOH_HSG_Brochure_CN_FA_Nov_2025.pdf
 ---
