@@ -2,6 +2,7 @@
 title: For Caregivers
 permalink: /enrolment/caregivers/
 description: ""
+variant: markdown
 ---
 ### If you're a caregiver, here's how you can assist your family members to enrol in Healthier SG!
 
@@ -23,4 +24,4 @@ After it has been added successfully, you can view your care recipient’s user 
 
  ![guide](/images/guide/slide5.png) 
  
-For more information on how to add a caregiver and control your caregiver’s access to your health records, please refer to the HealthHub FAQs [here](https://www.healthhub.sg/faqs).
+For more information on how to add a caregiver and control your caregiver’s access to your health records, please refer to the HealthHub FAQs [here](https://ddei5-0-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fsupport.healthhub.sg%2fhc%2fen%2dus%2fcategories%2f15435095166489%2dCaregiver%2dAccess&umid=37E67708-4AE8-4806-8924-2773407BC30D&auth=d4a022de4fa71b6d10c50609f2626ca32dd9d36f-e850b02767e4c9085e7e27c22372d0cab67c31f6).

@@ -2,6 +2,7 @@
 title: How To Add A Caregiver In HealthHub?
 permalink: /enrolment/addcaregiver/
 description: ""
+variant: markdown
 ---
 You can grant access to your family members or loved ones to assist you with your enrolment by adding them as your caregiver in HealthHub and enabling permission to manage Healthier SG on your behalf. You may access the HealthHub app by using your caregiver’s smartphone. Your caregiver can then add you as a care recipient to view your health records and manage your e-Services on HealthHub.
 
@@ -22,4 +23,4 @@ Once your caregiver has successfully added you as a care recipient, your user pr
 
 Alternatively, you may enrol in Healthier SG by accessing the [HealthHub web portal](https://www.healthhub.sg) on a computer or mobile device and logging in with your Singpass. 
 
-HealthHub FAQs can be found [here](https://www.healthhub.sg/faqs).
+HealthHub FAQs can be found [here](https://ddei5-0-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fsupport.healthhub.sg%2fhc%2fen%2dus%2fcategories%2f15435095166489%2dCaregiver%2dAccess&umid=37E67708-4AE8-4806-8924-2773407BC30D&auth=d4a022de4fa71b6d10c50609f2626ca32dd9d36f-e850b02767e4c9085e7e27c22372d0cab67c31f6).
