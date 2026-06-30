@@ -31,11 +31,45 @@ even if you enrol in a different Healthier SG clinic.</p>
 your Healthier SG doctor are fully subsidised. You will also receive special
 subsidies for Healthier SG screening tests and vaccinations at your Healthier
 SG clinic (for Singapore Citizens only).</p>
+<p>Annual Health Plan check-ins allow your doctor to review your health and
+update your Health Plan to support your health goals. Even if you feel
+well, attending these regular check-ins is an important habit that helps
+detect health issues early and keeps you on track with your health goals.</p>
+<p></p>
+<p>To support enrollees in building this habit, you will receive $20 worth
+of Healthpoints after completing your first Health Plan consultation. You
+can also receive a one-off $10 worth of Healthpoints when you attend your
+in-person Annual Health Plan check-in and view your Health Plan on HealthHub*.
+Your Health Plan includes tools such as reminders for screening tests and
+vaccinations, and a new AI<sup>#</sup> feature that generates personalised
+exercise plans.*</p>
+<p></p>
+<p><em>Find out how to qualify for the one-time $10 Healthpoints reward <a href="" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
+</p>
+<p></p>
 <p>However, if you consult your doctor for treatment (e.g., for flu, abdominal
 pain), and agree to receive these services, the clinic’s prevailing charges
 will apply. Investigations performed that are not part of Healthier SG
 screening tests and vaccinations will be charged at the clinic's prevailing
 rates (e.g., blood tests to monitor chronic condition(s)).</p>
+<p></p>
+<p>* <em>Eligible Healthier SG enrollees must:</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Complete an in-person annual Health Plan check-in; and</em>
+</p>
+</li>
+<li>
+<p><em>View their Health Plan on HealthHub app after the check-in</em>
+</p>
+</li>
+</ul>
+<p><em>Qualifying period: 1 July 2026 - December 2029</em>
+</p>
+<p></p>
+<p><em><sup>#</sup> For enrollees aged 40 – 64 years old who are generally well and have a Health Plan. Available through Healthier SG module on HealthHub</em>
+</p>
 <hr>
 <h2><strong>Creating your Health Plan at your first Health Plan consultation</strong></h2>
 <p>At your first Health Plan consultation, your doctor will create your Health
