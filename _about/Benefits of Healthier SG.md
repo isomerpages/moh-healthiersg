@@ -27,7 +27,7 @@ can take for yourself.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gAuP1xaQ0Kw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gAuP1xaQ0Kw"></iframe>
 </div>
 <h3>Benefits of enrolling in Healthier SG:</h3>
 <p></p>
@@ -55,13 +55,15 @@ clinic.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">$20 worth of Healthpoints</div>
-<div class="isomer-card-description">Earn $20 worth of Healthpoints after your first Health Plan consultation.</div>
+<div class="isomer-card-description">Earn $20 worth of Healthpoints after your first Health Plan consultation.
+Also receive a one off $10 worth of Healthpoints when you attend your annual
+Health Plan check-in and view your Health Plan on HealthHub. *</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Subsidised screening tests and vaccinations</div>
-<div class="isomer-card-description">Get special subsidies* for Healthier SG screening tests and vaccinations
+<div class="isomer-card-description">Get special subsidies** for Healthier SG screening tests and vaccinations
 (for Singapore Citizens)</div>
 </div>
 </div>
@@ -86,7 +88,21 @@ Disease Management Programme (CDMP) at your enrolled clinic.</div>
 <p>^ Your first <a href="https://www.healthiersg.gov.sg/stay-healthy-for-longer/" rel="noopener nofollow" target="_blank">Health Plan</a> discussion
 and annual check-in are fully subsidised. For services outside the scope
 of Healthier SG, prevailing fees will apply.</p>
-<p>*Prevailing eligibility criteria and guidelines of Healthier SG Screening
+<p></p>
+<p>* Eligible Healthier SG enrollees must:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Complete an in-person annual Health Plan check-in; and</p>
+</li>
+<li>
+<p>View their Health Plan on HealthHub after the check-in</p>
+</li>
+<li>
+<p>Qualifying period: 1 July 2026 – 31 December 2029</p>
+<p></p>
+</li>
+</ul>
+<p>**Prevailing eligibility criteria and guidelines of Healthier SG Screening
 and National Adult Immunisation Schedule apply.</p>
 <p>To check eligibility for screening, please click&nbsp;<a href="http://www.healthiersg-screening.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
