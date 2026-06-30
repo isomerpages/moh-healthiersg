@@ -64,11 +64,9 @@ rates (e.g., blood tests to monitor chronic condition(s)).</p>
 <p><em>View their Health Plan on HealthHub app after the check-in</em>
 </p>
 </li>
-<li>
+</ul>
 <p><em>Qualifying period: 1 July 2026 - December 2029</em>
 </p>
-</li>
-</ul>
 <p></p>
 <p><em><sup>#</sup> For enrollees aged 40 – 64 years old who are generally well and have a Health Plan. Available through Healthier SG module on HealthHub</em>
 </p>
