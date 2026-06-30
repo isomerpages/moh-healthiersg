@@ -44,7 +44,7 @@ Your Health Plan includes tools such as reminders for screening tests and
 vaccinations, and a new AI<sup>#</sup> feature that generates personalised
 exercise plans.*</p>
 <p></p>
-<p><em>Find out how to qualify for the one-time $10 Healthpoints reward <a href="" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
+<p><em>Find out how to qualify for the one-time $10 Healthpoints reward <a href="https://ask.gov.sg/healthiersg/questions/cmr0pcxns00rh4401xmssxzxi?from=search" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
 </p>
 <p></p>
 <p>However, if you consult your doctor for treatment (e.g., for flu, abdominal
