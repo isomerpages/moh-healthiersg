@@ -118,7 +118,7 @@ variant: markdown
 
 (H)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          引导政策制定和规划，以改善该报名者的整体健康状况; 以及
 
-(I)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  通过网站或移动应用程序，使用生成式人工智能为该报名者生成健康、运动和保健建议，以支持该计划,
+(I)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  通过网站或移动应用程序，使用生成式人工智能为该报名者生成健康、运动和保健建议，以支持该计划,
 
 
 (统称为“**用途**”)。
