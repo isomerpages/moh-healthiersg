@@ -88,13 +88,15 @@ Click here for [Chinese](/enrolment/enrolment-terms/cn/), [Malay](/enrolment/enr
 
 (3)           the Government of the Republic of Singapore;  
 
-(4)           the statutory boards supporting the Programme (the “**Participating Statutory Boards**”;
+(4)           the statutory boards supporting the Programme (the “**Participating Statutory Boards**”);
 
 (5)           the community partners supporting the Programme, including persons operating Active Ageing Centres, persons participating in MOH’s Primary Care Network scheme, and AIC
 
-(6)           any person licensed under the Private Hospitals and Medical Clinics Act 1980 or Healthcare Services Act 2020 that provides healthcare services to that Enrolee; and
+(6)           any person licensed under the Healthcare Services Act 2020 that provides healthcare services to that Enrolee; 
 
-(7)           the authorised employees, agents and representatives of any person mentioned in any of sub-paragraphs (1) to (6),
+(7)           the authorised employees, agents and representatives of any person mentioned in any of sub-paragraphs (1) to (6); and
+
+(8)           any technology or digital platform service provider engaged to manage, operate or support the HealthHub or the delivery of the Programme or any Related Programme or Scheme (as defined below),
 
 (collectively, the “**Cooperating Parties**”),
 
@@ -112,9 +114,11 @@ for the following purposes:
 
 (F)           verifying, processing, and auditing any payments made in relation to the Programme in connection with that Enrolee, including any payment made between Cooperating Parties;
 
-(G)          verifying and auditing the compliance of Cooperating Parties in relation to any agreement entered into between them in connection with the Programme; and
+(G)          verifying and auditing the compliance of Cooperating Parties in relation to any agreement entered into between them in connection with the Programme; 
 
-(H)          guide policy and planning to improve the overall health of that Enrolee,
+(H)          guiding policy and planning to improve the overall health of that Enrolee; and
+
+(I)             generating health, exercise and wellness recommendations for that Enrolee using generative AI via the website or mobile application used to support the Programme
 
 (collectively, the “**Purposes**”).
 
