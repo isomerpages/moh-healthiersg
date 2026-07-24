@@ -91,9 +91,12 @@ variant: markdown
 
 (5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 支持该计划的社区伙伴，包括经营活跃乐龄中心的人员、参与卫生部基层医疗护理网络的人员以及护联中心
 
-(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 根据《1980年私立医院和诊疗所法令》或《2020年医疗服务法》获得许可为该登记者提供医疗服务的人员；以及
+(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 根据《2020年医疗保健服务法令》获得执照为该报名者提供医疗服务的人员；
 
-(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第 (1) 至 (6) 项中提到的任何人士的授权雇员、代理人和代表、
+(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第 (1) 至 (6) 项中提到的任何人士的授权雇员、代理人和代表、以及
+
+(8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        任何受委聘管理、运营或支持 HealthHub，或协助推行本计划或任何相关计划或方案（定义见下文）的科技或数码平台服务提供商，
+
 
 (统称为“**合作方**”）、
 
@@ -111,9 +114,12 @@ variant: markdown
 
 (F)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 核实、处理和审计任何与该登记者作出与本计划有关的付款，包括合作方之间的任何付款；
 
-(G)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 核实和审计合作方是否遵守与本计划有关的任何协议；以及
+(G)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          核实和审计合作方是否遵守与本计划有关的任何协议；
 
-(H)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 引导政策制定和规划，以改善该登记者的整体健康状况、
+(H)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          引导政策制定和规划，以改善该报名者的整体健康状况; 以及
+
+(I)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 通过网站或移动应用程序，使用生成式人工智能为该报名者生成健康、运动和保健建议，以支持该计划,
+
 
 (统称为“**用途**”)。
 
