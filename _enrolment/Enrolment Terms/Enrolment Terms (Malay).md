@@ -91,9 +91,12 @@ SILA AMBIL PERHATIAN BAHAWA PENDAFTARAN ANDA DI BAWAH SG YANG LEBIH SIHAT ADALAH
 
 (5)           rakan kongsi masyarakat yang menyokong Program ini, termasuk orang-orang yang mengendalikan Pusat-pusat Penuaan Aktif, orang yang mengambil bahagian dalam skim Rangkaian Penjagaan Asas MOH, dan AIC
 
-(6)           sesiapa yang diberi lesen di bawah Akta Hospital dan Klinik Perubatan Swasta 1980 atau Akta Perkhidmatan Jagaan Kesihatan 2020 yang menyediakan perkhidmatan penjagaan kesihatan kepada Orang yang Mendaftar itu; dan
+(6)           sesiapa yang diberi lesen di bawah Akta Perkhidmatan Jagaan Kesihatan 2020 yang menyediakan perkhidmatan penjagaan kesihatan kepada Orang yang Mendaftar itu; 
 
-(7)           pekerja yang diberi kuasa, ejen dan wakil mana-mana orang yang disebut dalam mana-mana perenggan kecil (1) hingga (6),
+(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           pekerja yang diberi kuasa, ejen dan wakil mana-mana orang yang disebut dalam mana-mana perenggan kecil (1) hingga (6), dan
+
+(8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mana-mana penyedia perkhidmatan teknologi atau platform digital yang dilantik untuk mengurus, mengendalikan atau menyokong HealthHub atau penyampaian Program atau mana-mana Program atau Skim Berkaitan (seperti yang ditakrifkan di bawah), 
+
 
 (secara kolektif, “**Pihak yang Bekerjasama**”),
 
@@ -111,9 +114,12 @@ untuk tujuan berikut:
 
 (F)           mengesahkan, memproses dan mengaudit sebarang pembayaran yang dibuat berhubung dengan Program yang berkaitan dengan Orang yang Mendaftar berkenaan, termasuk sebarang pembayaran yang dibuat antara Pihak-Pihak yang Bekerjasama;
 
-(G)          mengesahkan dan mengaudit pematuhan Pihak-Pihak yang Bekerjasama berhubung dengan sebarang perjanjian yang dibuat di antara mereka berkaitan dengan Program ini; dan
+(G)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          mengesahkan dan mengaudit pematuhan Pihak-Pihak yang Bekerjasama berhubung dengan sebarang perjanjian yang dibuat di antara mereka berkaitan dengan Program ini; 
 
-(H)          membimbing dasar dan perancangan untuk meningkatkan kesihatan keseluruhan Orang yang Mendaftar itu,
+(H)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          membimbing dasar dan perancangan untuk meningkatkan kesihatan keseluruhan Orang yang Mendaftar itu, (secara kolektif, “Tujuan”); dan
+
+(I)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          menjana saranan kesihatan, senaman dan kesejahteraan untuk Orang yang Mendaftar itu menggunakan AI generatif melalui laman web atau aplikasi mudah alih yang digunakan untuk menyokong Program itu,
+
 
 (secara kolektif, "**Tujuan**").
 
