@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Enrolment Terms
 variant: markdown
 ---
-**最近更新****: 27 July 2026**
+**最近更新****: 27 Jul 2026**
 
 请注意，您注册加入健康SG，须遵守 [www.healthiersg.gov.sg/enrolment-terms] 中的注册条款（"ENROLMENT TERMS"）。本文件中的翻译仅供参考。如果注册条款与本文件中的翻译有任何不一致或歧义，应以注册条款为准。注册条款应视为您加入健康SG的正式依据。
 
