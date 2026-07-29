@@ -4,7 +4,7 @@ permalink: /enrolment/data-sharing/
 description: ""
 variant: markdown
 ---
-For Healthier SG to work, healthcare clusters (Singapore Health Services (SingHealth), National Healthcare Group (NHG) and National University Health System (NUHS)), family doctors, agencies and community partners will have to work more closely together to help you with your health needs and support you in leading healthier lives. 
+For Healthier SG to work, healthcare clusters (Singapore Health Services (SingHealth), National Healthcare Group (NHG) and National University Health System (NUHS), family doctors, agencies and community partners will have to work more closely together to help you with your health needs and support you in leading healthier lives. 
 
 To enable strong support for you, clusters and family doctors need to share your health data. For example, your family doctor will collect data from you to create your Health Plan, and to review your progress towards achieving your health goals during check-ins. Some data such as your name, address and contact number may be shared with agencies and community partners (e.g. Health Promotion Board and Agency for Integrated Care) when needed for outreach and support for you. Your cluster, family doctor, agencies and community partners will use the data to assess how they can best help you and may contact you to help with your follow-ups, including sharing suitable or targeted Healthier SG programmes and services that you can participate in to improve your health. 
 
