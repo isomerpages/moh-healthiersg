@@ -1,5 +1,5 @@
 ---
-title: Live for tomorrow, today (Malay) A3 Brochure
+title: Live for tomorrow, today (Malay) Brochure
 date: 2026-09-01
 layout: file
 description: ""

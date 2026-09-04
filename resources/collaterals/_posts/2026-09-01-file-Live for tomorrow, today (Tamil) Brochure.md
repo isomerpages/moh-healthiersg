@@ -1,5 +1,5 @@
 ---
-title: Live for tomorrow, today (Tamil) A3 Brochure
+title: Live for tomorrow, today (Tamil) Brochure
 date: 2026-09-01
 layout: file
 description: ""
